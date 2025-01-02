@@ -1,0 +1,67 @@
+2024-12-06 22:07:00,368 - INFO - Initializing WebDriver for Chrome
+2024-12-06 22:07:03,947 - INFO - Opening IRCTC homepage
+2024-12-06 22:07:15,206 - INFO - Homepage opened successfully
+2024-12-06 22:07:15,208 - INFO - Clicking on Login Button
+2024-12-06 22:07:18,111 - INFO - Entering username
+2024-12-06 22:07:18,601 - INFO - Entering password
+2024-12-06 22:07:19,048 - INFO - Handling CAPTCHA
+2024-12-06 22:07:19,698 - INFO - Extracted CAPTCHA text: A4ZJY
+2024-12-06 22:07:21,079 - ERROR - Error during login: Message: element click intercepted: Element <button _ngcontent-auj-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A6416CF5+28821]
+	(No symbol) [0x00007FF6A6383880]
+	(No symbol) [0x00007FF6A622578A]
+	(No symbol) [0x00007FF6A6280E8E]
+	(No symbol) [0x00007FF6A627E92C]
+	(No symbol) [0x00007FF6A627BAF6]
+	(No symbol) [0x00007FF6A627AA51]
+	(No symbol) [0x00007FF6A626CBA0]
+	(No symbol) [0x00007FF6A629F2FA]
+	(No symbol) [0x00007FF6A626C3F6]
+	(No symbol) [0x00007FF6A629F510]
+	(No symbol) [0x00007FF6A62BF412]
+	(No symbol) [0x00007FF6A629F0A3]
+	(No symbol) [0x00007FF6A626A778]
+	(No symbol) [0x00007FF6A626B8E1]
+	GetHandleVerifier [0x00007FF6A674FCED+3408013]
+	GetHandleVerifier [0x00007FF6A676745F+3504127]
+	GetHandleVerifier [0x00007FF6A675B63D+3455453]
+	GetHandleVerifier [0x00007FF6A64DBDFB+835995]
+	(No symbol) [0x00007FF6A638EB9F]
+	(No symbol) [0x00007FF6A638A854]
+	(No symbol) [0x00007FF6A638A9ED]
+	(No symbol) [0x00007FF6A637A1D9]
+	BaseThreadInitThunk [0x00007FFE5AA27374+20]
+	RtlUserThreadStart [0x00007FFE5B65CC91+33]
+
+2024-12-06 22:07:21,080 - ERROR - An unexpected error occurred: Message: element click intercepted: Element <button _ngcontent-auj-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A6416CF5+28821]
+	(No symbol) [0x00007FF6A6383880]
+	(No symbol) [0x00007FF6A622578A]
+	(No symbol) [0x00007FF6A6280E8E]
+	(No symbol) [0x00007FF6A627E92C]
+	(No symbol) [0x00007FF6A627BAF6]
+	(No symbol) [0x00007FF6A627AA51]
+	(No symbol) [0x00007FF6A626CBA0]
+	(No symbol) [0x00007FF6A629F2FA]
+	(No symbol) [0x00007FF6A626C3F6]
+	(No symbol) [0x00007FF6A629F510]
+	(No symbol) [0x00007FF6A62BF412]
+	(No symbol) [0x00007FF6A629F0A3]
+	(No symbol) [0x00007FF6A626A778]
+	(No symbol) [0x00007FF6A626B8E1]
+	GetHandleVerifier [0x00007FF6A674FCED+3408013]
+	GetHandleVerifier [0x00007FF6A676745F+3504127]
+	GetHandleVerifier [0x00007FF6A675B63D+3455453]
+	GetHandleVerifier [0x00007FF6A64DBDFB+835995]
+	(No symbol) [0x00007FF6A638EB9F]
+	(No symbol) [0x00007FF6A638A854]
+	(No symbol) [0x00007FF6A638A9ED]
+	(No symbol) [0x00007FF6A637A1D9]
+	BaseThreadInitThunk [0x00007FFE5AA27374+20]
+	RtlUserThreadStart [0x00007FFE5B65CC91+33]
+
+2024-12-06 22:07:26,093 - INFO - Closing the browser

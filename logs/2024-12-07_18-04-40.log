@@ -1,0 +1,52 @@
+2024-12-07 18:04:40,260 - INFO - Initializing WebDriver for Chrome
+2024-12-07 18:04:44,435 - INFO - Opening IRCTC homepage
+2024-12-07 18:04:53,049 - INFO - Homepage opened successfully
+2024-12-07 18:04:53,049 - INFO - Test Case 1 Passed
+2024-12-07 18:04:56,064 - INFO - Entering source station
+2024-12-07 18:04:57,735 - INFO - Entering destination station
+2024-12-07 18:04:59,003 - INFO - Entering journey date
+2024-12-07 18:04:59,646 - INFO - Selecting class of journey
+2024-12-07 18:05:00,630 - INFO - Checking concession checkbox
+2024-12-07 18:05:00,986 - INFO - Closing concession popup
+2024-12-07 18:05:01,356 - INFO - Finding trains
+2024-12-07 18:05:04,743 - INFO - Selecting train
+2024-12-07 18:05:07,944 - INFO - Find the Train Name
+2024-12-07 18:05:07,945 - INFO - Refreshing and selecting date
+2024-12-07 18:05:08,145 - INFO - refreshing done
+2024-12-07 18:05:10,160 - INFO - Selecting date for journey
+2024-12-07 18:05:10,375 - INFO - Selected date
+2024-12-07 18:05:10,375 - INFO - pressing book button
+2024-12-07 18:05:10,714 - INFO - pressed book button
+2024-12-07 18:05:13,792 - INFO - Entering username
+2024-12-07 18:05:16,100 - INFO - Entered username
+2024-12-07 18:05:16,100 - INFO - Entering password
+2024-12-07 18:05:18,419 - INFO - Entered password
+2024-12-07 18:05:18,419 - INFO - Handling CAPTCHA
+2024-12-07 18:05:19,177 - INFO - Extracted CAPTCHA text: KfhXgt
+2024-12-07 18:05:22,183 - INFO - Entering the passenger name
+2024-12-07 18:05:22,217 - ERROR - Failed to book train: Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder='Name']"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF637A36CF5+28821]
+	(No symbol) [0x00007FF6379A3880]
+	(No symbol) [0x00007FF63784578A]
+	(No symbol) [0x00007FF6378991BE]
+	(No symbol) [0x00007FF6378994AC]
+	(No symbol) [0x00007FF6378E2647]
+	(No symbol) [0x00007FF6378BF33F]
+	(No symbol) [0x00007FF6378DF412]
+	(No symbol) [0x00007FF6378BF0A3]
+	(No symbol) [0x00007FF63788A778]
+	(No symbol) [0x00007FF63788B8E1]
+	GetHandleVerifier [0x00007FF637D6FCED+3408013]
+	GetHandleVerifier [0x00007FF637D8745F+3504127]
+	GetHandleVerifier [0x00007FF637D7B63D+3455453]
+	GetHandleVerifier [0x00007FF637AFBDFB+835995]
+	(No symbol) [0x00007FF6379AEB9F]
+	(No symbol) [0x00007FF6379AA854]
+	(No symbol) [0x00007FF6379AA9ED]
+	(No symbol) [0x00007FF63799A1D9]
+	BaseThreadInitThunk [0x00007FFE15207374+20]
+	RtlUserThreadStart [0x00007FFE1625CC91+33]
+
+2024-12-07 18:05:27,230 - INFO - Closing the browser

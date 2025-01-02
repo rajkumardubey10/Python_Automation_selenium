@@ -1,0 +1,11 @@
+2024-12-06 22:03:10,126 - INFO - Initializing WebDriver for Chrome
+2024-12-06 22:03:13,742 - INFO - Opening IRCTC homepage
+2024-12-06 22:03:21,203 - INFO - Homepage opened successfully
+2024-12-06 22:03:21,203 - INFO - Entering source station
+2024-12-06 22:03:23,074 - INFO - Entering destination station
+2024-12-06 22:03:24,742 - INFO - Entering journey date
+2024-12-06 22:03:25,330 - INFO - Selecting class of journey
+2024-12-06 22:03:26,229 - INFO - Checking concession checkbox
+2024-12-06 22:03:26,625 - INFO - Closing concession popup
+2024-12-06 22:03:26,857 - INFO - Finding trains
+2024-12-06 22:03:32,208 - INFO - Closing the browser

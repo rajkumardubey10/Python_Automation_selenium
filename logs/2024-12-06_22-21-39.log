@@ -1,0 +1,75 @@
+2024-12-06 22:21:39,149 - INFO - Initializing WebDriver for Chrome
+2024-12-06 22:21:42,839 - INFO - Opening IRCTC homepage
+2024-12-06 22:21:51,116 - INFO - Homepage opened successfully
+2024-12-06 22:21:51,119 - INFO - Test Case 1 Passed
+2024-12-06 22:21:51,119 - INFO - Clicking on Login Button
+2024-12-06 22:21:55,667 - INFO - Entering username
+2024-12-06 22:21:57,989 - INFO - Entered username
+2024-12-06 22:21:57,989 - INFO - Entering password
+2024-12-06 22:22:00,454 - INFO - Entered password
+2024-12-06 22:22:00,454 - INFO - Handling CAPTCHA
+2024-12-06 22:22:01,556 - INFO - Extracted CAPTCHA text: uQY RtL
+2024-12-06 22:22:01,557 - INFO - Locating and entering Captcha
+2024-12-06 22:22:01,945 - INFO - Entered Captcha
+2024-12-06 22:22:05,071 - INFO - Login successful
+2024-12-06 22:22:05,071 - INFO - Test Case 2 Passed
+2024-12-06 22:22:05,072 - INFO - Entering source station
+2024-12-06 22:22:07,765 - ERROR - Error entering form details: Message: element click intercepted: Element <li role="option" class="ng-tns-c57-8 ui-autocomplete-list-item ui-corner-all ng-star-inserted" id="" style="">...</li> is not clickable at point (261, 388). Other element would receive the click: <input _ngcontent-kqf-c51="" type="text" formcontrolname="captcha" id="captcha" name="captcha" autocomplete="off" class="payment_tex ng-valid ng-dirty ng-touched" placeholder="Enter Captcha" data-gtm-form-interact-field-id="2">
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A6416CF5+28821]
+	(No symbol) [0x00007FF6A6383880]
+	(No symbol) [0x00007FF6A622578A]
+	(No symbol) [0x00007FF6A6280E8E]
+	(No symbol) [0x00007FF6A627E92C]
+	(No symbol) [0x00007FF6A627BAF6]
+	(No symbol) [0x00007FF6A627AA51]
+	(No symbol) [0x00007FF6A626CBA0]
+	(No symbol) [0x00007FF6A629F2FA]
+	(No symbol) [0x00007FF6A626C3F6]
+	(No symbol) [0x00007FF6A629F510]
+	(No symbol) [0x00007FF6A62BF412]
+	(No symbol) [0x00007FF6A629F0A3]
+	(No symbol) [0x00007FF6A626A778]
+	(No symbol) [0x00007FF6A626B8E1]
+	GetHandleVerifier [0x00007FF6A674FCED+3408013]
+	GetHandleVerifier [0x00007FF6A676745F+3504127]
+	GetHandleVerifier [0x00007FF6A675B63D+3455453]
+	GetHandleVerifier [0x00007FF6A64DBDFB+835995]
+	(No symbol) [0x00007FF6A638EB9F]
+	(No symbol) [0x00007FF6A638A854]
+	(No symbol) [0x00007FF6A638A9ED]
+	(No symbol) [0x00007FF6A637A1D9]
+	BaseThreadInitThunk [0x00007FFE5AA27374+20]
+	RtlUserThreadStart [0x00007FFE5B65CC91+33]
+
+2024-12-06 22:22:07,766 - ERROR - An unexpected error occurred: Message: element click intercepted: Element <li role="option" class="ng-tns-c57-8 ui-autocomplete-list-item ui-corner-all ng-star-inserted" id="" style="">...</li> is not clickable at point (261, 388). Other element would receive the click: <input _ngcontent-kqf-c51="" type="text" formcontrolname="captcha" id="captcha" name="captcha" autocomplete="off" class="payment_tex ng-valid ng-dirty ng-touched" placeholder="Enter Captcha" data-gtm-form-interact-field-id="2">
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A6416CF5+28821]
+	(No symbol) [0x00007FF6A6383880]
+	(No symbol) [0x00007FF6A622578A]
+	(No symbol) [0x00007FF6A6280E8E]
+	(No symbol) [0x00007FF6A627E92C]
+	(No symbol) [0x00007FF6A627BAF6]
+	(No symbol) [0x00007FF6A627AA51]
+	(No symbol) [0x00007FF6A626CBA0]
+	(No symbol) [0x00007FF6A629F2FA]
+	(No symbol) [0x00007FF6A626C3F6]
+	(No symbol) [0x00007FF6A629F510]
+	(No symbol) [0x00007FF6A62BF412]
+	(No symbol) [0x00007FF6A629F0A3]
+	(No symbol) [0x00007FF6A626A778]
+	(No symbol) [0x00007FF6A626B8E1]
+	GetHandleVerifier [0x00007FF6A674FCED+3408013]
+	GetHandleVerifier [0x00007FF6A676745F+3504127]
+	GetHandleVerifier [0x00007FF6A675B63D+3455453]
+	GetHandleVerifier [0x00007FF6A64DBDFB+835995]
+	(No symbol) [0x00007FF6A638EB9F]
+	(No symbol) [0x00007FF6A638A854]
+	(No symbol) [0x00007FF6A638A9ED]
+	(No symbol) [0x00007FF6A637A1D9]
+	BaseThreadInitThunk [0x00007FFE5AA27374+20]
+	RtlUserThreadStart [0x00007FFE5B65CC91+33]
+
+2024-12-06 22:22:12,777 - INFO - Closing the browser

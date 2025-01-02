@@ -1,0 +1,24 @@
+2024-12-07 14:55:33,128 - INFO - Initializing WebDriver for Chrome
+2024-12-07 14:55:36,856 - INFO - Opening IRCTC homepage
+2024-12-07 14:55:44,601 - INFO - Test Case 1 Passed
+2024-12-07 14:55:44,602 - INFO - Enter the source 
+2024-12-07 14:56:02,171 - INFO - Entered Source
+2024-12-07 14:56:02,171 - INFO - Enter the Destination 
+2024-12-07 14:56:03,443 - INFO - Entering the date
+2024-12-07 14:56:04,019 - INFO - Entered the date
+2024-12-07 14:56:04,019 - INFO - Waiting for class selection dropdown
+2024-12-07 14:56:04,490 - INFO - Selecting travel class
+2024-12-07 14:56:05,202 - INFO - Clicked Checkbox
+2024-12-07 14:56:05,203 - INFO - trying for closing popup window by ok
+2024-12-07 14:56:05,457 - INFO - closed popups
+2024-12-07 14:56:10,705 - INFO - Searching Train 
+2024-12-07 14:56:13,717 - INFO - Test Cases 3 passed
+2024-12-07 14:56:16,828 - INFO - Find the Train Name
+2024-12-07 14:56:16,828 - INFO - refreshing and checking available seats
+2024-12-07 14:56:17,010 - INFO - refreshing done
+2024-12-07 14:56:19,013 - INFO - Selecting date for journey
+2024-12-07 14:56:19,195 - INFO - Selected date
+2024-12-07 14:56:19,195 - INFO - pressing book button
+2024-12-07 14:56:19,531 - INFO - pressed book button
+2024-12-07 14:56:24,537 - INFO - Closing the browser
+2024-12-07 14:56:24,537 - INFO - -----------------------------$-------------------------$------------------------------------------

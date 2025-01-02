@@ -1,0 +1,56 @@
+2024-12-06 20:04:01,689 - INFO - Initializing WebDriver for Chrome
+2024-12-06 20:04:05,344 - INFO - Opening IRCTC homepage
+2024-12-06 20:04:17,084 - INFO - Test Case 1 Passed
+2024-12-06 20:04:17,084 - INFO - Clicking on Login Button
+2024-12-06 20:04:17,578 - INFO - Clicked on Login Button
+2024-12-06 20:04:18,807 - INFO - Locating and entering username
+2024-12-06 20:04:21,151 - INFO - Entered username
+2024-12-06 20:04:21,152 - INFO - Locating and entering password
+2024-12-06 20:04:24,168 - INFO - Entered password
+2024-12-06 20:04:24,168 - INFO - Finding the captcha code and storing in png file
+2024-12-06 20:04:24,216 - INFO - extracting the captcha code and saving in png file
+2024-12-06 20:04:24,386 - INFO - extracting the captcha code text
+2024-12-06 20:04:24,856 - INFO - extracted the captcha code text
+2024-12-06 20:04:24,857 - INFO - Locating and entering Captcha
+2024-12-06 20:04:25,226 - INFO - Entered Captcha
+2024-12-06 20:04:28,562 - INFO - Login Successfully !
+2024-12-06 20:04:28,562 - INFO - Test Case 2 Passed
+2024-12-06 20:04:28,563 - INFO - Enter the source 
+2024-12-06 20:04:30,273 - INFO - Entered Source
+2024-12-06 20:04:30,273 - INFO - Enter the Destination 
+2024-12-06 20:04:32,088 - INFO - Entered Destination
+2024-12-06 20:04:35,094 - INFO - Entering the date
+2024-12-06 20:04:35,676 - INFO - Entered the date
+2024-12-06 20:04:38,687 - INFO - Selecting the Class
+2024-12-06 20:04:39,153 - INFO - Entered the Class
+2024-12-06 20:04:39,587 - INFO - Clicked Checkbox
+2024-12-06 20:04:39,587 - INFO - trying for closing popup window by ok
+2024-12-06 20:04:39,868 - INFO - closed popups
+2024-12-06 20:04:43,225 - INFO - Test Cases 3 passed
+2024-12-06 20:04:43,256 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".col-xs-12 link"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A59B6CF5+28821]
+	(No symbol) [0x00007FF7A5923880]
+	(No symbol) [0x00007FF7A57C578A]
+	(No symbol) [0x00007FF7A58191BE]
+	(No symbol) [0x00007FF7A58194AC]
+	(No symbol) [0x00007FF7A5862647]
+	(No symbol) [0x00007FF7A583F33F]
+	(No symbol) [0x00007FF7A585F412]
+	(No symbol) [0x00007FF7A583F0A3]
+	(No symbol) [0x00007FF7A580A778]
+	(No symbol) [0x00007FF7A580B8E1]
+	GetHandleVerifier [0x00007FF7A5CEFCED+3408013]
+	GetHandleVerifier [0x00007FF7A5D0745F+3504127]
+	GetHandleVerifier [0x00007FF7A5CFB63D+3455453]
+	GetHandleVerifier [0x00007FF7A5A7BDFB+835995]
+	(No symbol) [0x00007FF7A592EB9F]
+	(No symbol) [0x00007FF7A592A854]
+	(No symbol) [0x00007FF7A592A9ED]
+	(No symbol) [0x00007FF7A591A1D9]
+	BaseThreadInitThunk [0x00007FFE403D7374+20]
+	RtlUserThreadStart [0x00007FFE414FCC91+33]
+
+2024-12-06 20:04:48,258 - INFO - Closing the browser
+2024-12-06 20:04:48,258 - INFO - -----------------------------$-------------------------$------------------------------------------

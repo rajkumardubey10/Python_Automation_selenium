@@ -1,0 +1,55 @@
+2024-12-06 12:20:00,175 - INFO - Initializing WebDriver for Chrome
+2024-12-06 12:20:03,840 - INFO - Opening IRCTC homepage
+2024-12-06 12:20:15,037 - INFO - Test Case 1 Passed
+2024-12-06 12:20:15,038 - INFO - Clicking on Login Button
+2024-12-06 12:20:16,963 - INFO - Clicked on Login Button
+2024-12-06 12:20:18,269 - INFO - Locating and entering username
+2024-12-06 12:20:20,592 - INFO - Entered username
+2024-12-06 12:20:20,593 - INFO - Locating and entering password
+2024-12-06 12:20:22,970 - INFO - Entered password
+2024-12-06 12:20:22,971 - INFO - Finding the captcha code and storing in png file
+2024-12-06 12:20:22,999 - INFO - extracting the captcha code and saving in png file
+2024-12-06 12:20:23,160 - INFO - extracting the captcha code text
+2024-12-06 12:20:23,640 - INFO - extracted the captcha code text
+2024-12-06 12:20:23,641 - INFO - Locating and entering Captcha
+2024-12-06 12:20:24,002 - INFO - Entered Captcha
+2024-12-06 12:20:27,467 - INFO - Login Successfully !
+2024-12-06 12:20:27,467 - INFO - Test Case 2 Passed
+2024-12-06 12:20:27,467 - INFO - Enter the source 
+2024-12-06 12:20:28,691 - INFO - Entered Source
+2024-12-06 12:20:28,691 - INFO - Enter the Destination 
+2024-12-06 12:20:29,374 - INFO - Entered Destination
+2024-12-06 12:20:29,374 - INFO - Entering the date
+2024-12-06 12:20:30,282 - ERROR - An error occurred: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF701736CF5+28821]
+	(No symbol) [0x00007FF7016A3880]
+	(No symbol) [0x00007FF70154578A]
+	(No symbol) [0x00007FF70154C2ED]
+	(No symbol) [0x00007FF70154EFCC]
+	(No symbol) [0x00007FF70154F09F]
+	(No symbol) [0x00007FF70159DFFF]
+	(No symbol) [0x00007FF70159BAF6]
+	(No symbol) [0x00007FF70159AA51]
+	(No symbol) [0x00007FF70158CD9B]
+	(No symbol) [0x00007FF7015BF2FA]
+	(No symbol) [0x00007FF70158C3F6]
+	(No symbol) [0x00007FF7015BF510]
+	(No symbol) [0x00007FF7015DF412]
+	(No symbol) [0x00007FF7015BF0A3]
+	(No symbol) [0x00007FF70158A778]
+	(No symbol) [0x00007FF70158B8E1]
+	GetHandleVerifier [0x00007FF701A6FCED+3408013]
+	GetHandleVerifier [0x00007FF701A8745F+3504127]
+	GetHandleVerifier [0x00007FF701A7B63D+3455453]
+	GetHandleVerifier [0x00007FF7017FBDFB+835995]
+	(No symbol) [0x00007FF7016AEB9F]
+	(No symbol) [0x00007FF7016AA854]
+	(No symbol) [0x00007FF7016AA9ED]
+	(No symbol) [0x00007FF70169A1D9]
+	BaseThreadInitThunk [0x00007FFDC2277374+20]
+	RtlUserThreadStart [0x00007FFDC259CC91+33]
+
+2024-12-06 12:20:40,294 - INFO - Closing the browser
+2024-12-06 12:20:40,296 - INFO - -----------------------------$-------------------------$------------------------------------------

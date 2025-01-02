@@ -1,0 +1,18 @@
+2024-12-06 12:53:38,853 - INFO - Initializing WebDriver for Chrome
+2024-12-06 12:53:42,347 - INFO - Opening IRCTC homepage
+2024-12-06 12:53:50,217 - INFO - Test Case 1 Passed
+2024-12-06 12:53:50,219 - INFO - Enter the source 
+2024-12-06 12:53:51,179 - INFO - Entered Source
+2024-12-06 12:53:51,179 - INFO - Enter the Destination 
+2024-12-06 12:53:52,033 - INFO - Entered Destination
+2024-12-06 12:53:52,033 - INFO - Entering the date
+2024-12-06 12:53:52,679 - INFO - Entered the date
+2024-12-06 12:53:52,679 - INFO - Selecting the Class
+2024-12-06 12:53:53,462 - INFO - Entered the Class
+2024-12-06 12:53:53,849 - INFO - Clicked Checkbox
+2024-12-06 12:53:53,850 - INFO - trying for closing popup window by ok
+2024-12-06 12:53:54,090 - INFO - closed popups
+2024-12-06 12:53:59,408 - INFO - Searching Train 
+2024-12-06 12:54:02,412 - INFO - Test Cases 3 passed
+2024-12-06 12:54:07,417 - INFO - Closing the browser
+2024-12-06 12:54:07,418 - INFO - -----------------------------$-------------------------$------------------------------------------

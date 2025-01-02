@@ -1,0 +1,56 @@
+2024-12-07 18:10:30,307 - INFO - Initializing WebDriver for Chrome
+2024-12-07 18:10:34,133 - INFO - Opening IRCTC homepage
+2024-12-07 18:10:41,634 - INFO - Homepage opened successfully
+2024-12-07 18:10:41,635 - INFO - Test Case 1 Passed
+2024-12-07 18:10:44,643 - INFO - Entering source station
+2024-12-07 18:10:46,506 - INFO - Entering destination station
+2024-12-07 18:10:47,721 - INFO - Entering journey date
+2024-12-07 18:10:48,375 - INFO - Selecting class of journey
+2024-12-07 18:10:49,217 - INFO - Checking concession checkbox
+2024-12-07 18:10:49,587 - INFO - Closing concession popup
+2024-12-07 18:10:49,897 - INFO - Finding trains
+2024-12-07 18:10:53,411 - INFO - Selecting train
+2024-12-07 18:10:56,662 - INFO - Find the Train Name
+2024-12-07 18:10:56,662 - INFO - Refreshing and selecting date
+2024-12-07 18:10:56,876 - INFO - refreshing done
+2024-12-07 18:10:58,886 - INFO - Selecting date for journey
+2024-12-07 18:10:59,136 - INFO - Selected date
+2024-12-07 18:10:59,136 - INFO - pressing book button
+2024-12-07 18:10:59,443 - INFO - pressed book button
+2024-12-07 18:11:02,531 - INFO - Entering username
+2024-12-07 18:11:04,833 - INFO - Entered username
+2024-12-07 18:11:04,833 - INFO - Entering password
+2024-12-07 18:11:07,148 - INFO - Entered password
+2024-12-07 18:11:07,149 - INFO - Handling CAPTCHA
+2024-12-07 18:11:07,789 - INFO - Extracted CAPTCHA text: Enter Captcha
+2024-12-07 18:11:07,790 - INFO - Locating and entering Captcha
+2024-12-07 18:11:08,120 - INFO - Entered Captcha
+2024-12-07 18:11:11,431 - INFO - Login successful
+2024-12-07 18:11:11,431 - INFO - Test Case 2 Passed
+2024-12-07 18:11:14,433 - INFO - Entering the passenger name
+2024-12-07 18:11:14,458 - ERROR - Failed to book train: Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder='Name']"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF637A36CF5+28821]
+	(No symbol) [0x00007FF6379A3880]
+	(No symbol) [0x00007FF63784578A]
+	(No symbol) [0x00007FF6378991BE]
+	(No symbol) [0x00007FF6378994AC]
+	(No symbol) [0x00007FF6378E2647]
+	(No symbol) [0x00007FF6378BF33F]
+	(No symbol) [0x00007FF6378DF412]
+	(No symbol) [0x00007FF6378BF0A3]
+	(No symbol) [0x00007FF63788A778]
+	(No symbol) [0x00007FF63788B8E1]
+	GetHandleVerifier [0x00007FF637D6FCED+3408013]
+	GetHandleVerifier [0x00007FF637D8745F+3504127]
+	GetHandleVerifier [0x00007FF637D7B63D+3455453]
+	GetHandleVerifier [0x00007FF637AFBDFB+835995]
+	(No symbol) [0x00007FF6379AEB9F]
+	(No symbol) [0x00007FF6379AA854]
+	(No symbol) [0x00007FF6379AA9ED]
+	(No symbol) [0x00007FF63799A1D9]
+	BaseThreadInitThunk [0x00007FFE15207374+20]
+	RtlUserThreadStart [0x00007FFE1625CC91+33]
+
+2024-12-07 18:11:19,459 - INFO - Closing the browser

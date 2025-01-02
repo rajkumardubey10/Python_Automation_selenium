@@ -1,0 +1,46 @@
+2024-12-06 12:34:06,560 - INFO - Initializing WebDriver for Chrome
+2024-12-06 12:34:10,107 - INFO - Opening IRCTC homepage
+2024-12-06 12:34:17,149 - INFO - Test Case 1 Passed
+2024-12-06 12:34:17,149 - INFO - Clicking on Login Button
+2024-12-06 12:34:17,806 - INFO - Clicked on Login Button
+2024-12-06 12:34:18,172 - INFO - Locating and entering username
+2024-12-06 12:34:20,467 - INFO - Entered username
+2024-12-06 12:34:20,468 - INFO - Locating and entering password
+2024-12-06 12:34:22,811 - INFO - Entered password
+2024-12-06 12:34:22,811 - INFO - Finding the captcha code and storing in png file
+2024-12-06 12:34:22,839 - INFO - extracting the captcha code and saving in png file
+2024-12-06 12:34:23,034 - INFO - extracting the captcha code text
+2024-12-06 12:34:23,476 - INFO - extracted the captcha code text
+2024-12-06 12:34:23,477 - INFO - Locating and entering Captcha
+2024-12-06 12:34:23,818 - INFO - Entered Captcha
+2024-12-06 12:34:27,967 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-yri-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF701736CF5+28821]
+	(No symbol) [0x00007FF7016A3880]
+	(No symbol) [0x00007FF70154578A]
+	(No symbol) [0x00007FF7015A0E8E]
+	(No symbol) [0x00007FF70159E92C]
+	(No symbol) [0x00007FF70159BAF6]
+	(No symbol) [0x00007FF70159AA51]
+	(No symbol) [0x00007FF70158CBA0]
+	(No symbol) [0x00007FF7015BF2FA]
+	(No symbol) [0x00007FF70158C3F6]
+	(No symbol) [0x00007FF7015BF510]
+	(No symbol) [0x00007FF7015DF412]
+	(No symbol) [0x00007FF7015BF0A3]
+	(No symbol) [0x00007FF70158A778]
+	(No symbol) [0x00007FF70158B8E1]
+	GetHandleVerifier [0x00007FF701A6FCED+3408013]
+	GetHandleVerifier [0x00007FF701A8745F+3504127]
+	GetHandleVerifier [0x00007FF701A7B63D+3455453]
+	GetHandleVerifier [0x00007FF7017FBDFB+835995]
+	(No symbol) [0x00007FF7016AEB9F]
+	(No symbol) [0x00007FF7016AA854]
+	(No symbol) [0x00007FF7016AA9ED]
+	(No symbol) [0x00007FF70169A1D9]
+	BaseThreadInitThunk [0x00007FFDC2277374+20]
+	RtlUserThreadStart [0x00007FFDC259CC91+33]
+
+2024-12-06 12:34:32,980 - INFO - Closing the browser
+2024-12-06 12:34:32,980 - INFO - -----------------------------$-------------------------$------------------------------------------

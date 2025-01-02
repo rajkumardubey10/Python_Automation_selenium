@@ -1,0 +1,55 @@
+2024-12-06 22:06:37,379 - INFO - Initializing WebDriver for Chrome
+2024-12-06 22:06:41,309 - INFO - Opening IRCTC homepage
+2024-12-06 22:06:42,646 - INFO - Homepage opened successfully
+2024-12-06 22:06:42,647 - INFO - Clicking on Login Button
+2024-12-06 22:06:42,688 - ERROR - Error during login: Message: no such element: Unable to locate element: {"method":"css selector","selector":".search_btn"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A6416CF5+28821]
+	(No symbol) [0x00007FF6A6383880]
+	(No symbol) [0x00007FF6A622578A]
+	(No symbol) [0x00007FF6A62791BE]
+	(No symbol) [0x00007FF6A62794AC]
+	(No symbol) [0x00007FF6A62C2647]
+	(No symbol) [0x00007FF6A629F33F]
+	(No symbol) [0x00007FF6A62BF412]
+	(No symbol) [0x00007FF6A629F0A3]
+	(No symbol) [0x00007FF6A626A778]
+	(No symbol) [0x00007FF6A626B8E1]
+	GetHandleVerifier [0x00007FF6A674FCED+3408013]
+	GetHandleVerifier [0x00007FF6A676745F+3504127]
+	GetHandleVerifier [0x00007FF6A675B63D+3455453]
+	GetHandleVerifier [0x00007FF6A64DBDFB+835995]
+	(No symbol) [0x00007FF6A638EB9F]
+	(No symbol) [0x00007FF6A638A854]
+	(No symbol) [0x00007FF6A638A9ED]
+	(No symbol) [0x00007FF6A637A1D9]
+	BaseThreadInitThunk [0x00007FFE5AA27374+20]
+	RtlUserThreadStart [0x00007FFE5B65CC91+33]
+
+2024-12-06 22:06:42,690 - ERROR - An unexpected error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".search_btn"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A6416CF5+28821]
+	(No symbol) [0x00007FF6A6383880]
+	(No symbol) [0x00007FF6A622578A]
+	(No symbol) [0x00007FF6A62791BE]
+	(No symbol) [0x00007FF6A62794AC]
+	(No symbol) [0x00007FF6A62C2647]
+	(No symbol) [0x00007FF6A629F33F]
+	(No symbol) [0x00007FF6A62BF412]
+	(No symbol) [0x00007FF6A629F0A3]
+	(No symbol) [0x00007FF6A626A778]
+	(No symbol) [0x00007FF6A626B8E1]
+	GetHandleVerifier [0x00007FF6A674FCED+3408013]
+	GetHandleVerifier [0x00007FF6A676745F+3504127]
+	GetHandleVerifier [0x00007FF6A675B63D+3455453]
+	GetHandleVerifier [0x00007FF6A64DBDFB+835995]
+	(No symbol) [0x00007FF6A638EB9F]
+	(No symbol) [0x00007FF6A638A854]
+	(No symbol) [0x00007FF6A638A9ED]
+	(No symbol) [0x00007FF6A637A1D9]
+	BaseThreadInitThunk [0x00007FFE5AA27374+20]
+	RtlUserThreadStart [0x00007FFE5B65CC91+33]
+
+2024-12-06 22:06:47,702 - INFO - Closing the browser

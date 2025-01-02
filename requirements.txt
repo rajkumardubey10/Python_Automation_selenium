@@ -1,0 +1,6 @@
+pandas
+selenium
+python-dotenv
+pytesseract
+pillow
+opencv-python

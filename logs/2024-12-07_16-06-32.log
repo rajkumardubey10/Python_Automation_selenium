@@ -1,0 +1,37 @@
+2024-12-07 16:06:32,082 - INFO - Initializing WebDriver for Chrome
+2024-12-07 16:06:35,917 - INFO - Opening IRCTC homepage
+2024-12-07 16:06:45,935 - INFO - Test Case 1 Passed
+2024-12-07 16:06:45,935 - INFO - Enter the source 
+2024-12-07 16:07:02,135 - INFO - Entered Source
+2024-12-07 16:07:02,135 - INFO - Enter the Destination 
+2024-12-07 16:07:03,328 - INFO - Entering the date
+2024-12-07 16:07:04,007 - INFO - Entered the date
+2024-12-07 16:07:04,007 - INFO - Waiting for class selection dropdown
+2024-12-07 16:07:04,304 - INFO - Selecting travel class
+2024-12-07 16:07:04,992 - INFO - Clicked Checkbox
+2024-12-07 16:07:04,992 - INFO - trying for closing popup window by ok
+2024-12-07 16:07:05,232 - INFO - closed popups
+2024-12-07 16:07:10,487 - INFO - Searching Train 
+2024-12-07 16:07:13,493 - INFO - Test Cases 3 passed
+2024-12-07 16:07:16,919 - INFO - Find the Train Name
+2024-12-07 16:07:16,919 - INFO - refreshing and checking available seats
+2024-12-07 16:07:17,100 - INFO - refreshing done
+2024-12-07 16:07:19,102 - INFO - Selecting date for journey
+2024-12-07 16:07:19,274 - INFO - Selected date
+2024-12-07 16:07:19,274 - INFO - pressing book button
+2024-12-07 16:07:19,858 - INFO - pressed book button
+2024-12-07 16:07:19,858 - INFO - Test Cases 4 passed
+2024-12-07 16:07:19,952 - INFO - Locating and entering username
+2024-12-07 16:07:22,214 - INFO - Entered username
+2024-12-07 16:07:22,214 - INFO - Locating and entering password
+2024-12-07 16:07:24,469 - INFO - Entered password
+2024-12-07 16:07:24,470 - INFO - Finding the captcha code and storing in png file
+2024-12-07 16:07:24,495 - INFO - extracting the captcha code and saving in png file
+2024-12-07 16:07:24,721 - INFO - extracting the captcha code text
+2024-12-07 16:07:25,240 - INFO - extracted the captcha code text
+2024-12-07 16:07:25,241 - INFO - Locating and entering Captcha
+2024-12-07 16:07:25,574 - INFO - Entered Captcha
+2024-12-07 16:07:30,882 - INFO - Login Successfully !
+2024-12-07 16:07:30,882 - INFO - Test Case 2 Passed
+2024-12-07 16:07:40,897 - INFO - Closing the browser
+2024-12-07 16:07:40,897 - INFO - -----------------------------$-------------------------$------------------------------------------

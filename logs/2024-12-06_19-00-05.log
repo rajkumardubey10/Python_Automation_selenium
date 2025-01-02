@@ -1,0 +1,39 @@
+2024-12-06 19:00:05,932 - INFO - Initializing WebDriver for Chrome
+2024-12-06 19:00:09,550 - INFO - Opening IRCTC homepage
+2024-12-06 19:00:22,134 - INFO - Test Case 1 Passed
+2024-12-06 19:00:22,135 - INFO - Enter the source 
+2024-12-06 19:00:23,107 - INFO - Entered Source
+2024-12-06 19:00:23,108 - INFO - Enter the Destination 
+2024-12-06 19:00:24,152 - INFO - Entered Destination
+2024-12-06 19:00:24,153 - INFO - Waiting for date picker and interacting with it
+2024-12-06 19:00:25,482 - ERROR - An error occurred: Message: element click intercepted: Element <span class="ng-tns-c58-10 ui-calendar">...</span> is not clickable at point (537, 312). Other element would receive the click: <span class="ui-confirmdialog-message ng-tns-c56-7">...</span>
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A59B6CF5+28821]
+	(No symbol) [0x00007FF7A5923880]
+	(No symbol) [0x00007FF7A57C578A]
+	(No symbol) [0x00007FF7A5820E8E]
+	(No symbol) [0x00007FF7A581E92C]
+	(No symbol) [0x00007FF7A581BAF6]
+	(No symbol) [0x00007FF7A581AA51]
+	(No symbol) [0x00007FF7A580CBA0]
+	(No symbol) [0x00007FF7A583F2FA]
+	(No symbol) [0x00007FF7A580C3F6]
+	(No symbol) [0x00007FF7A583F510]
+	(No symbol) [0x00007FF7A585F412]
+	(No symbol) [0x00007FF7A583F0A3]
+	(No symbol) [0x00007FF7A580A778]
+	(No symbol) [0x00007FF7A580B8E1]
+	GetHandleVerifier [0x00007FF7A5CEFCED+3408013]
+	GetHandleVerifier [0x00007FF7A5D0745F+3504127]
+	GetHandleVerifier [0x00007FF7A5CFB63D+3455453]
+	GetHandleVerifier [0x00007FF7A5A7BDFB+835995]
+	(No symbol) [0x00007FF7A592EB9F]
+	(No symbol) [0x00007FF7A592A854]
+	(No symbol) [0x00007FF7A592A9ED]
+	(No symbol) [0x00007FF7A591A1D9]
+	BaseThreadInitThunk [0x00007FFE403D7374+20]
+	RtlUserThreadStart [0x00007FFE414FCC91+33]
+
+2024-12-06 19:00:30,493 - INFO - Closing the browser
+2024-12-06 19:00:30,493 - INFO - -----------------------------$-------------------------$------------------------------------------

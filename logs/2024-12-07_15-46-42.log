@@ -1,0 +1,49 @@
+2024-12-07 15:46:42,629 - INFO - Initializing WebDriver for Chrome
+2024-12-07 15:46:46,250 - INFO - Opening IRCTC homepage
+2024-12-07 15:46:54,103 - INFO - Homepage opened successfully
+2024-12-07 15:46:54,103 - INFO - Test Case 1 Passed
+2024-12-07 15:46:54,103 - INFO - Entering source station
+2024-12-07 15:46:55,716 - INFO - Entering destination station
+2024-12-07 15:46:57,317 - INFO - Entering journey date
+2024-12-07 15:46:58,021 - INFO - Selecting class of journey
+2024-12-07 15:46:58,583 - INFO - Checking concession checkbox
+2024-12-07 15:46:58,962 - INFO - Closing concession popup
+2024-12-07 15:46:59,218 - INFO - Finding trains
+2024-12-07 15:46:59,707 - INFO - Selecting train
+2024-12-07 15:46:59,780 - ERROR - Failed to book train: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'train-heading')]//strong[contains(text(), 'LTT PATNA EXP (13202)')]"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7506CF5+28821]
+	(No symbol) [0x00007FF7A7473880]
+	(No symbol) [0x00007FF7A731578A]
+	(No symbol) [0x00007FF7A73691BE]
+	(No symbol) [0x00007FF7A73694AC]
+	(No symbol) [0x00007FF7A73B2647]
+	(No symbol) [0x00007FF7A738F33F]
+	(No symbol) [0x00007FF7A73AF412]
+	(No symbol) [0x00007FF7A738F0A3]
+	(No symbol) [0x00007FF7A735A778]
+	(No symbol) [0x00007FF7A735B8E1]
+	GetHandleVerifier [0x00007FF7A783FCED+3408013]
+	GetHandleVerifier [0x00007FF7A785745F+3504127]
+	GetHandleVerifier [0x00007FF7A784B63D+3455453]
+	GetHandleVerifier [0x00007FF7A75CBDFB+835995]
+	(No symbol) [0x00007FF7A747EB9F]
+	(No symbol) [0x00007FF7A747A854]
+	(No symbol) [0x00007FF7A747A9ED]
+	(No symbol) [0x00007FF7A746A1D9]
+	BaseThreadInitThunk [0x00007FFE15207374+20]
+	RtlUserThreadStart [0x00007FFE1625CC91+33]
+
+2024-12-07 15:46:59,780 - INFO - Clicking on Login Button
+2024-12-07 15:47:00,859 - INFO - Entering username
+2024-12-07 15:47:03,291 - INFO - Entered username
+2024-12-07 15:47:03,291 - INFO - Entering password
+2024-12-07 15:47:05,580 - INFO - Entered password
+2024-12-07 15:47:05,580 - INFO - Handling CAPTCHA
+2024-12-07 15:47:06,721 - INFO - Extracted CAPTCHA text: mE
+2024-12-07 15:47:06,722 - INFO - Locating and entering Captcha
+2024-12-07 15:47:06,919 - INFO - Entered Captcha
+2024-12-07 15:47:10,201 - INFO - Login successful
+2024-12-07 15:47:10,201 - INFO - Test Case 2 Passed
+2024-12-07 15:47:15,210 - INFO - Closing the browser

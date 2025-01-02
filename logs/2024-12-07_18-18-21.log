@@ -1,0 +1,40 @@
+2024-12-07 18:18:21,706 - INFO - Initializing WebDriver for Chrome
+2024-12-07 18:18:25,557 - INFO - Opening IRCTC homepage
+2024-12-07 18:18:32,715 - INFO - Homepage opened successfully
+2024-12-07 18:18:32,716 - INFO - Test Case 1 Passed
+2024-12-07 18:18:35,728 - INFO - Entering source station
+2024-12-07 18:18:37,130 - INFO - Entering destination station
+2024-12-07 18:18:38,351 - INFO - Entering journey date
+2024-12-07 18:18:38,919 - INFO - Selecting class of journey
+2024-12-07 18:18:39,553 - INFO - Checking concession checkbox
+2024-12-07 18:18:39,909 - INFO - Closing concession popup
+2024-12-07 18:18:40,139 - INFO - Finding trains
+2024-12-07 18:18:43,550 - INFO - Selecting train
+2024-12-07 18:18:47,237 - INFO - Find the Train Name
+2024-12-07 18:18:47,237 - INFO - Refreshing and selecting date
+2024-12-07 18:18:47,498 - INFO - refreshing done
+2024-12-07 18:18:49,502 - INFO - Selecting date for journey
+2024-12-07 18:18:49,785 - INFO - Selected date
+2024-12-07 18:18:49,786 - INFO - pressing book button
+2024-12-07 18:18:50,365 - INFO - pressed book button
+2024-12-07 18:18:53,445 - INFO - Entering username
+2024-12-07 18:18:55,741 - INFO - Entered username
+2024-12-07 18:18:55,741 - INFO - Entering password
+2024-12-07 18:18:58,088 - INFO - Entered password
+2024-12-07 18:18:58,088 - INFO - Handling CAPTCHA
+2024-12-07 18:18:58,827 - INFO - Extracted CAPTCHA text: bUZn
+2024-12-07 18:18:58,828 - INFO - Locating and entering Captcha
+2024-12-07 18:18:59,051 - INFO - Entered Captcha
+2024-12-07 18:19:02,360 - INFO - Login successful
+2024-12-07 18:19:02,361 - INFO - Test Case 2 Passed
+2024-12-07 18:19:05,367 - INFO - Entering the passenger name
+2024-12-07 18:19:07,608 - INFO - Entering Age
+2024-12-07 18:19:09,812 - INFO - Selecting Gender
+2024-12-07 18:19:11,987 - INFO - Selecting Berth preference
+2024-12-07 18:19:14,164 - INFO - Selecting concession
+2024-12-07 18:19:16,506 - INFO - Entering the UPN Number
+2024-12-07 18:19:16,745 - INFO - Entering the pass code
+2024-12-07 18:19:19,004 - INFO - Enabling the AutoUpgradation Ticket
+2024-12-07 18:19:21,286 - INFO - Payment mode through
+2024-12-07 18:19:23,509 - INFO - Confirming the Details
+2024-12-07 18:19:28,788 - INFO - Closing the browser

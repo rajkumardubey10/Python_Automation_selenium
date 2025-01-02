@@ -1,0 +1,30 @@
+2024-12-07 16:23:21,742 - INFO - Initializing WebDriver for Chrome
+2024-12-07 16:23:25,396 - INFO - Opening IRCTC homepage
+2024-12-07 16:23:38,237 - INFO - Homepage opened successfully
+2024-12-07 16:23:38,238 - INFO - Test Case 1 Passed
+2024-12-07 16:23:41,242 - INFO - Entering source station
+2024-12-07 16:23:42,937 - INFO - Entering destination station
+2024-12-07 16:23:44,432 - INFO - Entering journey date
+2024-12-07 16:23:45,031 - INFO - Selecting class of journey
+2024-12-07 16:23:45,594 - INFO - Checking concession checkbox
+2024-12-07 16:23:45,985 - INFO - Closing concession popup
+2024-12-07 16:23:46,228 - INFO - Finding trains
+2024-12-07 16:23:49,623 - INFO - Selecting train
+2024-12-07 16:23:52,793 - INFO - Find the Train Name
+2024-12-07 16:23:52,793 - INFO - Refreshing and selecting date
+2024-12-07 16:23:53,119 - INFO - refreshing done
+2024-12-07 16:23:55,133 - INFO - Selecting date for journey
+2024-12-07 16:23:55,376 - INFO - Selected date
+2024-12-07 16:23:55,376 - INFO - pressing book button
+2024-12-07 16:23:55,882 - INFO - pressed book button
+2024-12-07 16:23:58,941 - INFO - Entering username
+2024-12-07 16:24:01,204 - INFO - Entered username
+2024-12-07 16:24:01,204 - INFO - Entering password
+2024-12-07 16:24:03,495 - INFO - Entered password
+2024-12-07 16:24:03,495 - INFO - Handling CAPTCHA
+2024-12-07 16:24:04,113 - INFO - Extracted CAPTCHA text: G3Em
+2024-12-07 16:24:04,114 - INFO - Locating and entering Captcha
+2024-12-07 16:24:04,346 - INFO - Entered Captcha
+2024-12-07 16:24:07,607 - INFO - Login successful
+2024-12-07 16:24:07,607 - INFO - Test Case 2 Passed
+2024-12-07 16:24:12,613 - INFO - Closing the browser

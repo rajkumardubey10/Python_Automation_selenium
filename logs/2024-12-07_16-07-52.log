@@ -1,0 +1,42 @@
+2024-12-07 16:07:52,921 - INFO - Initializing WebDriver for Chrome
+2024-12-07 16:07:56,588 - INFO - Opening IRCTC homepage
+2024-12-07 16:08:04,056 - INFO - Test Case 1 Passed
+2024-12-07 16:08:04,057 - INFO - Enter the source 
+2024-12-07 16:08:20,175 - INFO - Entered Source
+2024-12-07 16:08:20,175 - INFO - Enter the Destination 
+2024-12-07 16:08:21,436 - INFO - Entering the date
+2024-12-07 16:08:22,092 - INFO - Entered the date
+2024-12-07 16:08:22,093 - INFO - Waiting for class selection dropdown
+2024-12-07 16:08:22,507 - INFO - Selecting travel class
+2024-12-07 16:08:23,172 - INFO - Clicked Checkbox
+2024-12-07 16:08:23,172 - INFO - trying for closing popup window by ok
+2024-12-07 16:08:23,403 - INFO - closed popups
+2024-12-07 16:08:28,650 - INFO - Searching Train 
+2024-12-07 16:08:31,664 - INFO - Test Cases 3 passed
+2024-12-07 16:08:31,693 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'train-heading')]//strong[contains(text(), 'LTT PATNA EXP (13202)')]"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7506CF5+28821]
+	(No symbol) [0x00007FF7A7473880]
+	(No symbol) [0x00007FF7A731578A]
+	(No symbol) [0x00007FF7A73691BE]
+	(No symbol) [0x00007FF7A73694AC]
+	(No symbol) [0x00007FF7A73B2647]
+	(No symbol) [0x00007FF7A738F33F]
+	(No symbol) [0x00007FF7A73AF412]
+	(No symbol) [0x00007FF7A738F0A3]
+	(No symbol) [0x00007FF7A735A778]
+	(No symbol) [0x00007FF7A735B8E1]
+	GetHandleVerifier [0x00007FF7A783FCED+3408013]
+	GetHandleVerifier [0x00007FF7A785745F+3504127]
+	GetHandleVerifier [0x00007FF7A784B63D+3455453]
+	GetHandleVerifier [0x00007FF7A75CBDFB+835995]
+	(No symbol) [0x00007FF7A747EB9F]
+	(No symbol) [0x00007FF7A747A854]
+	(No symbol) [0x00007FF7A747A9ED]
+	(No symbol) [0x00007FF7A746A1D9]
+	BaseThreadInitThunk [0x00007FFE15207374+20]
+	RtlUserThreadStart [0x00007FFE1625CC91+33]
+
+2024-12-07 16:08:36,707 - INFO - Closing the browser
+2024-12-07 16:08:36,707 - INFO - -----------------------------$-------------------------$------------------------------------------

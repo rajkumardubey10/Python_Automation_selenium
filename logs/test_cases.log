@@ -1,0 +1,2989 @@
+2024-12-01 16:46:01,181 - INFO - Initializing WebDriver for Chrome
+2024-12-01 16:46:05,269 - INFO - Opening IRCTC homepage
+2024-12-01 16:46:15,073 - INFO - Clicking on Login Button
+2024-12-01 16:46:15,527 - INFO - Clicked on Login Button
+2024-12-01 16:46:15,527 - INFO - Locating and entering username
+2024-12-01 16:46:17,977 - INFO - Entered username
+2024-12-01 16:46:17,977 - INFO - Locating and entering password
+2024-12-01 16:46:20,464 - INFO - Entered password
+2024-12-01 16:46:20,464 - INFO - Closing the browser
+2024-12-02 15:12:52,073 - INFO - Initializing WebDriver for Chrome
+2024-12-02 15:12:56,528 - INFO - Opening IRCTC homepage
+2024-12-02 15:13:04,672 - INFO - Test Case 1 Passed
+2024-12-02 15:13:04,673 - INFO - Clicking on Login Button
+2024-12-02 15:13:07,099 - INFO - Clicked on Login Button
+2024-12-02 15:13:08,099 - INFO - Locating and entering username
+2024-12-02 15:13:10,696 - INFO - Entered username
+2024-12-02 15:13:10,697 - INFO - Locating and entering password
+2024-12-02 15:13:13,010 - INFO - Entered password
+2024-12-02 15:13:13,010 - INFO - Finding the captcha code and storing in png file
+2024-12-02 15:13:13,039 - INFO - extracting the captcha code and saving in png file
+2024-12-02 15:13:13,171 - INFO - extracting the captcha code text
+2024-12-02 15:13:14,226 - INFO - extracted the captcha code text
+2024-12-02 15:13:14,226 - INFO - Locating and entering Captcha
+2024-12-02 15:13:14,658 - INFO - Entered Captcha
+2024-12-02 15:13:15,659 - INFO - Login Successfully !
+2024-12-02 15:13:15,659 - INFO - Test Case 2 Passed
+2024-12-02 15:13:15,659 - INFO - Closing the browser
+2024-12-02 21:19:16,488 - INFO - Initializing WebDriver for Chrome
+2024-12-02 21:19:33,207 - INFO - Opening IRCTC homepage
+2024-12-02 21:19:48,985 - INFO - Test Case 1 Passed
+2024-12-02 21:19:48,986 - INFO - Clicking on Login Button
+2024-12-02 21:19:49,695 - INFO - Clicked on Login Button
+2024-12-02 21:19:51,191 - INFO - Locating and entering username
+2024-12-02 21:19:53,709 - INFO - Entered username
+2024-12-02 21:19:53,710 - INFO - Locating and entering password
+2024-12-02 21:19:56,076 - INFO - Entered password
+2024-12-02 21:19:56,076 - INFO - Finding the captcha code and storing in png file
+2024-12-02 21:19:56,112 - INFO - extracting the captcha code and saving in png file
+2024-12-02 21:19:56,256 - INFO - extracting the captcha code text
+2024-12-02 21:19:57,214 - INFO - extracted the captcha code text
+2024-12-02 21:19:57,216 - INFO - Locating and entering Captcha
+2024-12-02 21:19:57,519 - INFO - Entered Captcha
+2024-12-02 21:19:58,819 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-fpd-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA530E8E]
+	(No symbol) [0x00007FF7FA52E92C]
+	(No symbol) [0x00007FF7FA52BAF6]
+	(No symbol) [0x00007FF7FA52AA51]
+	(No symbol) [0x00007FF7FA51CBA0]
+	(No symbol) [0x00007FF7FA54F2FA]
+	(No symbol) [0x00007FF7FA51C3F6]
+	(No symbol) [0x00007FF7FA54F510]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 21:19:58,820 - INFO - Closing the browser
+2024-12-02 21:19:58,820 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 21:21:46,751 - INFO - Initializing WebDriver for Chrome
+2024-12-02 21:21:50,362 - INFO - Opening IRCTC homepage
+2024-12-02 21:22:17,543 - INFO - Test Case 1 Passed
+2024-12-02 21:22:17,544 - INFO - Clicking on Login Button
+2024-12-02 21:22:17,594 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".search_btn"}
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA5291BE]
+	(No symbol) [0x00007FF7FA5294AC]
+	(No symbol) [0x00007FF7FA572647]
+	(No symbol) [0x00007FF7FA54F33F]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 21:22:17,595 - INFO - Closing the browser
+2024-12-02 21:22:17,595 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 21:22:53,359 - INFO - Initializing WebDriver for Chrome
+2024-12-02 21:22:56,883 - INFO - Opening IRCTC homepage
+2024-12-02 21:22:57,370 - INFO - Test Case 1 Passed
+2024-12-02 21:22:57,371 - INFO - Clicking on Login Button
+2024-12-02 21:23:11,652 - INFO - Clicked on Login Button
+2024-12-02 21:23:12,786 - INFO - Locating and entering username
+2024-12-02 21:23:15,064 - INFO - Entered username
+2024-12-02 21:23:15,065 - INFO - Locating and entering password
+2024-12-02 21:23:17,391 - INFO - Entered password
+2024-12-02 21:23:17,391 - INFO - Finding the captcha code and storing in png file
+2024-12-02 21:23:17,419 - INFO - extracting the captcha code and saving in png file
+2024-12-02 21:23:17,550 - INFO - extracting the captcha code text
+2024-12-02 21:23:18,098 - INFO - extracted the captcha code text
+2024-12-02 21:23:18,099 - INFO - Locating and entering Captcha
+2024-12-02 21:23:18,435 - INFO - Entered Captcha
+2024-12-02 21:23:19,216 - INFO - Login Successfully !
+2024-12-02 21:23:19,216 - INFO - Test Case 2 Passed
+2024-12-02 21:23:19,216 - INFO - Enter the source 
+2024-12-02 21:23:19,612 - INFO - Entered Source
+2024-12-02 21:23:19,613 - INFO - Enter the Destination 
+2024-12-02 21:23:20,344 - INFO - Entered Destination
+2024-12-02 21:23:20,344 - INFO - Entering the date
+2024-12-02 21:23:20,954 - INFO - Entered the date
+2024-12-02 21:23:20,955 - INFO - Selecting the Class
+2024-12-02 21:23:21,641 - INFO - Entered the Class
+2024-12-02 21:23:21,668 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="divMain"]/div/app-main-page/div/div/div[1]/div[1]/div[1]/app-jp-input/div/form/div[4]/div/span[4]/label"}
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA5291BE]
+	(No symbol) [0x00007FF7FA5294AC]
+	(No symbol) [0x00007FF7FA572647]
+	(No symbol) [0x00007FF7FA54F33F]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 21:23:21,668 - INFO - Closing the browser
+2024-12-02 21:23:21,668 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 21:28:03,737 - INFO - Initializing WebDriver for Chrome
+2024-12-02 21:28:07,369 - INFO - Opening IRCTC homepage
+2024-12-02 21:28:20,818 - INFO - Test Case 1 Passed
+2024-12-02 21:28:20,819 - INFO - Clicking on Login Button
+2024-12-02 21:28:21,522 - INFO - Clicked on Login Button
+2024-12-02 21:28:22,354 - INFO - Locating and entering username
+2024-12-02 21:28:24,853 - INFO - Entered username
+2024-12-02 21:28:24,853 - INFO - Locating and entering password
+2024-12-02 21:28:27,152 - INFO - Entered password
+2024-12-02 21:28:27,153 - INFO - Finding the captcha code and storing in png file
+2024-12-02 21:28:27,179 - INFO - extracting the captcha code and saving in png file
+2024-12-02 21:28:27,320 - INFO - extracting the captcha code text
+2024-12-02 21:28:27,743 - INFO - extracted the captcha code text
+2024-12-02 21:28:27,744 - INFO - Locating and entering Captcha
+2024-12-02 21:28:27,907 - INFO - Entered Captcha
+2024-12-02 21:28:29,202 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-ini-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA530E8E]
+	(No symbol) [0x00007FF7FA52E92C]
+	(No symbol) [0x00007FF7FA52BAF6]
+	(No symbol) [0x00007FF7FA52AA51]
+	(No symbol) [0x00007FF7FA51CBA0]
+	(No symbol) [0x00007FF7FA54F2FA]
+	(No symbol) [0x00007FF7FA51C3F6]
+	(No symbol) [0x00007FF7FA54F510]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 21:28:29,202 - INFO - Closing the browser
+2024-12-02 21:28:29,202 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 21:30:51,695 - INFO - Initializing WebDriver for Chrome
+2024-12-02 21:30:55,960 - INFO - Opening IRCTC homepage
+2024-12-02 21:31:48,823 - INFO - Test Case 1 Passed
+2024-12-02 21:31:48,824 - INFO - Clicking on Login Button
+2024-12-02 21:31:49,394 - INFO - Clicked on Login Button
+2024-12-02 21:31:49,513 - INFO - Locating and entering username
+2024-12-02 21:31:51,840 - INFO - Entered username
+2024-12-02 21:31:51,840 - INFO - Locating and entering password
+2024-12-02 21:31:55,810 - INFO - Entered password
+2024-12-02 21:31:55,810 - INFO - Finding the captcha code and storing in png file
+2024-12-02 21:31:55,840 - INFO - extracting the captcha code and saving in png file
+2024-12-02 21:31:56,060 - INFO - extracting the captcha code text
+2024-12-02 21:31:56,750 - INFO - extracted the captcha code text
+2024-12-02 21:31:56,753 - INFO - Locating and entering Captcha
+2024-12-02 21:31:57,149 - INFO - Entered Captcha
+2024-12-02 21:31:58,423 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-noe-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div _ngcontent-noe-c53="" class="dimmer"></div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA530E8E]
+	(No symbol) [0x00007FF7FA52E92C]
+	(No symbol) [0x00007FF7FA52BAF6]
+	(No symbol) [0x00007FF7FA52AA51]
+	(No symbol) [0x00007FF7FA51CBA0]
+	(No symbol) [0x00007FF7FA54F2FA]
+	(No symbol) [0x00007FF7FA51C3F6]
+	(No symbol) [0x00007FF7FA54F510]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 21:31:58,424 - INFO - Closing the browser
+2024-12-02 21:31:58,424 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 21:38:30,490 - INFO - Initializing WebDriver for Chrome
+2024-12-02 21:38:34,232 - INFO - Opening IRCTC homepage
+2024-12-02 21:38:46,383 - INFO - Test Case 1 Passed
+2024-12-02 21:38:46,384 - INFO - Clicking on Login Button
+2024-12-02 21:38:46,997 - INFO - Clicked on Login Button
+2024-12-02 21:38:48,590 - INFO - Locating and entering username
+2024-12-02 21:38:51,269 - INFO - Entered username
+2024-12-02 21:38:51,269 - INFO - Locating and entering password
+2024-12-02 21:38:53,572 - INFO - Entered password
+2024-12-02 21:38:53,572 - INFO - Finding the captcha code and storing in png file
+2024-12-02 21:38:53,601 - INFO - extracting the captcha code and saving in png file
+2024-12-02 21:38:53,787 - INFO - extracting the captcha code text
+2024-12-02 21:38:54,372 - INFO - extracted the captcha code text
+2024-12-02 21:38:54,374 - INFO - Locating and entering Captcha
+2024-12-02 21:38:54,892 - INFO - Entered Captcha
+2024-12-02 21:38:58,139 - INFO - Login Successfully !
+2024-12-02 21:38:58,139 - INFO - Test Case 2 Passed
+2024-12-02 21:38:58,139 - INFO - Enter the source 
+2024-12-02 21:38:58,467 - INFO - Entered Source
+2024-12-02 21:38:58,467 - INFO - Enter the Destination 
+2024-12-02 21:38:59,581 - INFO - Entered Destination
+2024-12-02 21:38:59,581 - INFO - Entering the date
+2024-12-02 21:39:00,241 - INFO - Entered the date
+2024-12-02 21:39:00,241 - INFO - Selecting the Class
+2024-12-02 21:39:00,763 - INFO - Entered the Class
+2024-12-02 21:39:11,307 - ERROR - An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA5291BE]
+	(No symbol) [0x00007FF7FA5294AC]
+	(No symbol) [0x00007FF7FA572647]
+	(No symbol) [0x00007FF7FA54F33F]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 21:39:11,308 - INFO - Closing the browser
+2024-12-02 21:39:11,308 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 21:45:45,208 - INFO - Initializing WebDriver for Chrome
+2024-12-02 21:45:48,815 - INFO - Opening IRCTC homepage
+2024-12-02 21:46:06,303 - INFO - Test Case 1 Passed
+2024-12-02 21:46:06,303 - INFO - Clicking on Login Button
+2024-12-02 21:46:06,864 - INFO - Clicked on Login Button
+2024-12-02 21:46:07,283 - INFO - Locating and entering username
+2024-12-02 21:46:09,695 - INFO - Entered username
+2024-12-02 21:46:09,695 - INFO - Locating and entering password
+2024-12-02 21:46:12,030 - INFO - Entered password
+2024-12-02 21:46:12,031 - INFO - Finding the captcha code and storing in png file
+2024-12-02 21:46:12,064 - INFO - extracting the captcha code and saving in png file
+2024-12-02 21:46:12,202 - INFO - extracting the captcha code text
+2024-12-02 21:46:12,663 - INFO - extracted the captcha code text
+2024-12-02 21:46:12,664 - INFO - Locating and entering Captcha
+2024-12-02 21:46:13,016 - INFO - Entered Captcha
+2024-12-02 21:46:17,256 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-xyp-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA530E8E]
+	(No symbol) [0x00007FF7FA52E92C]
+	(No symbol) [0x00007FF7FA52BAF6]
+	(No symbol) [0x00007FF7FA52AA51]
+	(No symbol) [0x00007FF7FA51CBA0]
+	(No symbol) [0x00007FF7FA54F2FA]
+	(No symbol) [0x00007FF7FA51C3F6]
+	(No symbol) [0x00007FF7FA54F510]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 21:46:17,256 - INFO - Closing the browser
+2024-12-02 21:46:17,257 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 21:47:01,769 - INFO - Initializing WebDriver for Chrome
+2024-12-02 21:47:05,368 - INFO - Opening IRCTC homepage
+2024-12-02 21:47:25,155 - INFO - Test Case 1 Passed
+2024-12-02 21:47:25,156 - INFO - Clicking on Login Button
+2024-12-02 21:47:25,604 - INFO - Clicked on Login Button
+2024-12-02 21:47:26,021 - INFO - Locating and entering username
+2024-12-02 21:47:28,402 - INFO - Entered username
+2024-12-02 21:47:28,403 - INFO - Locating and entering password
+2024-12-02 21:47:30,714 - INFO - Entered password
+2024-12-02 21:47:30,714 - INFO - Finding the captcha code and storing in png file
+2024-12-02 21:47:30,742 - INFO - extracting the captcha code and saving in png file
+2024-12-02 21:47:30,930 - INFO - extracting the captcha code text
+2024-12-02 21:47:31,505 - INFO - extracted the captcha code text
+2024-12-02 21:47:31,505 - INFO - Locating and entering Captcha
+2024-12-02 21:47:32,036 - INFO - Entered Captcha
+2024-12-02 21:47:36,282 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-wbh-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA530E8E]
+	(No symbol) [0x00007FF7FA52E92C]
+	(No symbol) [0x00007FF7FA52BAF6]
+	(No symbol) [0x00007FF7FA52AA51]
+	(No symbol) [0x00007FF7FA51CBA0]
+	(No symbol) [0x00007FF7FA54F2FA]
+	(No symbol) [0x00007FF7FA51C3F6]
+	(No symbol) [0x00007FF7FA54F510]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 21:47:36,283 - INFO - Closing the browser
+2024-12-02 21:47:36,283 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 22:33:10,070 - INFO - Initializing WebDriver for Chrome
+2024-12-02 22:33:21,735 - INFO - Opening IRCTC homepage
+2024-12-02 22:33:40,261 - INFO - Test Case 1 Passed
+2024-12-02 22:33:40,262 - INFO - Clicking on Login Button
+2024-12-02 22:33:40,859 - INFO - Clicked on Login Button
+2024-12-02 22:33:42,465 - INFO - Locating and entering username
+2024-12-02 22:33:44,756 - INFO - Entered username
+2024-12-02 22:33:44,758 - INFO - Locating and entering password
+2024-12-02 22:33:47,185 - INFO - Entered password
+2024-12-02 22:33:47,186 - INFO - Finding the captcha code and storing in png file
+2024-12-02 22:33:47,216 - INFO - extracting the captcha code and saving in png file
+2024-12-02 22:33:47,478 - INFO - extracting the captcha code text
+2024-12-02 22:33:47,933 - INFO - extracted the captcha code text
+2024-12-02 22:33:47,933 - INFO - Locating and entering Captcha
+2024-12-02 22:33:48,240 - INFO - Entered Captcha
+2024-12-02 22:33:52,568 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-shq-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA530E8E]
+	(No symbol) [0x00007FF7FA52E92C]
+	(No symbol) [0x00007FF7FA52BAF6]
+	(No symbol) [0x00007FF7FA52AA51]
+	(No symbol) [0x00007FF7FA51CBA0]
+	(No symbol) [0x00007FF7FA54F2FA]
+	(No symbol) [0x00007FF7FA51C3F6]
+	(No symbol) [0x00007FF7FA54F510]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 22:33:52,568 - INFO - Closing the browser
+2024-12-02 22:33:52,569 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 22:34:22,162 - INFO - Initializing WebDriver for Chrome
+2024-12-02 22:34:25,634 - INFO - Opening IRCTC homepage
+2024-12-02 22:34:26,589 - INFO - Test Case 1 Passed
+2024-12-02 22:34:26,590 - INFO - Clicking on Login Button
+2024-12-02 22:35:09,373 - INFO - Clicked on Login Button
+2024-12-02 22:35:10,773 - INFO - Locating and entering username
+2024-12-02 22:35:13,097 - INFO - Entered username
+2024-12-02 22:35:13,098 - INFO - Locating and entering password
+2024-12-02 22:35:15,537 - INFO - Entered password
+2024-12-02 22:35:15,537 - INFO - Finding the captcha code and storing in png file
+2024-12-02 22:35:15,568 - INFO - extracting the captcha code and saving in png file
+2024-12-02 22:35:15,786 - INFO - extracting the captcha code text
+2024-12-02 22:35:16,322 - INFO - extracted the captcha code text
+2024-12-02 22:35:16,329 - INFO - Locating and entering Captcha
+2024-12-02 22:35:16,956 - INFO - Entered Captcha
+2024-12-02 22:35:21,161 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-gvv-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA530E8E]
+	(No symbol) [0x00007FF7FA52E92C]
+	(No symbol) [0x00007FF7FA52BAF6]
+	(No symbol) [0x00007FF7FA52AA51]
+	(No symbol) [0x00007FF7FA51CBA0]
+	(No symbol) [0x00007FF7FA54F2FA]
+	(No symbol) [0x00007FF7FA51C3F6]
+	(No symbol) [0x00007FF7FA54F510]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 22:35:21,162 - INFO - Closing the browser
+2024-12-02 22:35:21,162 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 22:35:48,859 - INFO - Initializing WebDriver for Chrome
+2024-12-02 22:35:52,438 - INFO - Opening IRCTC homepage
+2024-12-02 22:36:15,999 - INFO - Test Case 1 Passed
+2024-12-02 22:36:15,999 - INFO - Clicking on Login Button
+2024-12-02 22:36:16,419 - INFO - Clicked on Login Button
+2024-12-02 22:36:17,205 - INFO - Locating and entering username
+2024-12-02 22:36:19,482 - INFO - Entered username
+2024-12-02 22:36:19,483 - INFO - Locating and entering password
+2024-12-02 22:36:21,772 - INFO - Entered password
+2024-12-02 22:36:21,773 - INFO - Finding the captcha code and storing in png file
+2024-12-02 22:36:21,836 - INFO - extracting the captcha code and saving in png file
+2024-12-02 22:36:22,064 - INFO - extracting the captcha code text
+2024-12-02 22:36:22,871 - INFO - extracted the captcha code text
+2024-12-02 22:36:22,872 - INFO - Locating and entering Captcha
+2024-12-02 22:36:23,167 - INFO - Entered Captcha
+2024-12-02 22:36:26,998 - INFO - Login Successfully !
+2024-12-02 22:36:26,999 - INFO - Test Case 2 Passed
+2024-12-02 22:36:26,999 - INFO - Enter the source 
+2024-12-02 22:36:27,778 - INFO - Entered Source
+2024-12-02 22:36:27,779 - INFO - Enter the Destination 
+2024-12-02 22:36:28,434 - INFO - Entered Destination
+2024-12-02 22:36:28,434 - INFO - Entering the date
+2024-12-02 22:36:29,268 - INFO - Entered the date
+2024-12-02 22:36:29,268 - INFO - Selecting the Class
+2024-12-02 22:36:29,931 - INFO - Entered the Class
+2024-12-02 22:36:40,423 - ERROR - An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA5291BE]
+	(No symbol) [0x00007FF7FA5294AC]
+	(No symbol) [0x00007FF7FA572647]
+	(No symbol) [0x00007FF7FA54F33F]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 22:36:40,423 - INFO - Closing the browser
+2024-12-02 22:36:40,423 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 22:42:26,029 - INFO - Initializing WebDriver for Chrome
+2024-12-02 22:42:29,905 - INFO - Opening IRCTC homepage
+2024-12-02 22:42:52,998 - INFO - Test Case 1 Passed
+2024-12-02 22:42:52,998 - INFO - Clicking on Login Button
+2024-12-02 22:42:54,187 - INFO - Clicked on Login Button
+2024-12-02 22:42:55,324 - INFO - Locating and entering username
+2024-12-02 22:42:57,667 - INFO - Entered username
+2024-12-02 22:42:57,667 - INFO - Locating and entering password
+2024-12-02 22:43:00,016 - INFO - Entered password
+2024-12-02 22:43:00,016 - INFO - Finding the captcha code and storing in png file
+2024-12-02 22:43:00,056 - INFO - extracting the captcha code and saving in png file
+2024-12-02 22:43:00,196 - INFO - extracting the captcha code text
+2024-12-02 22:43:00,767 - INFO - extracted the captcha code text
+2024-12-02 22:43:00,768 - INFO - Locating and entering Captcha
+2024-12-02 22:43:01,087 - INFO - Entered Captcha
+2024-12-02 22:43:04,363 - INFO - Login Successfully !
+2024-12-02 22:43:04,364 - INFO - Test Case 2 Passed
+2024-12-02 22:43:04,364 - INFO - Enter the source 
+2024-12-02 22:43:05,081 - INFO - Entered Source
+2024-12-02 22:43:05,082 - INFO - Enter the Destination 
+2024-12-02 22:43:05,484 - INFO - Entered Destination
+2024-12-02 22:43:05,485 - INFO - Entering the date
+2024-12-02 22:43:06,167 - INFO - Entered the date
+2024-12-02 22:43:06,168 - INFO - Selecting the Class
+2024-12-02 22:43:06,894 - INFO - Entered the Class
+2024-12-02 22:43:12,627 - ERROR - An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA5291BE]
+	(No symbol) [0x00007FF7FA5294AC]
+	(No symbol) [0x00007FF7FA572647]
+	(No symbol) [0x00007FF7FA54F33F]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 22:43:12,627 - INFO - Closing the browser
+2024-12-02 22:43:12,628 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 22:46:11,826 - INFO - Initializing WebDriver for Chrome
+2024-12-02 22:46:15,406 - INFO - Opening IRCTC homepage
+2024-12-02 22:46:54,034 - INFO - Test Case 1 Passed
+2024-12-02 22:46:54,034 - INFO - Clicking on Login Button
+2024-12-02 22:46:55,729 - INFO - Clicked on Login Button
+2024-12-02 22:46:55,845 - INFO - Locating and entering username
+2024-12-02 22:46:58,154 - INFO - Entered username
+2024-12-02 22:46:58,154 - INFO - Locating and entering password
+2024-12-02 22:47:00,536 - INFO - Entered password
+2024-12-02 22:47:00,536 - INFO - Finding the captcha code and storing in png file
+2024-12-02 22:47:00,563 - INFO - extracting the captcha code and saving in png file
+2024-12-02 22:47:00,713 - INFO - extracting the captcha code text
+2024-12-02 22:47:01,155 - INFO - extracted the captcha code text
+2024-12-02 22:47:01,156 - INFO - Locating and entering Captcha
+2024-12-02 22:47:01,519 - INFO - Entered Captcha
+2024-12-02 22:47:05,103 - INFO - Login Successfully !
+2024-12-02 22:47:05,104 - INFO - Test Case 2 Passed
+2024-12-02 22:47:05,104 - INFO - Enter the source 
+2024-12-02 22:47:06,346 - INFO - Entered Source
+2024-12-02 22:47:06,347 - INFO - Enter the Destination 
+2024-12-02 22:47:06,858 - INFO - Entered Destination
+2024-12-02 22:47:06,859 - INFO - Entering the date
+2024-12-02 22:47:07,641 - INFO - Entered the date
+2024-12-02 22:47:07,641 - INFO - Selecting the Class
+2024-12-02 22:47:08,238 - INFO - Entered the Class
+2024-12-02 22:47:13,984 - ERROR - An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA5291BE]
+	(No symbol) [0x00007FF7FA5294AC]
+	(No symbol) [0x00007FF7FA572647]
+	(No symbol) [0x00007FF7FA54F33F]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 22:47:13,984 - INFO - Closing the browser
+2024-12-02 22:47:13,984 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 22:51:49,947 - INFO - Initializing WebDriver for Chrome
+2024-12-02 22:51:53,578 - INFO - Opening IRCTC homepage
+2024-12-02 22:53:03,778 - INFO - Test Case 1 Passed
+2024-12-02 22:53:03,779 - INFO - Clicking on Login Button
+2024-12-02 22:53:04,205 - INFO - Clicked on Login Button
+2024-12-02 22:53:04,555 - INFO - Locating and entering username
+2024-12-02 22:53:06,757 - INFO - Entered username
+2024-12-02 22:53:06,757 - INFO - Locating and entering password
+2024-12-02 22:53:09,104 - INFO - Entered password
+2024-12-02 22:53:09,104 - INFO - Finding the captcha code and storing in png file
+2024-12-02 22:53:09,140 - INFO - extracting the captcha code and saving in png file
+2024-12-02 22:53:09,370 - INFO - extracting the captcha code text
+2024-12-02 22:53:09,926 - INFO - extracted the captcha code text
+2024-12-02 22:53:09,926 - INFO - Locating and entering Captcha
+2024-12-02 22:53:10,259 - INFO - Entered Captcha
+2024-12-02 22:53:13,670 - INFO - Login Successfully !
+2024-12-02 22:53:13,670 - INFO - Test Case 2 Passed
+2024-12-02 22:53:13,670 - INFO - Enter the source 
+2024-12-02 22:53:14,282 - INFO - Entered Source
+2024-12-02 22:53:14,282 - INFO - Enter the Destination 
+2024-12-02 22:53:14,623 - INFO - Entered Destination
+2024-12-02 22:53:14,624 - INFO - Entering the date
+2024-12-02 22:53:15,225 - INFO - Entered the date
+2024-12-02 22:53:15,226 - INFO - Selecting the Class
+2024-12-02 22:53:16,059 - INFO - Entered the Class
+2024-12-02 22:53:16,423 - INFO - Clicked Checkbox
+2024-12-02 22:53:16,423 - INFO - trying for closing popup window by ok
+2024-12-02 22:53:16,617 - ERROR - An error occurred: Message: To submit an element, it must be nested inside a form element
+
+2024-12-02 22:53:16,617 - INFO - Closing the browser
+2024-12-02 22:53:16,617 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 22:56:07,596 - INFO - Initializing WebDriver for Chrome
+2024-12-02 22:56:11,270 - INFO - Opening IRCTC homepage
+2024-12-02 22:56:19,463 - INFO - Test Case 1 Passed
+2024-12-02 22:56:19,463 - INFO - Clicking on Login Button
+2024-12-02 22:56:21,505 - INFO - Clicked on Login Button
+2024-12-02 22:56:21,602 - INFO - Locating and entering username
+2024-12-02 22:56:24,034 - INFO - Entered username
+2024-12-02 22:56:24,034 - INFO - Locating and entering password
+2024-12-02 22:56:26,359 - INFO - Entered password
+2024-12-02 22:56:26,360 - INFO - Finding the captcha code and storing in png file
+2024-12-02 22:56:26,390 - INFO - extracting the captcha code and saving in png file
+2024-12-02 22:56:26,517 - INFO - extracting the captcha code text
+2024-12-02 22:56:27,270 - INFO - extracted the captcha code text
+2024-12-02 22:56:27,271 - INFO - Locating and entering Captcha
+2024-12-02 22:56:27,797 - INFO - Entered Captcha
+2024-12-02 22:56:31,317 - INFO - Login Successfully !
+2024-12-02 22:56:31,318 - INFO - Test Case 2 Passed
+2024-12-02 22:56:31,318 - INFO - Enter the source 
+2024-12-02 22:56:32,270 - INFO - Entered Source
+2024-12-02 22:56:32,270 - INFO - Enter the Destination 
+2024-12-02 22:56:32,814 - INFO - Entered Destination
+2024-12-02 22:56:32,814 - INFO - Entering the date
+2024-12-02 22:56:33,579 - INFO - Entered the date
+2024-12-02 22:56:33,579 - INFO - Selecting the Class
+2024-12-02 22:56:34,247 - INFO - Entered the Class
+2024-12-02 22:56:34,608 - INFO - Clicked Checkbox
+2024-12-02 22:56:34,609 - INFO - trying for closing popup window by ok
+2024-12-02 22:56:34,650 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="divMain"]/div/app-main-page/div/div/div[1]/div[1]/div[1]/app-jp-input/p-confirmdialog/div/div/div[3]/button[1]/span[2]"}
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA5291BE]
+	(No symbol) [0x00007FF7FA5294AC]
+	(No symbol) [0x00007FF7FA572647]
+	(No symbol) [0x00007FF7FA54F33F]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 22:56:34,650 - INFO - Closing the browser
+2024-12-02 22:56:34,650 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 22:59:51,016 - INFO - Initializing WebDriver for Chrome
+2024-12-02 22:59:55,353 - INFO - Opening IRCTC homepage
+2024-12-02 23:00:04,075 - INFO - Test Case 1 Passed
+2024-12-02 23:00:04,075 - INFO - Clicking on Login Button
+2024-12-02 23:00:06,740 - INFO - Clicked on Login Button
+2024-12-02 23:00:07,955 - INFO - Locating and entering username
+2024-12-02 23:00:10,323 - INFO - Entered username
+2024-12-02 23:00:10,324 - INFO - Locating and entering password
+2024-12-02 23:00:12,961 - INFO - Entered password
+2024-12-02 23:00:12,961 - INFO - Finding the captcha code and storing in png file
+2024-12-02 23:00:13,022 - INFO - extracting the captcha code and saving in png file
+2024-12-02 23:00:13,217 - INFO - extracting the captcha code text
+2024-12-02 23:00:13,857 - INFO - extracted the captcha code text
+2024-12-02 23:00:13,858 - INFO - Locating and entering Captcha
+2024-12-02 23:00:14,225 - INFO - Entered Captcha
+2024-12-02 23:00:17,679 - INFO - Login Successfully !
+2024-12-02 23:00:17,679 - INFO - Test Case 2 Passed
+2024-12-02 23:00:17,680 - INFO - Enter the source 
+2024-12-02 23:00:18,029 - INFO - Entered Source
+2024-12-02 23:00:18,029 - INFO - Enter the Destination 
+2024-12-02 23:00:19,512 - INFO - Entered Destination
+2024-12-02 23:00:19,513 - INFO - Entering the date
+2024-12-02 23:00:20,678 - INFO - Entered the date
+2024-12-02 23:00:20,678 - INFO - Selecting the Class
+2024-12-02 23:00:21,653 - INFO - Entered the Class
+2024-12-02 23:00:22,058 - INFO - Clicked Checkbox
+2024-12-02 23:00:22,058 - INFO - trying for closing popup window by ok
+2024-12-02 23:00:22,131 - ERROR - An error occurred: Message: invalid selector
+from javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA4DC2ED]
+	(No symbol) [0x00007FF7FA4DEFCC]
+	(No symbol) [0x00007FF7FA4DF09F]
+	(No symbol) [0x00007FF7FA528C6A]
+	(No symbol) [0x00007FF7FA5294AC]
+	(No symbol) [0x00007FF7FA572647]
+	(No symbol) [0x00007FF7FA54F33F]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 23:00:22,133 - INFO - Closing the browser
+2024-12-02 23:00:22,133 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 23:02:46,692 - INFO - Initializing WebDriver for Chrome
+2024-12-02 23:02:50,368 - INFO - Opening IRCTC homepage
+2024-12-02 23:02:59,628 - INFO - Test Case 1 Passed
+2024-12-02 23:02:59,628 - INFO - Clicking on Login Button
+2024-12-02 23:03:01,921 - INFO - Clicked on Login Button
+2024-12-02 23:03:02,007 - INFO - Locating and entering username
+2024-12-02 23:03:04,486 - INFO - Entered username
+2024-12-02 23:03:04,486 - INFO - Locating and entering password
+2024-12-02 23:03:06,886 - INFO - Entered password
+2024-12-02 23:03:06,887 - INFO - Finding the captcha code and storing in png file
+2024-12-02 23:03:06,962 - INFO - extracting the captcha code and saving in png file
+2024-12-02 23:03:07,155 - INFO - extracting the captcha code text
+2024-12-02 23:03:08,096 - INFO - extracted the captcha code text
+2024-12-02 23:03:08,096 - INFO - Locating and entering Captcha
+2024-12-02 23:03:08,443 - INFO - Entered Captcha
+2024-12-02 23:03:11,744 - INFO - Login Successfully !
+2024-12-02 23:03:11,744 - INFO - Test Case 2 Passed
+2024-12-02 23:03:11,744 - INFO - Enter the source 
+2024-12-02 23:03:12,136 - INFO - Entered Source
+2024-12-02 23:03:12,137 - INFO - Enter the Destination 
+2024-12-02 23:03:12,844 - INFO - Entered Destination
+2024-12-02 23:03:12,844 - INFO - Entering the date
+2024-12-02 23:03:13,721 - INFO - Entered the date
+2024-12-02 23:03:13,723 - INFO - Selecting the Class
+2024-12-02 23:03:14,697 - INFO - Entered the Class
+2024-12-02 23:03:15,059 - INFO - Clicked Checkbox
+2024-12-02 23:03:15,059 - INFO - trying for closing popup window by ok
+2024-12-02 23:03:15,348 - INFO - closed popups
+2024-12-02 23:03:15,380 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="divMain"]/div/app-main-page/div/div/div[1]/div[1]/div[1]/app-jp-input/div/form/div[5]/div[1]/button"}
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA5291BE]
+	(No symbol) [0x00007FF7FA5294AC]
+	(No symbol) [0x00007FF7FA572647]
+	(No symbol) [0x00007FF7FA54F33F]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 23:03:15,381 - INFO - Closing the browser
+2024-12-02 23:03:15,381 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 23:05:14,638 - INFO - Initializing WebDriver for Chrome
+2024-12-02 23:05:18,708 - INFO - Opening IRCTC homepage
+2024-12-02 23:05:18,915 - INFO - Test Case 1 Passed
+2024-12-02 23:05:18,916 - INFO - Clicking on Login Button
+2024-12-02 23:05:29,073 - INFO - Clicked on Login Button
+2024-12-02 23:05:29,939 - INFO - Locating and entering username
+2024-12-02 23:05:32,386 - INFO - Entered username
+2024-12-02 23:05:32,387 - INFO - Locating and entering password
+2024-12-02 23:05:34,698 - INFO - Entered password
+2024-12-02 23:05:34,698 - INFO - Finding the captcha code and storing in png file
+2024-12-02 23:05:34,723 - INFO - extracting the captcha code and saving in png file
+2024-12-02 23:05:34,937 - INFO - extracting the captcha code text
+2024-12-02 23:05:35,785 - INFO - extracted the captcha code text
+2024-12-02 23:05:35,785 - INFO - Locating and entering Captcha
+2024-12-02 23:05:36,209 - INFO - Entered Captcha
+2024-12-02 23:05:39,730 - INFO - Login Successfully !
+2024-12-02 23:05:39,731 - INFO - Test Case 2 Passed
+2024-12-02 23:05:39,731 - INFO - Enter the source 
+2024-12-02 23:05:40,188 - INFO - Entered Source
+2024-12-02 23:05:40,188 - INFO - Enter the Destination 
+2024-12-02 23:05:41,721 - INFO - Entered Destination
+2024-12-02 23:05:41,721 - INFO - Entering the date
+2024-12-02 23:05:42,427 - INFO - Entered the date
+2024-12-02 23:05:42,427 - INFO - Selecting the Class
+2024-12-02 23:05:43,116 - INFO - Entered the Class
+2024-12-02 23:05:43,497 - INFO - Clicked Checkbox
+2024-12-02 23:05:43,497 - INFO - trying for closing popup window by ok
+2024-12-02 23:05:43,733 - INFO - closed popups
+2024-12-02 23:05:44,051 - INFO - Searching Train 
+2024-12-02 23:05:44,051 - INFO - Test Cases 3 passed
+2024-12-02 23:05:44,051 - INFO - Closing the browser
+2024-12-02 23:05:44,052 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 23:07:22,163 - INFO - Initializing WebDriver for Chrome
+2024-12-02 23:07:26,006 - INFO - Opening IRCTC homepage
+2024-12-02 23:07:33,374 - INFO - Test Case 1 Passed
+2024-12-02 23:07:33,374 - INFO - Clicking on Login Button
+2024-12-02 23:07:34,598 - INFO - Clicked on Login Button
+2024-12-02 23:07:35,986 - INFO - Locating and entering username
+2024-12-02 23:07:38,523 - INFO - Entered username
+2024-12-02 23:07:38,523 - INFO - Locating and entering password
+2024-12-02 23:07:40,841 - INFO - Entered password
+2024-12-02 23:07:40,842 - INFO - Finding the captcha code and storing in png file
+2024-12-02 23:07:40,872 - INFO - extracting the captcha code and saving in png file
+2024-12-02 23:07:41,011 - INFO - extracting the captcha code text
+2024-12-02 23:07:41,677 - INFO - extracted the captcha code text
+2024-12-02 23:07:41,679 - INFO - Locating and entering Captcha
+2024-12-02 23:07:42,050 - INFO - Entered Captcha
+2024-12-02 23:07:45,693 - INFO - Login Successfully !
+2024-12-02 23:07:45,693 - INFO - Test Case 2 Passed
+2024-12-02 23:07:45,693 - INFO - Enter the source 
+2024-12-02 23:07:45,946 - INFO - Entered Source
+2024-12-02 23:07:45,948 - INFO - Enter the Destination 
+2024-12-02 23:07:46,385 - INFO - Entered Destination
+2024-12-02 23:07:46,385 - INFO - Entering the date
+2024-12-02 23:07:47,275 - INFO - Entered the date
+2024-12-02 23:07:47,275 - INFO - Selecting the Class
+2024-12-02 23:07:47,928 - INFO - Entered the Class
+2024-12-02 23:07:48,278 - INFO - Clicked Checkbox
+2024-12-02 23:07:48,278 - INFO - trying for closing popup window by ok
+2024-12-02 23:07:48,517 - INFO - closed popups
+2024-12-02 23:07:48,826 - INFO - Searching Train 
+2024-12-02 23:07:51,827 - INFO - Test Cases 3 passed
+2024-12-02 23:08:01,832 - INFO - Closing the browser
+2024-12-02 23:08:01,832 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 23:10:31,143 - INFO - Initializing WebDriver for Chrome
+2024-12-02 23:10:34,679 - INFO - Opening IRCTC homepage
+2024-12-02 23:10:56,443 - INFO - Test Case 1 Passed
+2024-12-02 23:10:56,444 - INFO - Clicking on Login Button
+2024-12-02 23:10:57,218 - INFO - Clicked on Login Button
+2024-12-02 23:10:57,488 - INFO - Locating and entering username
+2024-12-02 23:10:59,778 - INFO - Entered username
+2024-12-02 23:10:59,779 - INFO - Locating and entering password
+2024-12-02 23:11:02,086 - INFO - Entered password
+2024-12-02 23:11:02,087 - INFO - Finding the captcha code and storing in png file
+2024-12-02 23:11:02,115 - INFO - extracting the captcha code and saving in png file
+2024-12-02 23:11:02,261 - INFO - extracting the captcha code text
+2024-12-02 23:11:02,872 - INFO - extracted the captcha code text
+2024-12-02 23:11:02,873 - INFO - Locating and entering Captcha
+2024-12-02 23:11:03,200 - INFO - Entered Captcha
+2024-12-02 23:11:06,778 - INFO - Login Successfully !
+2024-12-02 23:11:06,778 - INFO - Test Case 2 Passed
+2024-12-02 23:11:06,778 - INFO - Enter the source 
+2024-12-02 23:11:07,682 - INFO - Entered Source
+2024-12-02 23:11:07,682 - INFO - Enter the Destination 
+2024-12-02 23:11:08,147 - INFO - Entered Destination
+2024-12-02 23:11:08,148 - INFO - Entering the date
+2024-12-02 23:11:08,792 - INFO - Entered the date
+2024-12-02 23:11:08,792 - INFO - Selecting the Class
+2024-12-02 23:11:09,361 - INFO - Entered the Class
+2024-12-02 23:11:09,744 - INFO - Clicked Checkbox
+2024-12-02 23:11:09,745 - INFO - trying for closing popup window by ok
+2024-12-02 23:11:09,992 - INFO - closed popups
+2024-12-02 23:11:10,585 - INFO - Searching Train 
+2024-12-02 23:11:13,598 - INFO - Test Cases 3 passed
+2024-12-02 23:11:23,610 - INFO - Closing the browser
+2024-12-02 23:11:23,610 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 23:14:43,471 - INFO - Initializing WebDriver for Chrome
+2024-12-02 23:14:47,168 - INFO - Opening IRCTC homepage
+2024-12-02 23:15:09,580 - INFO - Test Case 1 Passed
+2024-12-02 23:15:09,581 - INFO - Clicking on Login Button
+2024-12-02 23:15:10,125 - INFO - Clicked on Login Button
+2024-12-02 23:15:10,315 - INFO - Locating and entering username
+2024-12-02 23:15:12,643 - INFO - Entered username
+2024-12-02 23:15:12,645 - INFO - Locating and entering password
+2024-12-02 23:15:15,177 - INFO - Entered password
+2024-12-02 23:15:15,177 - INFO - Finding the captcha code and storing in png file
+2024-12-02 23:15:15,222 - INFO - extracting the captcha code and saving in png file
+2024-12-02 23:15:15,389 - INFO - extracting the captcha code text
+2024-12-02 23:15:15,842 - INFO - extracted the captcha code text
+2024-12-02 23:15:15,843 - INFO - Locating and entering Captcha
+2024-12-02 23:15:16,174 - INFO - Entered Captcha
+2024-12-02 23:15:20,380 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-tjj-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA530E8E]
+	(No symbol) [0x00007FF7FA52E92C]
+	(No symbol) [0x00007FF7FA52BAF6]
+	(No symbol) [0x00007FF7FA52AA51]
+	(No symbol) [0x00007FF7FA51CBA0]
+	(No symbol) [0x00007FF7FA54F2FA]
+	(No symbol) [0x00007FF7FA51C3F6]
+	(No symbol) [0x00007FF7FA54F510]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 23:15:30,382 - INFO - Closing the browser
+2024-12-02 23:15:30,382 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 23:16:03,582 - INFO - Initializing WebDriver for Chrome
+2024-12-02 23:16:07,113 - INFO - Opening IRCTC homepage
+2024-12-02 23:16:17,149 - INFO - Test Case 1 Passed
+2024-12-02 23:16:17,149 - INFO - Clicking on Login Button
+2024-12-02 23:16:18,776 - INFO - Clicked on Login Button
+2024-12-02 23:16:18,854 - INFO - Locating and entering username
+2024-12-02 23:16:21,165 - INFO - Entered username
+2024-12-02 23:16:21,166 - INFO - Locating and entering password
+2024-12-02 23:16:23,701 - INFO - Entered password
+2024-12-02 23:16:23,701 - INFO - Finding the captcha code and storing in png file
+2024-12-02 23:16:23,754 - INFO - extracting the captcha code and saving in png file
+2024-12-02 23:16:23,935 - INFO - extracting the captcha code text
+2024-12-02 23:16:24,912 - INFO - extracted the captcha code text
+2024-12-02 23:16:24,913 - INFO - Locating and entering Captcha
+2024-12-02 23:16:25,232 - INFO - Entered Captcha
+2024-12-02 23:16:29,085 - INFO - Login Successfully !
+2024-12-02 23:16:29,085 - INFO - Test Case 2 Passed
+2024-12-02 23:16:29,085 - INFO - Enter the source 
+2024-12-02 23:16:29,697 - INFO - Entered Source
+2024-12-02 23:16:29,698 - INFO - Enter the Destination 
+2024-12-02 23:16:30,339 - INFO - Entered Destination
+2024-12-02 23:16:30,339 - INFO - Entering the date
+2024-12-02 23:16:32,149 - INFO - Entered the date
+2024-12-02 23:16:32,149 - INFO - Selecting the Class
+2024-12-02 23:16:33,304 - INFO - Entered the Class
+2024-12-02 23:16:33,658 - INFO - Clicked Checkbox
+2024-12-02 23:16:33,659 - INFO - trying for closing popup window by ok
+2024-12-02 23:16:34,002 - INFO - closed popups
+2024-12-02 23:16:34,351 - INFO - Searching Train 
+2024-12-02 23:16:37,359 - INFO - Test Cases 3 passed
+2024-12-02 23:16:47,375 - INFO - Closing the browser
+2024-12-02 23:16:47,375 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 23:18:20,788 - INFO - Initializing WebDriver for Chrome
+2024-12-02 23:18:24,446 - INFO - Opening IRCTC homepage
+2024-12-02 23:19:01,178 - INFO - Test Case 1 Passed
+2024-12-02 23:19:01,178 - INFO - Clicking on Login Button
+2024-12-02 23:19:01,649 - INFO - Clicked on Login Button
+2024-12-02 23:19:03,604 - INFO - Locating and entering username
+2024-12-02 23:19:06,067 - INFO - Entered username
+2024-12-02 23:19:06,067 - INFO - Locating and entering password
+2024-12-02 23:19:08,448 - INFO - Entered password
+2024-12-02 23:19:08,449 - INFO - Finding the captcha code and storing in png file
+2024-12-02 23:19:08,495 - INFO - extracting the captcha code and saving in png file
+2024-12-02 23:19:08,775 - INFO - extracting the captcha code text
+2024-12-02 23:19:09,590 - INFO - extracted the captcha code text
+2024-12-02 23:19:09,591 - INFO - Locating and entering Captcha
+2024-12-02 23:19:10,189 - INFO - Entered Captcha
+2024-12-02 23:19:14,418 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-xfx-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA530E8E]
+	(No symbol) [0x00007FF7FA52E92C]
+	(No symbol) [0x00007FF7FA52BAF6]
+	(No symbol) [0x00007FF7FA52AA51]
+	(No symbol) [0x00007FF7FA51CBA0]
+	(No symbol) [0x00007FF7FA54F2FA]
+	(No symbol) [0x00007FF7FA51C3F6]
+	(No symbol) [0x00007FF7FA54F510]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 23:19:24,423 - INFO - Closing the browser
+2024-12-02 23:19:24,423 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 23:19:52,038 - INFO - Initializing WebDriver for Chrome
+2024-12-02 23:19:55,685 - INFO - Opening IRCTC homepage
+2024-12-02 23:20:35,172 - INFO - Test Case 1 Passed
+2024-12-02 23:20:35,173 - INFO - Clicking on Login Button
+2024-12-02 23:20:35,720 - INFO - Clicked on Login Button
+2024-12-02 23:20:37,907 - INFO - Locating and entering username
+2024-12-02 23:20:40,335 - INFO - Entered username
+2024-12-02 23:20:40,336 - INFO - Locating and entering password
+2024-12-02 23:20:42,665 - INFO - Entered password
+2024-12-02 23:20:42,665 - INFO - Finding the captcha code and storing in png file
+2024-12-02 23:20:42,695 - INFO - extracting the captcha code and saving in png file
+2024-12-02 23:20:42,834 - INFO - extracting the captcha code text
+2024-12-02 23:20:43,556 - INFO - extracted the captcha code text
+2024-12-02 23:20:43,557 - INFO - Locating and entering Captcha
+2024-12-02 23:20:43,996 - INFO - Entered Captcha
+2024-12-02 23:20:48,204 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-sug-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA530E8E]
+	(No symbol) [0x00007FF7FA52E92C]
+	(No symbol) [0x00007FF7FA52BAF6]
+	(No symbol) [0x00007FF7FA52AA51]
+	(No symbol) [0x00007FF7FA51CBA0]
+	(No symbol) [0x00007FF7FA54F2FA]
+	(No symbol) [0x00007FF7FA51C3F6]
+	(No symbol) [0x00007FF7FA54F510]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 23:20:58,216 - INFO - Closing the browser
+2024-12-02 23:20:58,216 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 23:21:18,634 - INFO - Initializing WebDriver for Chrome
+2024-12-02 23:21:22,405 - INFO - Opening IRCTC homepage
+2024-12-02 23:21:34,447 - INFO - Test Case 1 Passed
+2024-12-02 23:21:34,448 - INFO - Clicking on Login Button
+2024-12-02 23:21:36,855 - INFO - Clicked on Login Button
+2024-12-02 23:21:36,927 - INFO - Locating and entering username
+2024-12-02 23:21:39,575 - INFO - Entered username
+2024-12-02 23:21:39,575 - INFO - Locating and entering password
+2024-12-02 23:21:41,841 - INFO - Entered password
+2024-12-02 23:21:41,841 - INFO - Finding the captcha code and storing in png file
+2024-12-02 23:21:41,871 - INFO - extracting the captcha code and saving in png file
+2024-12-02 23:21:41,996 - INFO - extracting the captcha code text
+2024-12-02 23:21:43,016 - INFO - extracted the captcha code text
+2024-12-02 23:21:43,017 - INFO - Locating and entering Captcha
+2024-12-02 23:21:43,305 - INFO - Entered Captcha
+2024-12-02 23:21:47,473 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-ybl-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA530E8E]
+	(No symbol) [0x00007FF7FA52E92C]
+	(No symbol) [0x00007FF7FA52BAF6]
+	(No symbol) [0x00007FF7FA52AA51]
+	(No symbol) [0x00007FF7FA51CBA0]
+	(No symbol) [0x00007FF7FA54F2FA]
+	(No symbol) [0x00007FF7FA51C3F6]
+	(No symbol) [0x00007FF7FA54F510]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 23:21:57,485 - INFO - Closing the browser
+2024-12-02 23:21:57,485 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 23:22:16,109 - INFO - Initializing WebDriver for Chrome
+2024-12-02 23:22:19,609 - INFO - Opening IRCTC homepage
+2024-12-02 23:22:19,869 - INFO - Test Case 1 Passed
+2024-12-02 23:22:19,869 - INFO - Clicking on Login Button
+2024-12-02 23:22:29,931 - INFO - Clicked on Login Button
+2024-12-02 23:22:30,865 - INFO - Locating and entering username
+2024-12-02 23:22:33,294 - INFO - Entered username
+2024-12-02 23:22:33,294 - INFO - Locating and entering password
+2024-12-02 23:22:35,611 - INFO - Entered password
+2024-12-02 23:22:35,611 - INFO - Finding the captcha code and storing in png file
+2024-12-02 23:22:35,638 - INFO - extracting the captcha code and saving in png file
+2024-12-02 23:22:35,777 - INFO - extracting the captcha code text
+2024-12-02 23:22:36,629 - INFO - extracted the captcha code text
+2024-12-02 23:22:36,630 - INFO - Locating and entering Captcha
+2024-12-02 23:22:36,940 - INFO - Entered Captcha
+2024-12-02 23:22:40,317 - INFO - Login Successfully !
+2024-12-02 23:22:40,317 - INFO - Test Case 2 Passed
+2024-12-02 23:22:40,318 - INFO - Enter the source 
+2024-12-02 23:22:40,843 - INFO - Entered Source
+2024-12-02 23:22:40,843 - INFO - Enter the Destination 
+2024-12-02 23:22:41,825 - INFO - Entered Destination
+2024-12-02 23:22:41,825 - INFO - Entering the date
+2024-12-02 23:22:42,514 - INFO - Entered the date
+2024-12-02 23:22:42,514 - INFO - Selecting the Class
+2024-12-02 23:22:43,030 - INFO - Entered the Class
+2024-12-02 23:22:43,486 - INFO - Clicked Checkbox
+2024-12-02 23:22:43,486 - INFO - trying for closing popup window by ok
+2024-12-02 23:22:43,808 - INFO - closed popups
+2024-12-02 23:22:44,129 - INFO - Searching Train 
+2024-12-02 23:22:47,142 - INFO - Test Cases 3 passed
+2024-12-02 23:22:57,144 - INFO - Closing the browser
+2024-12-02 23:22:57,144 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 23:24:31,056 - INFO - Initializing WebDriver for Chrome
+2024-12-02 23:24:34,660 - INFO - Opening IRCTC homepage
+2024-12-02 23:24:41,542 - INFO - Test Case 1 Passed
+2024-12-02 23:24:41,543 - INFO - Clicking on Login Button
+2024-12-02 23:24:42,063 - INFO - Clicked on Login Button
+2024-12-02 23:24:43,378 - INFO - Locating and entering username
+2024-12-02 23:24:45,875 - INFO - Entered username
+2024-12-02 23:24:45,875 - INFO - Locating and entering password
+2024-12-02 23:24:48,205 - INFO - Entered password
+2024-12-02 23:24:48,206 - INFO - Finding the captcha code and storing in png file
+2024-12-02 23:24:48,242 - INFO - extracting the captcha code and saving in png file
+2024-12-02 23:24:48,403 - INFO - extracting the captcha code text
+2024-12-02 23:24:49,102 - INFO - extracted the captcha code text
+2024-12-02 23:24:49,103 - INFO - Locating and entering Captcha
+2024-12-02 23:24:49,640 - INFO - Entered Captcha
+2024-12-02 23:24:53,891 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-cic-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA530E8E]
+	(No symbol) [0x00007FF7FA52E92C]
+	(No symbol) [0x00007FF7FA52BAF6]
+	(No symbol) [0x00007FF7FA52AA51]
+	(No symbol) [0x00007FF7FA51CBA0]
+	(No symbol) [0x00007FF7FA54F2FA]
+	(No symbol) [0x00007FF7FA51C3F6]
+	(No symbol) [0x00007FF7FA54F510]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 23:25:03,907 - INFO - Closing the browser
+2024-12-02 23:25:03,907 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 23:28:20,343 - INFO - Initializing WebDriver for Chrome
+2024-12-02 23:28:24,636 - INFO - Opening IRCTC homepage
+2024-12-02 23:28:31,673 - INFO - Test Case 1 Passed
+2024-12-02 23:28:31,674 - INFO - Clicking on Login Button
+2024-12-02 23:28:32,164 - INFO - Clicked on Login Button
+2024-12-02 23:28:33,635 - INFO - Locating and entering username
+2024-12-02 23:28:35,981 - INFO - Entered username
+2024-12-02 23:28:35,981 - INFO - Locating and entering password
+2024-12-02 23:28:38,395 - INFO - Entered password
+2024-12-02 23:28:38,396 - INFO - Finding the captcha code and storing in png file
+2024-12-02 23:28:38,422 - INFO - extracting the captcha code and saving in png file
+2024-12-02 23:28:38,563 - INFO - extracting the captcha code text
+2024-12-02 23:28:38,998 - INFO - extracted the captcha code text
+2024-12-02 23:28:38,998 - INFO - Locating and entering Captcha
+2024-12-02 23:28:39,384 - INFO - Entered Captcha
+2024-12-02 23:28:42,810 - INFO - Login Successfully !
+2024-12-02 23:28:42,810 - INFO - Test Case 2 Passed
+2024-12-02 23:28:42,810 - INFO - Enter the source 
+2024-12-02 23:28:43,451 - INFO - Entered Source
+2024-12-02 23:28:43,451 - INFO - Enter the Destination 
+2024-12-02 23:28:43,859 - INFO - Entered Destination
+2024-12-02 23:28:43,860 - INFO - Entering the date
+2024-12-02 23:28:44,589 - INFO - Entered the date
+2024-12-02 23:28:44,589 - INFO - Selecting the Class
+2024-12-02 23:28:45,543 - INFO - Entered the Class
+2024-12-02 23:28:46,041 - INFO - Clicked Checkbox
+2024-12-02 23:28:46,042 - INFO - trying for closing popup window by ok
+2024-12-02 23:28:46,283 - INFO - closed popups
+2024-12-02 23:28:46,311 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".search_btn train_Search"}
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA5291BE]
+	(No symbol) [0x00007FF7FA5294AC]
+	(No symbol) [0x00007FF7FA572647]
+	(No symbol) [0x00007FF7FA54F33F]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 23:28:56,319 - INFO - Closing the browser
+2024-12-02 23:28:56,319 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 23:31:08,589 - INFO - Initializing WebDriver for Chrome
+2024-12-02 23:31:12,514 - INFO - Opening IRCTC homepage
+2024-12-02 23:31:18,446 - INFO - Test Case 1 Passed
+2024-12-02 23:31:18,447 - INFO - Enter the source 
+2024-12-02 23:31:18,978 - INFO - Entered Source
+2024-12-02 23:31:18,978 - INFO - Enter the Destination 
+2024-12-02 23:31:19,945 - INFO - Entered Destination
+2024-12-02 23:31:19,946 - INFO - Entering the date
+2024-12-02 23:31:20,780 - INFO - Entered the date
+2024-12-02 23:31:20,781 - INFO - Selecting the Class
+2024-12-02 23:31:21,547 - INFO - Entered the Class
+2024-12-02 23:31:22,009 - INFO - Clicked Checkbox
+2024-12-02 23:31:22,009 - INFO - trying for closing popup window by ok
+2024-12-02 23:31:22,243 - INFO - closed popups
+2024-12-02 23:31:22,278 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".search_btn train_Search"}
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA5291BE]
+	(No symbol) [0x00007FF7FA5294AC]
+	(No symbol) [0x00007FF7FA572647]
+	(No symbol) [0x00007FF7FA54F33F]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 23:31:32,287 - INFO - Closing the browser
+2024-12-02 23:31:32,288 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 23:31:52,122 - INFO - Initializing WebDriver for Chrome
+2024-12-02 23:31:55,621 - INFO - Opening IRCTC homepage
+2024-12-02 23:32:05,168 - INFO - Test Case 1 Passed
+2024-12-02 23:32:05,168 - INFO - Enter the source 
+2024-12-02 23:32:05,562 - INFO - Entered Source
+2024-12-02 23:32:05,562 - INFO - Enter the Destination 
+2024-12-02 23:32:05,934 - INFO - Entered Destination
+2024-12-02 23:32:05,935 - INFO - Entering the date
+2024-12-02 23:32:06,606 - INFO - Entered the date
+2024-12-02 23:32:06,606 - INFO - Selecting the Class
+2024-12-02 23:32:07,572 - INFO - Entered the Class
+2024-12-02 23:32:07,993 - INFO - Clicked Checkbox
+2024-12-02 23:32:07,993 - INFO - trying for closing popup window by ok
+2024-12-02 23:32:08,269 - INFO - closed popups
+2024-12-02 23:32:08,703 - INFO - Searching Train 
+2024-12-02 23:32:11,712 - INFO - Test Cases 3 passed
+2024-12-02 23:32:21,721 - INFO - Closing the browser
+2024-12-02 23:32:21,722 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-02 23:34:48,332 - INFO - Initializing WebDriver for Chrome
+2024-12-02 23:34:52,826 - INFO - Opening IRCTC homepage
+2024-12-02 23:34:59,355 - INFO - Test Case 1 Passed
+2024-12-02 23:34:59,359 - INFO - Enter the source 
+2024-12-02 23:34:59,955 - INFO - Entered Source
+2024-12-02 23:34:59,956 - INFO - Enter the Destination 
+2024-12-02 23:35:01,530 - INFO - Entered Destination
+2024-12-02 23:35:01,530 - INFO - Entering the date
+2024-12-02 23:35:02,396 - INFO - Entered the date
+2024-12-02 23:35:02,396 - INFO - Selecting the Class
+2024-12-02 23:35:03,046 - INFO - Entered the Class
+2024-12-02 23:35:03,594 - INFO - Clicked Checkbox
+2024-12-02 23:35:03,595 - INFO - trying for closing popup window by ok
+2024-12-02 23:35:03,837 - INFO - closed popups
+2024-12-02 23:35:03,902 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[label="Find"]"}
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA6C6CB5+28821]
+	(No symbol) [0x00007FF7FA633840]
+	(No symbol) [0x00007FF7FA4D578A]
+	(No symbol) [0x00007FF7FA5291BE]
+	(No symbol) [0x00007FF7FA5294AC]
+	(No symbol) [0x00007FF7FA572647]
+	(No symbol) [0x00007FF7FA54F33F]
+	(No symbol) [0x00007FF7FA56F412]
+	(No symbol) [0x00007FF7FA54F0A3]
+	(No symbol) [0x00007FF7FA51A778]
+	(No symbol) [0x00007FF7FA51B8E1]
+	GetHandleVerifier [0x00007FF7FA9FFCAD+3408013]
+	GetHandleVerifier [0x00007FF7FAA1741F+3504127]
+	GetHandleVerifier [0x00007FF7FAA0B5FD+3455453]
+	GetHandleVerifier [0x00007FF7FA78BDBB+835995]
+	(No symbol) [0x00007FF7FA63EB5F]
+	(No symbol) [0x00007FF7FA63A814]
+	(No symbol) [0x00007FF7FA63A9AD]
+	(No symbol) [0x00007FF7FA62A199]
+	BaseThreadInitThunk [0x00007FF9204B7374+20]
+	RtlUserThreadStart [0x00007FF921A5CC91+33]
+
+2024-12-02 23:35:13,906 - INFO - Closing the browser
+2024-12-02 23:35:13,906 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 11:03:18,816 - INFO - Initializing WebDriver for Chrome
+2024-12-03 11:03:23,864 - INFO - Opening IRCTC homepage
+2024-12-03 11:03:31,264 - INFO - Test Case 1 Passed
+2024-12-03 11:03:31,264 - INFO - Enter the source 
+2024-12-03 11:03:33,419 - INFO - Entered Source
+2024-12-03 11:03:33,419 - INFO - Enter the Destination 
+2024-12-03 11:03:35,051 - INFO - Entered Destination
+2024-12-03 11:03:35,051 - INFO - Entering the date
+2024-12-03 11:03:36,366 - ERROR - An error occurred: Message: element click intercepted: Element <input type="text" autocomplete="off" class="ng-tns-c58-10 ui-inputtext ui-widget ui-state-default ui-corner-all ng-star-inserted" placeholder=""> is not clickable at point (537, 312). Other element would receive the click: <div _ngcontent-jfy-c53="" class="dimmer"></div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EE966CB5+28821]
+	(No symbol) [0x00007FF6EE8D3840]
+	(No symbol) [0x00007FF6EE77578A]
+	(No symbol) [0x00007FF6EE7D0E8E]
+	(No symbol) [0x00007FF6EE7CE92C]
+	(No symbol) [0x00007FF6EE7CBAF6]
+	(No symbol) [0x00007FF6EE7CAA51]
+	(No symbol) [0x00007FF6EE7BCBA0]
+	(No symbol) [0x00007FF6EE7EF2FA]
+	(No symbol) [0x00007FF6EE7BC3F6]
+	(No symbol) [0x00007FF6EE7EF510]
+	(No symbol) [0x00007FF6EE80F412]
+	(No symbol) [0x00007FF6EE7EF0A3]
+	(No symbol) [0x00007FF6EE7BA778]
+	(No symbol) [0x00007FF6EE7BB8E1]
+	GetHandleVerifier [0x00007FF6EEC9FCAD+3408013]
+	GetHandleVerifier [0x00007FF6EECB741F+3504127]
+	GetHandleVerifier [0x00007FF6EECAB5FD+3455453]
+	GetHandleVerifier [0x00007FF6EEA2BDBB+835995]
+	(No symbol) [0x00007FF6EE8DEB5F]
+	(No symbol) [0x00007FF6EE8DA814]
+	(No symbol) [0x00007FF6EE8DA9AD]
+	(No symbol) [0x00007FF6EE8CA199]
+	BaseThreadInitThunk [0x00007FF9DC317374+20]
+	RtlUserThreadStart [0x00007FF9DDE9CC91+33]
+
+2024-12-03 11:03:46,368 - INFO - Closing the browser
+2024-12-03 11:03:46,368 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 11:04:42,182 - INFO - Initializing WebDriver for Chrome
+2024-12-03 11:04:45,745 - INFO - Opening IRCTC homepage
+2024-12-03 11:04:52,564 - INFO - Test Case 1 Passed
+2024-12-03 11:04:52,565 - INFO - Enter the source 
+2024-12-03 11:04:55,054 - INFO - Entered Source
+2024-12-03 11:04:55,055 - INFO - Enter the Destination 
+2024-12-03 11:04:55,685 - INFO - Entered Destination
+2024-12-03 11:04:55,685 - INFO - Entering the date
+2024-12-03 11:04:56,870 - ERROR - An error occurred: Message: element click intercepted: Element <input type="text" autocomplete="off" class="ng-tns-c58-10 ui-inputtext ui-widget ui-state-default ui-corner-all ng-star-inserted" placeholder=""> is not clickable at point (537, 312). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-content ui-widget-content">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EE966CB5+28821]
+	(No symbol) [0x00007FF6EE8D3840]
+	(No symbol) [0x00007FF6EE77578A]
+	(No symbol) [0x00007FF6EE7D0E8E]
+	(No symbol) [0x00007FF6EE7CE92C]
+	(No symbol) [0x00007FF6EE7CBAF6]
+	(No symbol) [0x00007FF6EE7CAA51]
+	(No symbol) [0x00007FF6EE7BCBA0]
+	(No symbol) [0x00007FF6EE7EF2FA]
+	(No symbol) [0x00007FF6EE7BC3F6]
+	(No symbol) [0x00007FF6EE7EF510]
+	(No symbol) [0x00007FF6EE80F412]
+	(No symbol) [0x00007FF6EE7EF0A3]
+	(No symbol) [0x00007FF6EE7BA778]
+	(No symbol) [0x00007FF6EE7BB8E1]
+	GetHandleVerifier [0x00007FF6EEC9FCAD+3408013]
+	GetHandleVerifier [0x00007FF6EECB741F+3504127]
+	GetHandleVerifier [0x00007FF6EECAB5FD+3455453]
+	GetHandleVerifier [0x00007FF6EEA2BDBB+835995]
+	(No symbol) [0x00007FF6EE8DEB5F]
+	(No symbol) [0x00007FF6EE8DA814]
+	(No symbol) [0x00007FF6EE8DA9AD]
+	(No symbol) [0x00007FF6EE8CA199]
+	BaseThreadInitThunk [0x00007FF9DC317374+20]
+	RtlUserThreadStart [0x00007FF9DDE9CC91+33]
+
+2024-12-03 11:05:06,875 - INFO - Closing the browser
+2024-12-03 11:05:06,876 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 11:06:23,815 - INFO - Initializing WebDriver for Chrome
+2024-12-03 11:06:27,489 - INFO - Opening IRCTC homepage
+2024-12-03 11:06:27,656 - INFO - Test Case 1 Passed
+2024-12-03 11:06:27,657 - INFO - Enter the source 
+2024-12-03 11:06:36,623 - INFO - Entered Source
+2024-12-03 11:06:36,623 - INFO - Enter the Destination 
+2024-12-03 11:06:38,367 - INFO - Entered Destination
+2024-12-03 11:06:38,367 - INFO - Entering the date
+2024-12-03 11:06:39,555 - ERROR - An error occurred: Message: element click intercepted: Element <input type="text" autocomplete="off" class="ng-tns-c58-10 ui-inputtext ui-widget ui-state-default ui-corner-all ng-star-inserted" placeholder=""> is not clickable at point (537, 312). Other element would receive the click: <div class="ng-tns-c19-14 ui-dialog-content ui-widget-content">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EE966CB5+28821]
+	(No symbol) [0x00007FF6EE8D3840]
+	(No symbol) [0x00007FF6EE77578A]
+	(No symbol) [0x00007FF6EE7D0E8E]
+	(No symbol) [0x00007FF6EE7CE92C]
+	(No symbol) [0x00007FF6EE7CBAF6]
+	(No symbol) [0x00007FF6EE7CAA51]
+	(No symbol) [0x00007FF6EE7BCBA0]
+	(No symbol) [0x00007FF6EE7EF2FA]
+	(No symbol) [0x00007FF6EE7BC3F6]
+	(No symbol) [0x00007FF6EE7EF510]
+	(No symbol) [0x00007FF6EE80F412]
+	(No symbol) [0x00007FF6EE7EF0A3]
+	(No symbol) [0x00007FF6EE7BA778]
+	(No symbol) [0x00007FF6EE7BB8E1]
+	GetHandleVerifier [0x00007FF6EEC9FCAD+3408013]
+	GetHandleVerifier [0x00007FF6EECB741F+3504127]
+	GetHandleVerifier [0x00007FF6EECAB5FD+3455453]
+	GetHandleVerifier [0x00007FF6EEA2BDBB+835995]
+	(No symbol) [0x00007FF6EE8DEB5F]
+	(No symbol) [0x00007FF6EE8DA814]
+	(No symbol) [0x00007FF6EE8DA9AD]
+	(No symbol) [0x00007FF6EE8CA199]
+	BaseThreadInitThunk [0x00007FF9DC317374+20]
+	RtlUserThreadStart [0x00007FF9DDE9CC91+33]
+
+2024-12-03 11:06:49,565 - INFO - Closing the browser
+2024-12-03 11:06:49,565 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 11:08:00,076 - INFO - Initializing WebDriver for Chrome
+2024-12-03 11:08:06,224 - INFO - Opening IRCTC homepage
+2024-12-03 11:08:13,591 - INFO - Test Case 1 Passed
+2024-12-03 11:08:13,591 - INFO - Clicking on Login Button
+2024-12-03 11:08:14,638 - INFO - Clicked on Login Button
+2024-12-03 11:08:14,739 - INFO - Locating and entering username
+2024-12-03 11:08:17,088 - INFO - Entered username
+2024-12-03 11:08:17,089 - INFO - Locating and entering password
+2024-12-03 11:08:19,409 - INFO - Entered password
+2024-12-03 11:08:19,410 - INFO - Finding the captcha code and storing in png file
+2024-12-03 11:08:19,437 - INFO - extracting the captcha code and saving in png file
+2024-12-03 11:08:19,577 - INFO - extracting the captcha code text
+2024-12-03 11:08:20,058 - INFO - extracted the captcha code text
+2024-12-03 11:08:20,059 - INFO - Locating and entering Captcha
+2024-12-03 11:08:20,226 - INFO - Entered Captcha
+2024-12-03 11:08:24,441 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-bct-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EE966CB5+28821]
+	(No symbol) [0x00007FF6EE8D3840]
+	(No symbol) [0x00007FF6EE77578A]
+	(No symbol) [0x00007FF6EE7D0E8E]
+	(No symbol) [0x00007FF6EE7CE92C]
+	(No symbol) [0x00007FF6EE7CBAF6]
+	(No symbol) [0x00007FF6EE7CAA51]
+	(No symbol) [0x00007FF6EE7BCBA0]
+	(No symbol) [0x00007FF6EE7EF2FA]
+	(No symbol) [0x00007FF6EE7BC3F6]
+	(No symbol) [0x00007FF6EE7EF510]
+	(No symbol) [0x00007FF6EE80F412]
+	(No symbol) [0x00007FF6EE7EF0A3]
+	(No symbol) [0x00007FF6EE7BA778]
+	(No symbol) [0x00007FF6EE7BB8E1]
+	GetHandleVerifier [0x00007FF6EEC9FCAD+3408013]
+	GetHandleVerifier [0x00007FF6EECB741F+3504127]
+	GetHandleVerifier [0x00007FF6EECAB5FD+3455453]
+	GetHandleVerifier [0x00007FF6EEA2BDBB+835995]
+	(No symbol) [0x00007FF6EE8DEB5F]
+	(No symbol) [0x00007FF6EE8DA814]
+	(No symbol) [0x00007FF6EE8DA9AD]
+	(No symbol) [0x00007FF6EE8CA199]
+	BaseThreadInitThunk [0x00007FF9DC317374+20]
+	RtlUserThreadStart [0x00007FF9DDE9CC91+33]
+
+2024-12-03 11:08:34,445 - INFO - Closing the browser
+2024-12-03 11:08:34,445 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 11:09:52,327 - INFO - Initializing WebDriver for Chrome
+2024-12-03 11:09:56,041 - INFO - Opening IRCTC homepage
+2024-12-03 11:10:03,348 - INFO - Test Case 1 Passed
+2024-12-03 11:10:03,348 - INFO - Clicking on Login Button
+2024-12-03 11:10:04,425 - INFO - Clicked on Login Button
+2024-12-03 11:10:05,322 - INFO - Locating and entering username
+2024-12-03 11:10:07,767 - INFO - Entered username
+2024-12-03 11:10:07,767 - INFO - Locating and entering password
+2024-12-03 11:10:10,108 - INFO - Entered password
+2024-12-03 11:10:10,109 - INFO - Finding the captcha code and storing in png file
+2024-12-03 11:10:10,143 - INFO - extracting the captcha code and saving in png file
+2024-12-03 11:10:10,362 - INFO - extracting the captcha code text
+2024-12-03 11:10:11,142 - INFO - extracted the captcha code text
+2024-12-03 11:10:11,142 - INFO - Locating and entering Captcha
+2024-12-03 11:10:11,392 - INFO - Entered Captcha
+2024-12-03 11:10:15,561 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-dvj-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EE966CB5+28821]
+	(No symbol) [0x00007FF6EE8D3840]
+	(No symbol) [0x00007FF6EE77578A]
+	(No symbol) [0x00007FF6EE7D0E8E]
+	(No symbol) [0x00007FF6EE7CE92C]
+	(No symbol) [0x00007FF6EE7CBAF6]
+	(No symbol) [0x00007FF6EE7CAA51]
+	(No symbol) [0x00007FF6EE7BCBA0]
+	(No symbol) [0x00007FF6EE7EF2FA]
+	(No symbol) [0x00007FF6EE7BC3F6]
+	(No symbol) [0x00007FF6EE7EF510]
+	(No symbol) [0x00007FF6EE80F412]
+	(No symbol) [0x00007FF6EE7EF0A3]
+	(No symbol) [0x00007FF6EE7BA778]
+	(No symbol) [0x00007FF6EE7BB8E1]
+	GetHandleVerifier [0x00007FF6EEC9FCAD+3408013]
+	GetHandleVerifier [0x00007FF6EECB741F+3504127]
+	GetHandleVerifier [0x00007FF6EECAB5FD+3455453]
+	GetHandleVerifier [0x00007FF6EEA2BDBB+835995]
+	(No symbol) [0x00007FF6EE8DEB5F]
+	(No symbol) [0x00007FF6EE8DA814]
+	(No symbol) [0x00007FF6EE8DA9AD]
+	(No symbol) [0x00007FF6EE8CA199]
+	BaseThreadInitThunk [0x00007FF9DC317374+20]
+	RtlUserThreadStart [0x00007FF9DDE9CC91+33]
+
+2024-12-03 11:10:25,564 - INFO - Closing the browser
+2024-12-03 11:10:25,564 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 11:17:35,770 - INFO - Initializing WebDriver for Chrome
+2024-12-03 11:17:39,682 - INFO - Opening IRCTC homepage
+2024-12-03 11:17:46,789 - INFO - Test Case 1 Passed
+2024-12-03 11:17:46,790 - INFO - Clicking on Login Button
+2024-12-03 11:17:48,552 - INFO - Clicked on Login Button
+2024-12-03 11:17:49,924 - INFO - Locating and entering username
+2024-12-03 11:17:52,461 - INFO - Entered username
+2024-12-03 11:17:52,461 - INFO - Locating and entering password
+2024-12-03 11:17:54,810 - INFO - Entered password
+2024-12-03 11:17:54,810 - INFO - Finding the captcha code and storing in png file
+2024-12-03 11:17:54,843 - INFO - extracting the captcha code and saving in png file
+2024-12-03 11:17:55,001 - INFO - extracting the captcha code text
+2024-12-03 11:17:55,647 - INFO - extracted the captcha code text
+2024-12-03 11:17:55,648 - INFO - Locating and entering Captcha
+2024-12-03 11:17:56,314 - INFO - Entered Captcha
+2024-12-03 11:18:00,541 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-vjc-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EE966CB5+28821]
+	(No symbol) [0x00007FF6EE8D3840]
+	(No symbol) [0x00007FF6EE77578A]
+	(No symbol) [0x00007FF6EE7D0E8E]
+	(No symbol) [0x00007FF6EE7CE92C]
+	(No symbol) [0x00007FF6EE7CBAF6]
+	(No symbol) [0x00007FF6EE7CAA51]
+	(No symbol) [0x00007FF6EE7BCBA0]
+	(No symbol) [0x00007FF6EE7EF2FA]
+	(No symbol) [0x00007FF6EE7BC3F6]
+	(No symbol) [0x00007FF6EE7EF510]
+	(No symbol) [0x00007FF6EE80F412]
+	(No symbol) [0x00007FF6EE7EF0A3]
+	(No symbol) [0x00007FF6EE7BA778]
+	(No symbol) [0x00007FF6EE7BB8E1]
+	GetHandleVerifier [0x00007FF6EEC9FCAD+3408013]
+	GetHandleVerifier [0x00007FF6EECB741F+3504127]
+	GetHandleVerifier [0x00007FF6EECAB5FD+3455453]
+	GetHandleVerifier [0x00007FF6EEA2BDBB+835995]
+	(No symbol) [0x00007FF6EE8DEB5F]
+	(No symbol) [0x00007FF6EE8DA814]
+	(No symbol) [0x00007FF6EE8DA9AD]
+	(No symbol) [0x00007FF6EE8CA199]
+	BaseThreadInitThunk [0x00007FF9DC317374+20]
+	RtlUserThreadStart [0x00007FF9DDE9CC91+33]
+
+2024-12-03 11:18:10,547 - INFO - Closing the browser
+2024-12-03 11:18:10,547 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 11:18:50,828 - INFO - Initializing WebDriver for Chrome
+2024-12-03 11:18:55,533 - INFO - Opening IRCTC homepage
+2024-12-03 11:19:02,823 - INFO - Test Case 1 Passed
+2024-12-03 11:19:02,824 - INFO - Clicking on Login Button
+2024-12-03 11:19:05,085 - INFO - Clicked on Login Button
+2024-12-03 11:19:06,522 - INFO - Locating and entering username
+2024-12-03 11:19:08,812 - INFO - Entered username
+2024-12-03 11:19:08,812 - INFO - Locating and entering password
+2024-12-03 11:19:11,122 - INFO - Entered password
+2024-12-03 11:19:11,123 - INFO - Finding the captcha code and storing in png file
+2024-12-03 11:19:11,148 - INFO - extracting the captcha code and saving in png file
+2024-12-03 11:19:11,290 - INFO - extracting the captcha code text
+2024-12-03 11:19:11,962 - INFO - extracted the captcha code text
+2024-12-03 11:19:11,963 - INFO - Locating and entering Captcha
+2024-12-03 11:19:12,695 - INFO - Entered Captcha
+2024-12-03 11:19:16,865 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-hot-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EE966CB5+28821]
+	(No symbol) [0x00007FF6EE8D3840]
+	(No symbol) [0x00007FF6EE77578A]
+	(No symbol) [0x00007FF6EE7D0E8E]
+	(No symbol) [0x00007FF6EE7CE92C]
+	(No symbol) [0x00007FF6EE7CBAF6]
+	(No symbol) [0x00007FF6EE7CAA51]
+	(No symbol) [0x00007FF6EE7BCBA0]
+	(No symbol) [0x00007FF6EE7EF2FA]
+	(No symbol) [0x00007FF6EE7BC3F6]
+	(No symbol) [0x00007FF6EE7EF510]
+	(No symbol) [0x00007FF6EE80F412]
+	(No symbol) [0x00007FF6EE7EF0A3]
+	(No symbol) [0x00007FF6EE7BA778]
+	(No symbol) [0x00007FF6EE7BB8E1]
+	GetHandleVerifier [0x00007FF6EEC9FCAD+3408013]
+	GetHandleVerifier [0x00007FF6EECB741F+3504127]
+	GetHandleVerifier [0x00007FF6EECAB5FD+3455453]
+	GetHandleVerifier [0x00007FF6EEA2BDBB+835995]
+	(No symbol) [0x00007FF6EE8DEB5F]
+	(No symbol) [0x00007FF6EE8DA814]
+	(No symbol) [0x00007FF6EE8DA9AD]
+	(No symbol) [0x00007FF6EE8CA199]
+	BaseThreadInitThunk [0x00007FF9DC317374+20]
+	RtlUserThreadStart [0x00007FF9DDE9CC91+33]
+
+2024-12-03 11:19:26,878 - INFO - Closing the browser
+2024-12-03 11:19:26,878 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 11:21:24,303 - INFO - Initializing WebDriver for Chrome
+2024-12-03 11:21:28,144 - INFO - Opening IRCTC homepage
+2024-12-03 11:21:35,422 - INFO - Test Case 1 Passed
+2024-12-03 11:21:35,423 - INFO - Clicking on Login Button
+2024-12-03 11:21:37,598 - INFO - Clicked on Login Button
+2024-12-03 11:21:38,897 - INFO - Locating and entering username
+2024-12-03 11:21:41,213 - INFO - Entered username
+2024-12-03 11:21:41,213 - INFO - Locating and entering password
+2024-12-03 11:21:43,714 - INFO - Entered password
+2024-12-03 11:21:43,715 - INFO - Finding the captcha code and storing in png file
+2024-12-03 11:21:43,757 - INFO - extracting the captcha code and saving in png file
+2024-12-03 11:21:43,928 - INFO - extracting the captcha code text
+2024-12-03 11:21:45,032 - INFO - extracted the captcha code text
+2024-12-03 11:21:45,034 - INFO - Locating and entering Captcha
+2024-12-03 11:21:45,444 - INFO - Entered Captcha
+2024-12-03 11:21:48,819 - INFO - Login Successfully !
+2024-12-03 11:21:48,819 - INFO - Test Case 2 Passed
+2024-12-03 11:21:48,819 - INFO - Enter the source 
+2024-12-03 11:21:49,276 - INFO - Entered Source
+2024-12-03 11:21:49,276 - INFO - Enter the Destination 
+2024-12-03 11:21:49,733 - INFO - Entered Destination
+2024-12-03 11:21:49,734 - INFO - Entering the date
+2024-12-03 11:21:50,499 - INFO - Entered the date
+2024-12-03 11:21:50,499 - INFO - Selecting the Class
+2024-12-03 11:21:51,187 - INFO - Entered the Class
+2024-12-03 11:21:51,530 - INFO - Clicked Checkbox
+2024-12-03 11:21:51,530 - INFO - trying for closing popup window by ok
+2024-12-03 11:21:51,772 - INFO - closed popups
+2024-12-03 11:21:51,797 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[label="Find "]"}
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EE966CB5+28821]
+	(No symbol) [0x00007FF6EE8D3840]
+	(No symbol) [0x00007FF6EE77578A]
+	(No symbol) [0x00007FF6EE7C91BE]
+	(No symbol) [0x00007FF6EE7C94AC]
+	(No symbol) [0x00007FF6EE812647]
+	(No symbol) [0x00007FF6EE7EF33F]
+	(No symbol) [0x00007FF6EE80F412]
+	(No symbol) [0x00007FF6EE7EF0A3]
+	(No symbol) [0x00007FF6EE7BA778]
+	(No symbol) [0x00007FF6EE7BB8E1]
+	GetHandleVerifier [0x00007FF6EEC9FCAD+3408013]
+	GetHandleVerifier [0x00007FF6EECB741F+3504127]
+	GetHandleVerifier [0x00007FF6EECAB5FD+3455453]
+	GetHandleVerifier [0x00007FF6EEA2BDBB+835995]
+	(No symbol) [0x00007FF6EE8DEB5F]
+	(No symbol) [0x00007FF6EE8DA814]
+	(No symbol) [0x00007FF6EE8DA9AD]
+	(No symbol) [0x00007FF6EE8CA199]
+	BaseThreadInitThunk [0x00007FF9DC317374+20]
+	RtlUserThreadStart [0x00007FF9DDE9CC91+33]
+
+2024-12-03 11:22:01,803 - INFO - Closing the browser
+2024-12-03 11:22:01,803 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 11:29:43,076 - INFO - Initializing WebDriver for Chrome
+2024-12-03 11:29:46,955 - INFO - Opening IRCTC homepage
+2024-12-03 11:31:00,176 - ERROR - An error occurred: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-12-03 11:31:31,489 - INFO - Initializing WebDriver for Chrome
+2024-12-03 11:31:35,651 - INFO - Opening IRCTC homepage
+2024-12-03 11:31:43,403 - INFO - Test Case 1 Passed
+2024-12-03 11:31:43,403 - INFO - Clicking on Login Button
+2024-12-03 11:31:45,050 - INFO - Clicked on Login Button
+2024-12-03 11:31:46,451 - INFO - Locating and entering username
+2024-12-03 11:31:48,913 - INFO - Entered username
+2024-12-03 11:31:48,914 - INFO - Locating and entering password
+2024-12-03 11:31:51,323 - INFO - Entered password
+2024-12-03 11:31:51,323 - INFO - Finding the captcha code and storing in png file
+2024-12-03 11:31:51,359 - INFO - extracting the captcha code and saving in png file
+2024-12-03 11:31:51,592 - INFO - extracting the captcha code text
+2024-12-03 11:31:52,699 - INFO - extracted the captcha code text
+2024-12-03 11:31:52,702 - INFO - Locating and entering Captcha
+2024-12-03 11:31:53,279 - INFO - Entered Captcha
+2024-12-03 11:31:57,457 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-xdq-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div _ngcontent-xdq-c53="" class="dimmer"></div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EE966CB5+28821]
+	(No symbol) [0x00007FF6EE8D3840]
+	(No symbol) [0x00007FF6EE77578A]
+	(No symbol) [0x00007FF6EE7D0E8E]
+	(No symbol) [0x00007FF6EE7CE92C]
+	(No symbol) [0x00007FF6EE7CBAF6]
+	(No symbol) [0x00007FF6EE7CAA51]
+	(No symbol) [0x00007FF6EE7BCBA0]
+	(No symbol) [0x00007FF6EE7EF2FA]
+	(No symbol) [0x00007FF6EE7BC3F6]
+	(No symbol) [0x00007FF6EE7EF510]
+	(No symbol) [0x00007FF6EE80F412]
+	(No symbol) [0x00007FF6EE7EF0A3]
+	(No symbol) [0x00007FF6EE7BA778]
+	(No symbol) [0x00007FF6EE7BB8E1]
+	GetHandleVerifier [0x00007FF6EEC9FCAD+3408013]
+	GetHandleVerifier [0x00007FF6EECB741F+3504127]
+	GetHandleVerifier [0x00007FF6EECAB5FD+3455453]
+	GetHandleVerifier [0x00007FF6EEA2BDBB+835995]
+	(No symbol) [0x00007FF6EE8DEB5F]
+	(No symbol) [0x00007FF6EE8DA814]
+	(No symbol) [0x00007FF6EE8DA9AD]
+	(No symbol) [0x00007FF6EE8CA199]
+	BaseThreadInitThunk [0x00007FF9DC317374+20]
+	RtlUserThreadStart [0x00007FF9DDE9CC91+33]
+
+2024-12-03 11:32:07,462 - INFO - Closing the browser
+2024-12-03 11:32:07,464 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 11:32:45,300 - INFO - Initializing WebDriver for Chrome
+2024-12-03 11:32:48,733 - INFO - Opening IRCTC homepage
+2024-12-03 11:32:55,781 - INFO - Test Case 1 Passed
+2024-12-03 11:32:55,782 - INFO - Clicking on Login Button
+2024-12-03 11:32:57,718 - INFO - Clicked on Login Button
+2024-12-03 11:32:58,896 - INFO - Locating and entering username
+2024-12-03 11:33:01,324 - INFO - Entered username
+2024-12-03 11:33:01,324 - INFO - Locating and entering password
+2024-12-03 11:33:03,635 - INFO - Entered password
+2024-12-03 11:33:03,635 - INFO - Finding the captcha code and storing in png file
+2024-12-03 11:33:03,661 - INFO - extracting the captcha code and saving in png file
+2024-12-03 11:33:03,842 - INFO - extracting the captcha code text
+2024-12-03 11:33:04,559 - INFO - extracted the captcha code text
+2024-12-03 11:33:04,560 - INFO - Locating and entering Captcha
+2024-12-03 11:33:05,274 - INFO - Entered Captcha
+2024-12-03 11:33:09,472 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-gny-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EE966CB5+28821]
+	(No symbol) [0x00007FF6EE8D3840]
+	(No symbol) [0x00007FF6EE77578A]
+	(No symbol) [0x00007FF6EE7D0E8E]
+	(No symbol) [0x00007FF6EE7CE92C]
+	(No symbol) [0x00007FF6EE7CBAF6]
+	(No symbol) [0x00007FF6EE7CAA51]
+	(No symbol) [0x00007FF6EE7BCBA0]
+	(No symbol) [0x00007FF6EE7EF2FA]
+	(No symbol) [0x00007FF6EE7BC3F6]
+	(No symbol) [0x00007FF6EE7EF510]
+	(No symbol) [0x00007FF6EE80F412]
+	(No symbol) [0x00007FF6EE7EF0A3]
+	(No symbol) [0x00007FF6EE7BA778]
+	(No symbol) [0x00007FF6EE7BB8E1]
+	GetHandleVerifier [0x00007FF6EEC9FCAD+3408013]
+	GetHandleVerifier [0x00007FF6EECB741F+3504127]
+	GetHandleVerifier [0x00007FF6EECAB5FD+3455453]
+	GetHandleVerifier [0x00007FF6EEA2BDBB+835995]
+	(No symbol) [0x00007FF6EE8DEB5F]
+	(No symbol) [0x00007FF6EE8DA814]
+	(No symbol) [0x00007FF6EE8DA9AD]
+	(No symbol) [0x00007FF6EE8CA199]
+	BaseThreadInitThunk [0x00007FF9DC317374+20]
+	RtlUserThreadStart [0x00007FF9DDE9CC91+33]
+
+2024-12-03 11:33:19,478 - INFO - Closing the browser
+2024-12-03 11:33:19,479 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 11:33:36,364 - INFO - Initializing WebDriver for Chrome
+2024-12-03 11:33:39,844 - INFO - Opening IRCTC homepage
+2024-12-03 11:33:47,905 - INFO - Test Case 1 Passed
+2024-12-03 11:33:47,905 - INFO - Clicking on Login Button
+2024-12-03 11:33:49,811 - INFO - Clicked on Login Button
+2024-12-03 11:33:51,335 - INFO - Locating and entering username
+2024-12-03 11:33:53,787 - INFO - Entered username
+2024-12-03 11:33:53,787 - INFO - Locating and entering password
+2024-12-03 11:33:56,141 - INFO - Entered password
+2024-12-03 11:33:56,142 - INFO - Finding the captcha code and storing in png file
+2024-12-03 11:33:56,170 - INFO - extracting the captcha code and saving in png file
+2024-12-03 11:33:56,337 - INFO - extracting the captcha code text
+2024-12-03 11:33:57,272 - INFO - extracted the captcha code text
+2024-12-03 11:33:57,273 - INFO - Locating and entering Captcha
+2024-12-03 11:33:57,958 - INFO - Entered Captcha
+2024-12-03 11:34:02,138 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-bwi-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EE966CB5+28821]
+	(No symbol) [0x00007FF6EE8D3840]
+	(No symbol) [0x00007FF6EE77578A]
+	(No symbol) [0x00007FF6EE7D0E8E]
+	(No symbol) [0x00007FF6EE7CE92C]
+	(No symbol) [0x00007FF6EE7CBAF6]
+	(No symbol) [0x00007FF6EE7CAA51]
+	(No symbol) [0x00007FF6EE7BCBA0]
+	(No symbol) [0x00007FF6EE7EF2FA]
+	(No symbol) [0x00007FF6EE7BC3F6]
+	(No symbol) [0x00007FF6EE7EF510]
+	(No symbol) [0x00007FF6EE80F412]
+	(No symbol) [0x00007FF6EE7EF0A3]
+	(No symbol) [0x00007FF6EE7BA778]
+	(No symbol) [0x00007FF6EE7BB8E1]
+	GetHandleVerifier [0x00007FF6EEC9FCAD+3408013]
+	GetHandleVerifier [0x00007FF6EECB741F+3504127]
+	GetHandleVerifier [0x00007FF6EECAB5FD+3455453]
+	GetHandleVerifier [0x00007FF6EEA2BDBB+835995]
+	(No symbol) [0x00007FF6EE8DEB5F]
+	(No symbol) [0x00007FF6EE8DA814]
+	(No symbol) [0x00007FF6EE8DA9AD]
+	(No symbol) [0x00007FF6EE8CA199]
+	BaseThreadInitThunk [0x00007FF9DC317374+20]
+	RtlUserThreadStart [0x00007FF9DDE9CC91+33]
+
+2024-12-03 11:34:12,144 - INFO - Closing the browser
+2024-12-03 11:34:12,146 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 11:34:37,353 - INFO - Initializing WebDriver for Chrome
+2024-12-03 11:34:40,888 - INFO - Opening IRCTC homepage
+2024-12-03 11:34:48,220 - INFO - Test Case 1 Passed
+2024-12-03 11:34:48,220 - INFO - Clicking on Login Button
+2024-12-03 11:34:51,492 - INFO - Clicked on Login Button
+2024-12-03 11:34:51,605 - INFO - Locating and entering username
+2024-12-03 11:34:54,201 - INFO - Entered username
+2024-12-03 11:34:54,202 - INFO - Locating and entering password
+2024-12-03 11:34:56,571 - INFO - Entered password
+2024-12-03 11:34:56,571 - INFO - Finding the captcha code and storing in png file
+2024-12-03 11:34:56,605 - INFO - extracting the captcha code and saving in png file
+2024-12-03 11:34:56,788 - INFO - extracting the captcha code text
+2024-12-03 11:34:58,119 - INFO - extracted the captcha code text
+2024-12-03 11:34:58,121 - INFO - Locating and entering Captcha
+2024-12-03 11:34:58,787 - INFO - Entered Captcha
+2024-12-03 11:35:02,099 - INFO - Login Successfully !
+2024-12-03 11:35:02,100 - INFO - Test Case 2 Passed
+2024-12-03 11:35:02,100 - INFO - Enter the source 
+2024-12-03 11:35:02,678 - INFO - Entered Source
+2024-12-03 11:35:02,678 - INFO - Enter the Destination 
+2024-12-03 11:35:03,041 - INFO - Entered Destination
+2024-12-03 11:35:03,042 - INFO - Entering the date
+2024-12-03 11:35:03,675 - INFO - Entered the date
+2024-12-03 11:35:03,675 - INFO - Selecting the Class
+2024-12-03 11:35:04,400 - INFO - Entered the Class
+2024-12-03 11:35:04,758 - INFO - Clicked Checkbox
+2024-12-03 11:35:04,758 - INFO - trying for closing popup window by ok
+2024-12-03 11:35:05,069 - INFO - closed popups
+2024-12-03 11:35:05,124 - ERROR - An error occurred: Message: invalid selector
+from javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EE966CB5+28821]
+	(No symbol) [0x00007FF6EE8D3840]
+	(No symbol) [0x00007FF6EE77578A]
+	(No symbol) [0x00007FF6EE77C2ED]
+	(No symbol) [0x00007FF6EE77EFCC]
+	(No symbol) [0x00007FF6EE77F09F]
+	(No symbol) [0x00007FF6EE7C8C6A]
+	(No symbol) [0x00007FF6EE7C94AC]
+	(No symbol) [0x00007FF6EE812647]
+	(No symbol) [0x00007FF6EE7EF33F]
+	(No symbol) [0x00007FF6EE80F412]
+	(No symbol) [0x00007FF6EE7EF0A3]
+	(No symbol) [0x00007FF6EE7BA778]
+	(No symbol) [0x00007FF6EE7BB8E1]
+	GetHandleVerifier [0x00007FF6EEC9FCAD+3408013]
+	GetHandleVerifier [0x00007FF6EECB741F+3504127]
+	GetHandleVerifier [0x00007FF6EECAB5FD+3455453]
+	GetHandleVerifier [0x00007FF6EEA2BDBB+835995]
+	(No symbol) [0x00007FF6EE8DEB5F]
+	(No symbol) [0x00007FF6EE8DA814]
+	(No symbol) [0x00007FF6EE8DA9AD]
+	(No symbol) [0x00007FF6EE8CA199]
+	BaseThreadInitThunk [0x00007FF9DC317374+20]
+	RtlUserThreadStart [0x00007FF9DDE9CC91+33]
+
+2024-12-03 11:35:15,134 - INFO - Closing the browser
+2024-12-03 11:35:15,134 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 11:48:20,113 - INFO - Initializing WebDriver for Chrome
+2024-12-03 11:48:23,693 - INFO - Opening IRCTC homepage
+2024-12-03 11:48:23,993 - INFO - Test Case 1 Passed
+2024-12-03 11:48:23,993 - INFO - Clicking on Login Button
+2024-12-03 11:48:34,689 - INFO - Clicked on Login Button
+2024-12-03 11:48:34,759 - INFO - Locating and entering username
+2024-12-03 11:48:37,140 - INFO - Entered username
+2024-12-03 11:48:37,140 - INFO - Locating and entering password
+2024-12-03 11:48:39,539 - INFO - Entered password
+2024-12-03 11:48:39,540 - INFO - Finding the captcha code and storing in png file
+2024-12-03 11:48:39,590 - INFO - extracting the captcha code and saving in png file
+2024-12-03 11:48:39,930 - INFO - extracting the captcha code text
+2024-12-03 11:48:41,161 - INFO - extracted the captcha code text
+2024-12-03 11:48:41,162 - INFO - Locating and entering Captcha
+2024-12-03 11:48:41,756 - INFO - Entered Captcha
+2024-12-03 11:48:45,016 - INFO - Login Successfully !
+2024-12-03 11:48:45,017 - INFO - Test Case 2 Passed
+2024-12-03 11:48:45,017 - INFO - Enter the source 
+2024-12-03 11:48:45,301 - INFO - Entered Source
+2024-12-03 11:48:45,301 - INFO - Enter the Destination 
+2024-12-03 11:48:46,130 - INFO - Entered Destination
+2024-12-03 11:48:46,130 - INFO - Entering the date
+2024-12-03 11:48:46,775 - INFO - Entered the date
+2024-12-03 11:48:46,776 - INFO - Selecting the Class
+2024-12-03 11:48:47,504 - INFO - Entered the Class
+2024-12-03 11:48:47,874 - INFO - Clicked Checkbox
+2024-12-03 11:48:47,874 - INFO - trying for closing popup window by ok
+2024-12-03 11:48:48,122 - INFO - closed popups
+2024-12-03 11:48:48,459 - INFO - Searching Train 
+2024-12-03 11:48:51,466 - INFO - Test Cases 3 passed
+2024-12-03 11:49:01,475 - INFO - Closing the browser
+2024-12-03 11:49:01,475 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 11:52:45,733 - INFO - Initializing WebDriver for Chrome
+2024-12-03 11:52:49,392 - INFO - Opening IRCTC homepage
+2024-12-03 11:53:22,070 - ERROR - An error occurred: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-12-03 11:53:32,081 - INFO - Closing the browser
+2024-12-03 11:53:32,081 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 11:53:36,218 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001817FDE1930>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6c074099762fff7d6e80ee56ca42a26a
+2024-12-03 11:53:40,322 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001817FDE1C30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6c074099762fff7d6e80ee56ca42a26a
+2024-12-03 11:53:44,469 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001817FDE1D80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6c074099762fff7d6e80ee56ca42a26a
+2024-12-03 11:55:38,332 - INFO - Initializing WebDriver for Chrome
+2024-12-03 11:55:42,052 - INFO - Opening IRCTC homepage
+2024-12-03 11:55:45,918 - INFO - Test Case 1 Passed
+2024-12-03 11:55:45,919 - INFO - Clicking on Login Button
+2024-12-03 11:55:46,894 - INFO - Clicked on Login Button
+2024-12-03 11:55:48,492 - INFO - Locating and entering username
+2024-12-03 11:55:50,776 - INFO - Entered username
+2024-12-03 11:55:50,776 - INFO - Locating and entering password
+2024-12-03 11:55:53,073 - INFO - Entered password
+2024-12-03 11:55:53,073 - INFO - Finding the captcha code and storing in png file
+2024-12-03 11:55:53,098 - INFO - extracting the captcha code and saving in png file
+2024-12-03 11:55:53,300 - INFO - extracting the captcha code text
+2024-12-03 11:55:53,826 - INFO - extracted the captcha code text
+2024-12-03 11:55:53,827 - INFO - Locating and entering Captcha
+2024-12-03 11:55:54,213 - INFO - Entered Captcha
+2024-12-03 11:55:57,520 - INFO - Login Successfully !
+2024-12-03 11:55:57,520 - INFO - Test Case 2 Passed
+2024-12-03 11:55:57,520 - INFO - Enter the source 
+2024-12-03 11:55:58,513 - INFO - Entered Source
+2024-12-03 11:55:58,513 - INFO - Enter the Destination 
+2024-12-03 11:55:59,108 - INFO - Entered Destination
+2024-12-03 11:55:59,109 - INFO - Entering the date
+2024-12-03 11:55:59,830 - INFO - Entered the date
+2024-12-03 11:55:59,831 - INFO - Selecting the Class
+2024-12-03 11:56:00,373 - INFO - Entered the Class
+2024-12-03 11:56:00,776 - INFO - Clicked Checkbox
+2024-12-03 11:56:00,777 - INFO - trying for closing popup window by ok
+2024-12-03 11:56:01,028 - INFO - closed popups
+2024-12-03 11:56:04,358 - INFO - Test Cases 3 passed
+2024-12-03 11:56:14,373 - INFO - Closing the browser
+2024-12-03 11:56:14,373 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 12:00:05,556 - INFO - Initializing WebDriver for Chrome
+2024-12-03 12:00:09,330 - INFO - Opening IRCTC homepage
+2024-12-03 12:00:16,167 - INFO - Test Case 1 Passed
+2024-12-03 12:00:16,167 - INFO - Enter the source 
+2024-12-03 12:00:17,450 - INFO - Entered Source
+2024-12-03 12:00:17,450 - INFO - Enter the Destination 
+2024-12-03 12:00:17,993 - INFO - Entered Destination
+2024-12-03 12:00:17,993 - INFO - Entering the date
+2024-12-03 12:00:19,047 - INFO - Entered the date
+2024-12-03 12:00:19,047 - INFO - Selecting the Class
+2024-12-03 12:00:19,818 - INFO - Entered the Class
+2024-12-03 12:00:20,174 - INFO - Clicked Checkbox
+2024-12-03 12:00:20,174 - INFO - trying for closing popup window by ok
+2024-12-03 12:00:20,445 - INFO - closed popups
+2024-12-03 12:00:20,755 - INFO - Searching Train 
+2024-12-03 12:00:23,772 - INFO - Test Cases 3 passed
+2024-12-03 12:00:33,780 - INFO - Closing the browser
+2024-12-03 12:00:33,780 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 12:01:39,804 - INFO - Initializing WebDriver for Chrome
+2024-12-03 12:01:44,714 - INFO - Opening IRCTC homepage
+2024-12-03 12:01:52,295 - INFO - Test Case 1 Passed
+2024-12-03 12:01:52,295 - INFO - Enter the source 
+2024-12-03 12:01:53,908 - INFO - Entered Source
+2024-12-03 12:01:53,908 - INFO - Enter the Destination 
+2024-12-03 12:01:54,364 - INFO - Entered Destination
+2024-12-03 12:01:54,365 - INFO - Entering the date
+2024-12-03 12:01:55,081 - INFO - Entered the date
+2024-12-03 12:01:55,081 - INFO - Selecting the Class
+2024-12-03 12:01:55,662 - INFO - Entered the Class
+2024-12-03 12:01:56,057 - INFO - Clicked Checkbox
+2024-12-03 12:01:56,057 - INFO - trying for closing popup window by ok
+2024-12-03 12:01:56,334 - INFO - closed popups
+2024-12-03 12:01:56,615 - INFO - Searching Train 
+2024-12-03 12:01:59,616 - INFO - Test Cases 3 passed
+2024-12-03 12:02:09,618 - INFO - Closing the browser
+2024-12-03 12:02:09,618 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 12:02:40,055 - INFO - Initializing WebDriver for Chrome
+2024-12-03 12:02:43,602 - INFO - Opening IRCTC homepage
+2024-12-03 12:02:51,152 - INFO - Test Case 1 Passed
+2024-12-03 12:02:51,152 - INFO - Enter the source 
+2024-12-03 12:02:53,186 - INFO - Entered Source
+2024-12-03 12:02:53,186 - INFO - Enter the Destination 
+2024-12-03 12:02:53,752 - INFO - Entered Destination
+2024-12-03 12:02:53,752 - INFO - Entering the date
+2024-12-03 12:02:54,559 - INFO - Entered the date
+2024-12-03 12:02:54,559 - INFO - Selecting the Class
+2024-12-03 12:02:55,297 - INFO - Entered the Class
+2024-12-03 12:02:55,632 - INFO - Clicked Checkbox
+2024-12-03 12:02:55,633 - INFO - trying for closing popup window by ok
+2024-12-03 12:02:55,877 - INFO - closed popups
+2024-12-03 12:02:56,201 - INFO - Searching Train 
+2024-12-03 12:02:59,203 - INFO - Test Cases 3 passed
+2024-12-03 12:03:09,213 - INFO - Closing the browser
+2024-12-03 12:03:09,213 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 12:04:08,614 - INFO - Initializing WebDriver for Chrome
+2024-12-03 12:04:13,110 - INFO - Opening IRCTC homepage
+2024-12-03 12:04:20,214 - INFO - Test Case 1 Passed
+2024-12-03 12:04:20,214 - INFO - Enter the source 
+2024-12-03 12:04:21,901 - INFO - Entered Source
+2024-12-03 12:04:21,901 - INFO - Enter the Destination 
+2024-12-03 12:04:22,598 - INFO - Entered Destination
+2024-12-03 12:04:22,599 - INFO - Entering the date
+2024-12-03 12:04:23,657 - INFO - Entered the date
+2024-12-03 12:04:23,658 - INFO - Selecting the Class
+2024-12-03 12:04:24,285 - INFO - Entered the Class
+2024-12-03 12:04:24,668 - INFO - Clicked Checkbox
+2024-12-03 12:04:24,669 - INFO - trying for closing popup window by ok
+2024-12-03 12:04:24,931 - INFO - closed popups
+2024-12-03 12:05:52,367 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-dnj-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (168, 18). Other element would receive the click: <div _ngcontent-dnj-c48="" class="row col-sm-12 h_head1" style="margin-top: -3px;">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EE966CB5+28821]
+	(No symbol) [0x00007FF6EE8D3840]
+	(No symbol) [0x00007FF6EE77578A]
+	(No symbol) [0x00007FF6EE7D0E8E]
+	(No symbol) [0x00007FF6EE7CE92C]
+	(No symbol) [0x00007FF6EE7CBAF6]
+	(No symbol) [0x00007FF6EE7CAA51]
+	(No symbol) [0x00007FF6EE7BCBA0]
+	(No symbol) [0x00007FF6EE7EF2FA]
+	(No symbol) [0x00007FF6EE7BC3F6]
+	(No symbol) [0x00007FF6EE7EF510]
+	(No symbol) [0x00007FF6EE80F412]
+	(No symbol) [0x00007FF6EE7EF0A3]
+	(No symbol) [0x00007FF6EE7BA778]
+	(No symbol) [0x00007FF6EE7BB8E1]
+	GetHandleVerifier [0x00007FF6EEC9FCAD+3408013]
+	GetHandleVerifier [0x00007FF6EECB741F+3504127]
+	GetHandleVerifier [0x00007FF6EECAB5FD+3455453]
+	GetHandleVerifier [0x00007FF6EEA2BDBB+835995]
+	(No symbol) [0x00007FF6EE8DEB5F]
+	(No symbol) [0x00007FF6EE8DA814]
+	(No symbol) [0x00007FF6EE8DA9AD]
+	(No symbol) [0x00007FF6EE8CA199]
+	BaseThreadInitThunk [0x00007FF9DC317374+20]
+	RtlUserThreadStart [0x00007FF9DDE9CC91+33]
+
+2024-12-03 12:06:05,132 - INFO - Initializing WebDriver for Chrome
+2024-12-03 12:06:09,098 - INFO - Opening IRCTC homepage
+2024-12-03 12:06:15,562 - INFO - Test Case 1 Passed
+2024-12-03 12:06:15,562 - INFO - Enter the source 
+2024-12-03 12:06:17,248 - INFO - Entered Source
+2024-12-03 12:06:17,249 - INFO - Enter the Destination 
+2024-12-03 12:06:18,088 - INFO - Entered Destination
+2024-12-03 12:06:18,088 - INFO - Entering the date
+2024-12-03 12:06:19,025 - INFO - Entered the date
+2024-12-03 12:06:19,026 - INFO - Selecting the Class
+2024-12-03 12:06:19,648 - INFO - Entered the Class
+2024-12-03 12:06:20,045 - INFO - Clicked Checkbox
+2024-12-03 12:06:20,045 - INFO - trying for closing popup window by ok
+2024-12-03 12:06:20,429 - INFO - closed popups
+2024-12-03 12:07:22,146 - INFO - Searching Train 
+2024-12-03 12:07:33,686 - INFO - Test Cases 3 passed
+2024-12-03 12:08:38,872 - INFO - Initializing WebDriver for Chrome
+2024-12-03 12:08:43,587 - INFO - Opening IRCTC homepage
+2024-12-03 12:08:50,519 - INFO - Test Case 1 Passed
+2024-12-03 12:08:50,520 - INFO - Enter the source 
+2024-12-03 12:08:52,653 - INFO - Entered Source
+2024-12-03 12:08:52,654 - INFO - Enter the Destination 
+2024-12-03 12:08:53,238 - INFO - Entered Destination
+2024-12-03 12:08:53,239 - INFO - Entering the date
+2024-12-03 12:08:53,945 - INFO - Entered the date
+2024-12-03 12:08:53,945 - INFO - Selecting the Class
+2024-12-03 12:08:54,742 - INFO - Entered the Class
+2024-12-03 12:08:55,068 - INFO - Clicked Checkbox
+2024-12-03 12:08:55,068 - INFO - trying for closing popup window by ok
+2024-12-03 12:08:55,331 - INFO - closed popups
+2024-12-03 12:13:11,105 - INFO - Searching Train 
+2024-12-03 12:13:38,930 - INFO - Initializing WebDriver for Chrome
+2024-12-03 12:13:42,466 - INFO - Opening IRCTC homepage
+2024-12-03 12:13:42,630 - INFO - Test Case 1 Passed
+2024-12-03 12:13:42,631 - INFO - Enter the source 
+2024-12-03 12:14:14,659 - INFO - Entered Source
+2024-12-03 12:14:14,660 - INFO - Enter the Destination 
+2024-12-03 12:14:15,612 - INFO - Entered Destination
+2024-12-03 12:14:15,613 - INFO - Entering the date
+2024-12-03 12:14:16,493 - INFO - Entered the date
+2024-12-03 12:14:16,493 - INFO - Selecting the Class
+2024-12-03 12:14:17,046 - INFO - Entered the Class
+2024-12-03 12:14:17,379 - INFO - Clicked Checkbox
+2024-12-03 12:14:17,379 - INFO - trying for closing popup window by ok
+2024-12-03 12:14:17,664 - INFO - closed popups
+2024-12-03 12:14:17,978 - INFO - Searching Train 
+2024-12-03 12:14:20,990 - INFO - Test Cases 3 passed
+2024-12-03 12:14:31,002 - INFO - Closing the browser
+2024-12-03 12:14:31,002 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 12:18:27,497 - INFO - Initializing WebDriver for Chrome
+2024-12-03 12:18:31,147 - INFO - Opening IRCTC homepage
+2024-12-03 12:18:38,487 - INFO - Test Case 1 Passed
+2024-12-03 12:18:38,487 - INFO - Enter the source 
+2024-12-03 12:18:40,478 - INFO - Entered Source
+2024-12-03 12:18:40,479 - INFO - Enter the Destination 
+2024-12-03 12:18:41,246 - INFO - Entered Destination
+2024-12-03 12:18:41,247 - INFO - Entering the date
+2024-12-03 12:18:42,115 - INFO - Entered the date
+2024-12-03 12:18:42,115 - INFO - Selecting the Class
+2024-12-03 12:18:42,805 - INFO - Entered the Class
+2024-12-03 12:18:43,189 - INFO - Clicked Checkbox
+2024-12-03 12:18:43,189 - INFO - trying for closing popup window by ok
+2024-12-03 12:18:43,451 - INFO - closed popups
+2024-12-03 12:18:43,552 - INFO - Searching Train 
+2024-12-03 12:18:46,555 - INFO - Test Cases 3 passed
+2024-12-03 12:18:56,567 - INFO - Closing the browser
+2024-12-03 12:18:56,567 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 12:20:11,825 - INFO - Initializing WebDriver for Chrome
+2024-12-03 12:20:15,401 - INFO - Opening IRCTC homepage
+2024-12-03 12:20:16,460 - INFO - Test Case 1 Passed
+2024-12-03 12:20:16,460 - INFO - Enter the source 
+2024-12-03 12:20:16,495 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="origin"]/span/input"}
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EE966CB5+28821]
+	(No symbol) [0x00007FF6EE8D3840]
+	(No symbol) [0x00007FF6EE77578A]
+	(No symbol) [0x00007FF6EE7C91BE]
+	(No symbol) [0x00007FF6EE7C94AC]
+	(No symbol) [0x00007FF6EE812647]
+	(No symbol) [0x00007FF6EE7EF33F]
+	(No symbol) [0x00007FF6EE80F412]
+	(No symbol) [0x00007FF6EE7EF0A3]
+	(No symbol) [0x00007FF6EE7BA778]
+	(No symbol) [0x00007FF6EE7BB8E1]
+	GetHandleVerifier [0x00007FF6EEC9FCAD+3408013]
+	GetHandleVerifier [0x00007FF6EECB741F+3504127]
+	GetHandleVerifier [0x00007FF6EECAB5FD+3455453]
+	GetHandleVerifier [0x00007FF6EEA2BDBB+835995]
+	(No symbol) [0x00007FF6EE8DEB5F]
+	(No symbol) [0x00007FF6EE8DA814]
+	(No symbol) [0x00007FF6EE8DA9AD]
+	(No symbol) [0x00007FF6EE8CA199]
+	BaseThreadInitThunk [0x00007FF9DC317374+20]
+	RtlUserThreadStart [0x00007FF9DDE9CC91+33]
+
+2024-12-03 12:20:26,502 - INFO - Closing the browser
+2024-12-03 12:20:26,503 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 12:22:18,965 - INFO - Initializing WebDriver for Chrome
+2024-12-03 12:22:22,640 - INFO - Opening IRCTC homepage
+2024-12-03 12:22:29,915 - INFO - Test Case 1 Passed
+2024-12-03 12:22:29,915 - INFO - Enter the source 
+2024-12-03 12:22:30,576 - INFO - Entered Source
+2024-12-03 12:22:30,577 - INFO - Enter the Destination 
+2024-12-03 12:22:31,838 - INFO - Entered Destination
+2024-12-03 12:22:31,838 - INFO - Entering the date
+2024-12-03 12:22:32,653 - INFO - Entered the date
+2024-12-03 12:22:32,654 - INFO - Selecting the Class
+2024-12-03 12:22:33,280 - INFO - Entered the Class
+2024-12-03 12:22:33,662 - INFO - Clicked Checkbox
+2024-12-03 12:22:33,662 - INFO - trying for closing popup window by ok
+2024-12-03 12:22:33,932 - INFO - closed popups
+2024-12-03 12:22:34,287 - INFO - Searching Train 
+2024-12-03 12:22:37,290 - INFO - Test Cases 3 passed
+2024-12-03 12:22:47,300 - INFO - Closing the browser
+2024-12-03 12:22:47,300 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 12:26:42,609 - INFO - Initializing WebDriver for Chrome
+2024-12-03 12:26:46,307 - INFO - Opening IRCTC homepage
+2024-12-03 12:26:53,512 - INFO - Test Case 1 Passed
+2024-12-03 12:26:53,513 - INFO - Enter the source 
+2024-12-03 12:26:55,325 - INFO - Entered Source
+2024-12-03 12:26:55,325 - INFO - Enter the Destination 
+2024-12-03 12:26:56,129 - INFO - Entered Destination
+2024-12-03 12:26:56,130 - INFO - Entering the date
+2024-12-03 12:26:57,091 - INFO - Entered the date
+2024-12-03 12:26:57,091 - INFO - Selecting the Class
+2024-12-03 12:26:57,707 - INFO - Entered the Class
+2024-12-03 12:26:58,066 - INFO - Clicked Checkbox
+2024-12-03 12:26:58,067 - INFO - trying for closing popup window by ok
+2024-12-03 12:26:58,323 - INFO - closed popups
+2024-12-03 12:26:58,667 - INFO - Searching Train 
+2024-12-03 12:27:01,672 - INFO - Test Cases 3 passed
+2024-12-03 12:27:11,675 - INFO - Closing the browser
+2024-12-03 12:27:11,675 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 12:29:19,989 - INFO - Initializing WebDriver for Chrome
+2024-12-03 12:29:23,611 - INFO - Opening IRCTC homepage
+2024-12-03 12:29:30,191 - INFO - Test Case 1 Passed
+2024-12-03 12:29:30,191 - INFO - Enter the source 
+2024-12-03 12:29:31,722 - INFO - Entered Source
+2024-12-03 12:29:31,722 - INFO - Enter the Destination 
+2024-12-03 12:29:32,596 - INFO - Entered Destination
+2024-12-03 12:29:32,596 - INFO - Entering the date
+2024-12-03 12:29:33,478 - INFO - Entered the date
+2024-12-03 12:29:33,478 - INFO - Selecting the Class
+2024-12-03 12:29:34,197 - INFO - Entered the Class
+2024-12-03 12:29:34,526 - INFO - Clicked Checkbox
+2024-12-03 12:29:34,526 - INFO - trying for closing popup window by ok
+2024-12-03 12:29:34,768 - INFO - closed popups
+2024-12-03 12:29:35,136 - INFO - Searching Train 
+2024-12-03 12:29:38,147 - INFO - Test Cases 3 passed
+2024-12-03 12:29:48,152 - INFO - Closing the browser
+2024-12-03 12:29:48,152 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 12:31:20,349 - INFO - Initializing WebDriver for Chrome
+2024-12-03 12:31:24,149 - INFO - Opening IRCTC homepage
+2024-12-03 12:31:24,405 - INFO - Test Case 1 Passed
+2024-12-03 12:31:24,405 - INFO - Enter the source 
+2024-12-03 12:31:33,944 - INFO - Entered Source
+2024-12-03 12:31:33,944 - INFO - Enter the Destination 
+2024-12-03 12:31:34,601 - INFO - Entered Destination
+2024-12-03 12:31:34,602 - INFO - Entering the date
+2024-12-03 12:31:35,654 - INFO - Entered the date
+2024-12-03 12:31:35,655 - INFO - Selecting the Class
+2024-12-03 12:31:36,374 - INFO - Entered the Class
+2024-12-03 12:31:36,778 - INFO - Clicked Checkbox
+2024-12-03 12:31:36,779 - INFO - trying for closing popup window by ok
+2024-12-03 12:31:37,020 - INFO - closed popups
+2024-12-03 12:31:37,368 - INFO - Searching Train 
+2024-12-03 12:31:40,370 - INFO - Test Cases 3 passed
+2024-12-03 12:31:50,382 - INFO - Closing the browser
+2024-12-03 12:31:50,384 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 12:32:06,623 - INFO - Initializing WebDriver for Chrome
+2024-12-03 12:32:10,379 - INFO - Opening IRCTC homepage
+2024-12-03 12:32:17,555 - INFO - Test Case 1 Passed
+2024-12-03 12:32:17,556 - INFO - Enter the source 
+2024-12-03 12:32:18,833 - INFO - Entered Source
+2024-12-03 12:32:18,834 - INFO - Enter the Destination 
+2024-12-03 12:32:19,422 - INFO - Entered Destination
+2024-12-03 12:32:19,423 - INFO - Entering the date
+2024-12-03 12:32:20,337 - INFO - Entered the date
+2024-12-03 12:32:20,337 - INFO - Selecting the Class
+2024-12-03 12:32:20,963 - INFO - Entered the Class
+2024-12-03 12:32:21,364 - INFO - Clicked Checkbox
+2024-12-03 12:32:21,364 - INFO - trying for closing popup window by ok
+2024-12-03 12:32:21,621 - INFO - closed popups
+2024-12-03 12:32:21,948 - INFO - Searching Train 
+2024-12-03 12:32:24,955 - INFO - Test Cases 3 passed
+2024-12-03 12:32:34,965 - INFO - Closing the browser
+2024-12-03 12:32:34,965 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 12:36:54,378 - INFO - Initializing WebDriver for Chrome
+2024-12-03 12:36:58,086 - INFO - Opening IRCTC homepage
+2024-12-03 12:37:04,370 - INFO - Test Case 1 Passed
+2024-12-03 12:37:04,371 - INFO - Enter the source 
+2024-12-03 12:37:05,292 - INFO - Entered Source
+2024-12-03 12:37:05,292 - INFO - Enter the Destination 
+2024-12-03 12:37:05,803 - INFO - Entered Destination
+2024-12-03 12:37:05,803 - INFO - Entering the date
+2024-12-03 12:37:06,762 - INFO - Entered the date
+2024-12-03 12:37:06,763 - INFO - Selecting the Class
+2024-12-03 12:37:07,609 - INFO - Entered the Class
+2024-12-03 12:37:08,130 - INFO - Clicked Checkbox
+2024-12-03 12:37:08,130 - INFO - trying for closing popup window by ok
+2024-12-03 12:37:08,346 - INFO - closed popups
+2024-12-03 12:37:08,666 - INFO - Searching Train 
+2024-12-03 12:37:11,678 - INFO - Test Cases 3 passed
+2024-12-03 12:37:21,712 - INFO - Closing the browser
+2024-12-03 12:37:21,713 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 12:37:38,923 - INFO - Initializing WebDriver for Chrome
+2024-12-03 12:37:42,533 - INFO - Opening IRCTC homepage
+2024-12-03 12:37:42,710 - INFO - Test Case 1 Passed
+2024-12-03 12:37:42,711 - INFO - Enter the source 
+2024-12-03 12:37:46,593 - INFO - Entered Source
+2024-12-03 12:37:46,593 - INFO - Enter the Destination 
+2024-12-03 12:37:48,437 - INFO - Entered Destination
+2024-12-03 12:37:48,438 - INFO - Entering the date
+2024-12-03 12:37:49,301 - INFO - Entered the date
+2024-12-03 12:37:49,301 - INFO - Selecting the Class
+2024-12-03 12:37:50,122 - INFO - Entered the Class
+2024-12-03 12:37:50,502 - INFO - Clicked Checkbox
+2024-12-03 12:37:50,502 - INFO - trying for closing popup window by ok
+2024-12-03 12:37:50,761 - INFO - closed popups
+2024-12-03 12:37:51,119 - INFO - Searching Train 
+2024-12-03 12:37:54,131 - INFO - Test Cases 3 passed
+2024-12-03 12:38:04,133 - INFO - Closing the browser
+2024-12-03 12:38:04,133 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 12:42:20,930 - INFO - Initializing WebDriver for Chrome
+2024-12-03 12:42:24,574 - INFO - Opening IRCTC homepage
+2024-12-03 12:42:31,437 - INFO - Test Case 1 Passed
+2024-12-03 12:42:31,437 - INFO - Enter the source 
+2024-12-03 12:42:33,044 - INFO - Entered Source
+2024-12-03 12:42:33,045 - INFO - Enter the Destination 
+2024-12-03 12:42:33,610 - INFO - Entered Destination
+2024-12-03 12:42:33,610 - INFO - Entering the date
+2024-12-03 12:42:34,685 - INFO - Entered the date
+2024-12-03 12:42:34,685 - INFO - Selecting the Class
+2024-12-03 12:42:35,349 - INFO - Entered the Class
+2024-12-03 12:42:35,798 - INFO - Clicked Checkbox
+2024-12-03 12:42:35,799 - INFO - trying for closing popup window by ok
+2024-12-03 12:42:36,091 - INFO - closed popups
+2024-12-03 12:42:36,611 - INFO - Searching Train 
+2024-12-03 12:42:39,624 - INFO - Test Cases 3 passed
+2024-12-03 12:42:49,635 - INFO - Closing the browser
+2024-12-03 12:42:49,635 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 12:50:23,007 - INFO - Initializing WebDriver for Chrome
+2024-12-03 12:50:26,716 - INFO - Opening IRCTC homepage
+2024-12-03 12:50:33,491 - INFO - Test Case 1 Passed
+2024-12-03 12:50:33,492 - INFO - Enter the source 
+2024-12-03 12:50:34,714 - INFO - Entered Source
+2024-12-03 12:50:34,715 - INFO - Enter the Destination 
+2024-12-03 12:50:35,253 - INFO - Entered Destination
+2024-12-03 12:50:35,254 - INFO - Entering the date
+2024-12-03 12:50:36,193 - INFO - Entered the date
+2024-12-03 12:50:36,194 - INFO - Selecting the Class
+2024-12-03 12:50:36,811 - INFO - Entered the Class
+2024-12-03 12:50:37,247 - INFO - Clicked Checkbox
+2024-12-03 12:50:37,247 - INFO - trying for closing popup window by ok
+2024-12-03 12:50:37,510 - INFO - closed popups
+2024-12-03 12:50:37,975 - INFO - Searching Train 
+2024-12-03 12:50:40,991 - INFO - Test Cases 3 passed
+2024-12-03 12:50:51,006 - INFO - Closing the browser
+2024-12-03 12:50:51,007 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 12:52:33,624 - INFO - Initializing WebDriver for Chrome
+2024-12-03 12:52:37,287 - INFO - Opening IRCTC homepage
+2024-12-03 12:52:45,118 - INFO - Test Case 1 Passed
+2024-12-03 12:52:45,118 - INFO - Enter the source 
+2024-12-03 12:52:46,229 - INFO - Entered Source
+2024-12-03 12:52:46,230 - INFO - Enter the Destination 
+2024-12-03 12:52:47,020 - INFO - Entered Destination
+2024-12-03 12:52:47,020 - INFO - Entering the date
+2024-12-03 12:52:48,067 - INFO - Entered the date
+2024-12-03 12:52:48,068 - INFO - Selecting the Class
+2024-12-03 12:52:48,835 - INFO - Entered the Class
+2024-12-03 12:52:49,219 - INFO - Clicked Checkbox
+2024-12-03 12:52:49,220 - INFO - trying for closing popup window by ok
+2024-12-03 12:52:49,465 - INFO - closed popups
+2024-12-03 12:52:49,550 - INFO - Searching Train 
+2024-12-03 12:52:52,562 - INFO - Test Cases 3 passed
+2024-12-03 12:53:02,565 - INFO - Closing the browser
+2024-12-03 12:53:02,565 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-03 12:53:56,618 - INFO - Initializing WebDriver for Chrome
+2024-12-03 12:54:00,157 - INFO - Opening IRCTC homepage
+2024-12-03 12:54:07,519 - INFO - Test Case 1 Passed
+2024-12-03 12:54:07,519 - INFO - Enter the source 
+2024-12-03 12:54:08,252 - INFO - Entered Source
+2024-12-03 12:54:08,253 - INFO - Enter the Destination 
+2024-12-03 12:54:09,575 - INFO - Entered Destination
+2024-12-03 12:54:09,575 - INFO - Entering the date
+2024-12-03 12:54:10,521 - INFO - Entered the date
+2024-12-03 12:54:10,521 - INFO - Selecting the Class
+2024-12-03 12:54:11,249 - INFO - Entered the Class
+2024-12-03 12:54:11,650 - INFO - Clicked Checkbox
+2024-12-03 12:54:11,650 - INFO - trying for closing popup window by ok
+2024-12-03 12:54:11,895 - INFO - closed popups
+2024-12-03 12:54:17,029 - INFO - Searching Train 
+2024-12-03 12:54:20,036 - INFO - Test Cases 3 passed
+2024-12-03 12:54:30,044 - INFO - Closing the browser
+2024-12-03 12:54:30,045 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-04 12:26:26,755 - INFO - Initializing WebDriver for Chrome
+2024-12-04 12:26:30,312 - INFO - Opening IRCTC homepage
+2024-12-04 12:26:30,483 - INFO - Test Case 1 Passed
+2024-12-04 12:26:30,484 - INFO - Enter the source 
+2024-12-04 12:26:39,008 - INFO - Entered Source
+2024-12-04 12:26:39,008 - INFO - Enter the Destination 
+2024-12-04 12:26:39,881 - INFO - Entered Destination
+2024-12-04 12:26:39,882 - INFO - Entering the date
+2024-12-04 12:26:40,762 - INFO - Entered the date
+2024-12-04 12:26:40,762 - INFO - Selecting the Class
+2024-12-04 12:26:41,390 - INFO - Entered the Class
+2024-12-04 12:26:41,762 - INFO - Clicked Checkbox
+2024-12-04 12:26:41,762 - INFO - trying for closing popup window by ok
+2024-12-04 12:26:42,006 - INFO - closed popups
+2024-12-04 12:26:47,306 - INFO - Searching Train 
+2024-12-04 12:26:50,316 - INFO - Test Cases 3 passed
+2024-12-04 12:27:00,323 - INFO - Closing the browser
+2024-12-04 12:27:00,323 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-04 12:31:03,619 - INFO - Initializing WebDriver for Chrome
+2024-12-04 12:31:07,172 - INFO - Opening IRCTC homepage
+2024-12-04 12:31:14,144 - INFO - Test Case 1 Passed
+2024-12-04 12:31:14,144 - INFO - Enter the source 
+2024-12-04 12:31:15,524 - INFO - Entered Source
+2024-12-04 12:31:15,524 - INFO - Enter the Destination 
+2024-12-04 12:31:16,014 - INFO - Entered Destination
+2024-12-04 12:31:16,014 - INFO - Entering the date
+2024-12-04 12:31:16,598 - ERROR - An error occurred: Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression //*[@id=\"jDate\"]/span/div/div/div[2]/table/tbody/tr[1]/td[5s]/a because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id=\"jDate\"]/span/div/div/div[2]/table/tbody/tr[1]/td[5s]/a' is not a valid XPath expression."}
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF67EEB6CF5+28821]
+	(No symbol) [0x00007FF67EE23880]
+	(No symbol) [0x00007FF67ECC578A]
+	(No symbol) [0x00007FF67ECCC2ED]
+	(No symbol) [0x00007FF67ECCEFCC]
+	(No symbol) [0x00007FF67ECCF09F]
+	(No symbol) [0x00007FF67ED18C6A]
+	(No symbol) [0x00007FF67ED194AC]
+	(No symbol) [0x00007FF67ED62647]
+	(No symbol) [0x00007FF67ED3F33F]
+	(No symbol) [0x00007FF67ED5F412]
+	(No symbol) [0x00007FF67ED3F0A3]
+	(No symbol) [0x00007FF67ED0A778]
+	(No symbol) [0x00007FF67ED0B8E1]
+	GetHandleVerifier [0x00007FF67F1EFCED+3408013]
+	GetHandleVerifier [0x00007FF67F20745F+3504127]
+	GetHandleVerifier [0x00007FF67F1FB63D+3455453]
+	GetHandleVerifier [0x00007FF67EF7BDFB+835995]
+	(No symbol) [0x00007FF67EE2EB9F]
+	(No symbol) [0x00007FF67EE2A854]
+	(No symbol) [0x00007FF67EE2A9ED]
+	(No symbol) [0x00007FF67EE1A1D9]
+	BaseThreadInitThunk [0x00007FFB83017374+20]
+	RtlUserThreadStart [0x00007FFB845DCC91+33]
+
+2024-12-04 12:31:26,611 - INFO - Closing the browser
+2024-12-04 12:31:26,611 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-04 12:31:42,143 - INFO - Initializing WebDriver for Chrome
+2024-12-04 12:31:45,782 - INFO - Opening IRCTC homepage
+2024-12-04 12:31:52,796 - INFO - Test Case 1 Passed
+2024-12-04 12:31:52,797 - INFO - Enter the source 
+2024-12-04 12:31:53,791 - INFO - Entered Source
+2024-12-04 12:31:53,793 - INFO - Enter the Destination 
+2024-12-04 12:31:54,244 - INFO - Entered Destination
+2024-12-04 12:31:54,245 - INFO - Entering the date
+2024-12-04 12:31:55,138 - INFO - Entered the date
+2024-12-04 12:31:55,138 - INFO - Selecting the Class
+2024-12-04 12:31:55,889 - INFO - Entered the Class
+2024-12-04 12:31:56,218 - INFO - Clicked Checkbox
+2024-12-04 12:31:56,219 - INFO - trying for closing popup window by ok
+2024-12-04 12:31:56,569 - INFO - closed popups
+2024-12-04 12:32:01,830 - INFO - Searching Train 
+2024-12-04 12:32:04,839 - INFO - Test Cases 3 passed
+2024-12-04 12:32:14,847 - INFO - Closing the browser
+2024-12-04 12:32:14,847 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-04 12:46:15,345 - INFO - Initializing WebDriver for Chrome
+2024-12-04 12:46:19,098 - INFO - Opening IRCTC homepage
+2024-12-04 12:46:19,252 - INFO - Test Case 1 Passed
+2024-12-04 12:46:19,252 - INFO - Clicking on Login Button
+2024-12-04 12:46:26,717 - INFO - Clicked on Login Button
+2024-12-04 12:46:29,438 - INFO - Locating and entering username
+2024-12-04 12:46:31,886 - INFO - Entered username
+2024-12-04 12:46:31,887 - INFO - Locating and entering password
+2024-12-04 12:46:34,204 - INFO - Entered password
+2024-12-04 12:46:34,204 - INFO - Finding the captcha code and storing in png file
+2024-12-04 12:46:34,233 - INFO - extracting the captcha code and saving in png file
+2024-12-04 12:46:34,428 - INFO - extracting the captcha code text
+2024-12-04 12:46:35,169 - INFO - extracted the captcha code text
+2024-12-04 12:46:35,171 - INFO - Locating and entering Captcha
+2024-12-04 12:46:35,716 - INFO - Entered Captcha
+2024-12-04 12:46:38,751 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[type="submit"]"}
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF67EEB6CF5+28821]
+	(No symbol) [0x00007FF67EE23880]
+	(No symbol) [0x00007FF67ECC578A]
+	(No symbol) [0x00007FF67ED191BE]
+	(No symbol) [0x00007FF67ED194AC]
+	(No symbol) [0x00007FF67ED62647]
+	(No symbol) [0x00007FF67ED3F33F]
+	(No symbol) [0x00007FF67ED5F412]
+	(No symbol) [0x00007FF67ED3F0A3]
+	(No symbol) [0x00007FF67ED0A778]
+	(No symbol) [0x00007FF67ED0B8E1]
+	GetHandleVerifier [0x00007FF67F1EFCED+3408013]
+	GetHandleVerifier [0x00007FF67F20745F+3504127]
+	GetHandleVerifier [0x00007FF67F1FB63D+3455453]
+	GetHandleVerifier [0x00007FF67EF7BDFB+835995]
+	(No symbol) [0x00007FF67EE2EB9F]
+	(No symbol) [0x00007FF67EE2A854]
+	(No symbol) [0x00007FF67EE2A9ED]
+	(No symbol) [0x00007FF67EE1A1D9]
+	BaseThreadInitThunk [0x00007FFB83017374+20]
+	RtlUserThreadStart [0x00007FFB845DCC91+33]
+
+2024-12-04 12:46:48,762 - INFO - Closing the browser
+2024-12-04 12:46:48,762 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-04 12:47:37,257 - INFO - Initializing WebDriver for Chrome
+2024-12-04 12:47:40,772 - INFO - Opening IRCTC homepage
+2024-12-04 12:47:48,027 - INFO - Test Case 1 Passed
+2024-12-04 12:47:48,027 - INFO - Clicking on Login Button
+2024-12-04 12:47:49,308 - INFO - Clicked on Login Button
+2024-12-04 12:47:51,216 - INFO - Locating and entering username
+2024-12-04 12:47:53,511 - INFO - Entered username
+2024-12-04 12:47:53,511 - INFO - Locating and entering password
+2024-12-04 12:47:55,994 - INFO - Entered password
+2024-12-04 12:47:55,994 - INFO - Finding the captcha code and storing in png file
+2024-12-04 12:47:56,033 - INFO - extracting the captcha code and saving in png file
+2024-12-04 12:47:56,274 - INFO - extracting the captcha code text
+2024-12-04 12:47:57,223 - INFO - extracted the captcha code text
+2024-12-04 12:47:57,228 - INFO - Locating and entering Captcha
+2024-12-04 12:47:57,743 - INFO - Entered Captcha
+2024-12-04 12:48:01,118 - INFO - Login Successfully !
+2024-12-04 12:48:01,118 - INFO - Test Case 2 Passed
+2024-12-04 12:48:01,118 - INFO - Enter the source 
+2024-12-04 12:48:01,373 - INFO - Entered Source
+2024-12-04 12:48:01,374 - INFO - Enter the Destination 
+2024-12-04 12:48:02,365 - INFO - Entered Destination
+2024-12-04 12:48:02,365 - INFO - Entering the date
+2024-12-04 12:48:03,100 - INFO - Entered the date
+2024-12-04 12:48:03,100 - INFO - Selecting the Class
+2024-12-04 12:48:03,724 - INFO - Entered the Class
+2024-12-04 12:48:04,116 - INFO - Clicked Checkbox
+2024-12-04 12:48:04,117 - INFO - trying for closing popup window by ok
+2024-12-04 12:48:04,360 - INFO - closed popups
+2024-12-04 12:48:07,698 - INFO - Test Cases 3 passed
+2024-12-04 12:48:17,702 - INFO - Closing the browser
+2024-12-04 12:48:17,703 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-04 13:21:45,659 - INFO - Initializing WebDriver for Chrome
+2024-12-04 13:21:50,031 - INFO - Opening IRCTC homepage
+2024-12-04 13:21:57,643 - INFO - Test Case 1 Passed
+2024-12-04 13:21:57,643 - INFO - Clicking on Login Button
+2024-12-04 13:21:59,778 - INFO - Clicked on Login Button
+2024-12-04 13:22:01,403 - INFO - Locating and entering username
+2024-12-04 13:22:03,799 - INFO - Entered username
+2024-12-04 13:22:03,799 - INFO - Locating and entering password
+2024-12-04 13:22:06,220 - INFO - Entered password
+2024-12-04 13:22:06,220 - INFO - Finding the captcha code and storing in png file
+2024-12-04 13:22:06,266 - INFO - extracting the captcha code and saving in png file
+2024-12-04 13:22:06,554 - INFO - extracting the captcha code text
+2024-12-04 13:22:07,591 - INFO - extracted the captcha code text
+2024-12-04 13:22:07,593 - INFO - Locating and entering Captcha
+2024-12-04 13:22:08,220 - INFO - Entered Captcha
+2024-12-04 13:22:11,244 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[type="submit"]"}
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF67EEB6CF5+28821]
+	(No symbol) [0x00007FF67EE23880]
+	(No symbol) [0x00007FF67ECC578A]
+	(No symbol) [0x00007FF67ED191BE]
+	(No symbol) [0x00007FF67ED194AC]
+	(No symbol) [0x00007FF67ED62647]
+	(No symbol) [0x00007FF67ED3F33F]
+	(No symbol) [0x00007FF67ED5F412]
+	(No symbol) [0x00007FF67ED3F0A3]
+	(No symbol) [0x00007FF67ED0A778]
+	(No symbol) [0x00007FF67ED0B8E1]
+	GetHandleVerifier [0x00007FF67F1EFCED+3408013]
+	GetHandleVerifier [0x00007FF67F20745F+3504127]
+	GetHandleVerifier [0x00007FF67F1FB63D+3455453]
+	GetHandleVerifier [0x00007FF67EF7BDFB+835995]
+	(No symbol) [0x00007FF67EE2EB9F]
+	(No symbol) [0x00007FF67EE2A854]
+	(No symbol) [0x00007FF67EE2A9ED]
+	(No symbol) [0x00007FF67EE1A1D9]
+	BaseThreadInitThunk [0x00007FFB83017374+20]
+	RtlUserThreadStart [0x00007FFB845DCC91+33]
+
+2024-12-04 13:22:21,257 - INFO - Closing the browser
+2024-12-04 13:22:21,257 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-04 13:26:07,715 - INFO - Initializing WebDriver for Chrome
+2024-12-04 13:26:11,400 - INFO - Opening IRCTC homepage
+2024-12-04 13:26:18,528 - INFO - Test Case 1 Passed
+2024-12-04 13:26:18,529 - INFO - Clicking on Login Button
+2024-12-04 13:26:19,244 - INFO - Clicked on Login Button
+2024-12-04 13:26:20,483 - INFO - Locating and entering username
+2024-12-04 13:26:22,776 - INFO - Entered username
+2024-12-04 13:26:22,776 - INFO - Locating and entering password
+2024-12-04 13:26:25,731 - INFO - Entered password
+2024-12-04 13:26:25,731 - INFO - Finding the captcha code and storing in png file
+2024-12-04 13:26:25,777 - INFO - extracting the captcha code and saving in png file
+2024-12-04 13:26:25,996 - INFO - extracting the captcha code text
+2024-12-04 13:26:26,495 - INFO - extracted the captcha code text
+2024-12-04 13:26:26,496 - INFO - Locating and entering Captcha
+2024-12-04 13:26:26,998 - INFO - Entered Captcha
+2024-12-04 13:26:31,248 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-ajc-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67EEB6CF5+28821]
+	(No symbol) [0x00007FF67EE23880]
+	(No symbol) [0x00007FF67ECC578A]
+	(No symbol) [0x00007FF67ED20E8E]
+	(No symbol) [0x00007FF67ED1E92C]
+	(No symbol) [0x00007FF67ED1BAF6]
+	(No symbol) [0x00007FF67ED1AA51]
+	(No symbol) [0x00007FF67ED0CBA0]
+	(No symbol) [0x00007FF67ED3F2FA]
+	(No symbol) [0x00007FF67ED0C3F6]
+	(No symbol) [0x00007FF67ED3F510]
+	(No symbol) [0x00007FF67ED5F412]
+	(No symbol) [0x00007FF67ED3F0A3]
+	(No symbol) [0x00007FF67ED0A778]
+	(No symbol) [0x00007FF67ED0B8E1]
+	GetHandleVerifier [0x00007FF67F1EFCED+3408013]
+	GetHandleVerifier [0x00007FF67F20745F+3504127]
+	GetHandleVerifier [0x00007FF67F1FB63D+3455453]
+	GetHandleVerifier [0x00007FF67EF7BDFB+835995]
+	(No symbol) [0x00007FF67EE2EB9F]
+	(No symbol) [0x00007FF67EE2A854]
+	(No symbol) [0x00007FF67EE2A9ED]
+	(No symbol) [0x00007FF67EE1A1D9]
+	BaseThreadInitThunk [0x00007FFB83017374+20]
+	RtlUserThreadStart [0x00007FFB845DCC91+33]
+
+2024-12-04 13:26:41,255 - INFO - Closing the browser
+2024-12-04 13:26:41,255 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-04 13:33:09,814 - INFO - Initializing WebDriver for Chrome
+2024-12-04 13:33:13,407 - INFO - Opening IRCTC homepage
+2024-12-04 13:33:13,626 - INFO - Test Case 1 Passed
+2024-12-04 13:33:13,626 - INFO - Clicking on Login Button
+2024-12-04 13:33:23,926 - INFO - Clicked on Login Button
+2024-12-04 13:33:25,024 - INFO - Locating and entering username
+2024-12-04 13:33:27,349 - INFO - Entered username
+2024-12-04 13:33:27,349 - INFO - Locating and entering password
+2024-12-04 13:33:29,796 - INFO - Entered password
+2024-12-04 13:33:29,797 - INFO - Finding the captcha code and storing in png file
+2024-12-04 13:33:29,897 - INFO - extracting the captcha code and saving in png file
+2024-12-04 13:33:31,215 - INFO - extracting the captcha code text
+2024-12-04 13:33:31,865 - INFO - extracted the captcha code text
+2024-12-04 13:33:31,866 - INFO - Locating and entering Captcha
+2024-12-04 13:33:32,276 - INFO - Entered Captcha
+2024-12-04 13:33:35,858 - INFO - Login Successfully !
+2024-12-04 13:33:35,858 - INFO - Test Case 2 Passed
+2024-12-04 13:33:35,859 - INFO - Enter the source 
+2024-12-04 13:33:37,576 - INFO - Entered Source
+2024-12-04 13:33:37,577 - INFO - Enter the Destination 
+2024-12-04 13:33:38,432 - INFO - Entered Destination
+2024-12-04 13:33:38,433 - INFO - Entering the date
+2024-12-04 13:33:39,508 - INFO - Entered the date
+2024-12-04 13:33:39,508 - INFO - Selecting the Class
+2024-12-04 13:33:40,162 - INFO - Entered the Class
+2024-12-04 13:33:41,387 - ERROR - An error occurred: Message: element click intercepted: Element <label _ngcontent-kqx-c67="" for="passBooking" class="css-label_c t_c" style="color: #082b71; padding-right: 25px;">...</label> is not clickable at point (440, 536). Other element would receive the click: <li role="option" aria-label="Exec. Chair Car (EC)" aria-selected="false" class="ui-dropdown-item ui-corner-all">...</li>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67EEB6CF5+28821]
+	(No symbol) [0x00007FF67EE23880]
+	(No symbol) [0x00007FF67ECC578A]
+	(No symbol) [0x00007FF67ED20E8E]
+	(No symbol) [0x00007FF67ED1E92C]
+	(No symbol) [0x00007FF67ED1BAF6]
+	(No symbol) [0x00007FF67ED1AA51]
+	(No symbol) [0x00007FF67ED0CBA0]
+	(No symbol) [0x00007FF67ED3F2FA]
+	(No symbol) [0x00007FF67ED0C3F6]
+	(No symbol) [0x00007FF67ED3F510]
+	(No symbol) [0x00007FF67ED5F412]
+	(No symbol) [0x00007FF67ED3F0A3]
+	(No symbol) [0x00007FF67ED0A778]
+	(No symbol) [0x00007FF67ED0B8E1]
+	GetHandleVerifier [0x00007FF67F1EFCED+3408013]
+	GetHandleVerifier [0x00007FF67F20745F+3504127]
+	GetHandleVerifier [0x00007FF67F1FB63D+3455453]
+	GetHandleVerifier [0x00007FF67EF7BDFB+835995]
+	(No symbol) [0x00007FF67EE2EB9F]
+	(No symbol) [0x00007FF67EE2A854]
+	(No symbol) [0x00007FF67EE2A9ED]
+	(No symbol) [0x00007FF67EE1A1D9]
+	BaseThreadInitThunk [0x00007FFB83017374+20]
+	RtlUserThreadStart [0x00007FFB845DCC91+33]
+
+2024-12-04 13:33:51,399 - INFO - Closing the browser
+2024-12-04 13:33:51,399 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-04 13:35:08,810 - INFO - Initializing WebDriver for Chrome
+2024-12-04 13:35:12,471 - INFO - Opening IRCTC homepage
+2024-12-04 13:35:19,748 - INFO - Test Case 1 Passed
+2024-12-04 13:35:19,749 - INFO - Clicking on Login Button
+2024-12-04 13:35:23,279 - INFO - Clicked on Login Button
+2024-12-04 13:35:23,371 - INFO - Locating and entering username
+2024-12-04 13:35:25,799 - INFO - Entered username
+2024-12-04 13:35:25,799 - INFO - Locating and entering password
+2024-12-04 13:35:28,323 - INFO - Entered password
+2024-12-04 13:35:28,324 - INFO - Finding the captcha code and storing in png file
+2024-12-04 13:35:28,363 - INFO - extracting the captcha code and saving in png file
+2024-12-04 13:35:28,552 - INFO - extracting the captcha code text
+2024-12-04 13:35:29,269 - INFO - extracted the captcha code text
+2024-12-04 13:35:29,271 - INFO - Locating and entering Captcha
+2024-12-04 13:35:29,670 - INFO - Entered Captcha
+2024-12-04 13:35:33,211 - INFO - Login Successfully !
+2024-12-04 13:35:33,211 - INFO - Test Case 2 Passed
+2024-12-04 13:35:33,211 - INFO - Enter the source 
+2024-12-04 13:35:33,573 - INFO - Entered Source
+2024-12-04 13:35:33,573 - INFO - Enter the Destination 
+2024-12-04 13:35:34,682 - INFO - Entered Destination
+2024-12-04 13:35:34,682 - INFO - Entering the date
+2024-12-04 13:35:35,626 - INFO - Entered the date
+2024-12-04 13:35:35,627 - INFO - Selecting the Class
+2024-12-04 13:35:36,259 - INFO - Entered the Class
+2024-12-04 13:35:36,607 - INFO - Clicked Checkbox
+2024-12-04 13:35:36,607 - INFO - trying for closing popup window by ok
+2024-12-04 13:35:36,859 - INFO - closed popups
+2024-12-04 13:35:40,194 - INFO - Test Cases 3 passed
+2024-12-04 13:35:40,220 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".col-xs-12 link"}
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF67EEB6CF5+28821]
+	(No symbol) [0x00007FF67EE23880]
+	(No symbol) [0x00007FF67ECC578A]
+	(No symbol) [0x00007FF67ED191BE]
+	(No symbol) [0x00007FF67ED194AC]
+	(No symbol) [0x00007FF67ED62647]
+	(No symbol) [0x00007FF67ED3F33F]
+	(No symbol) [0x00007FF67ED5F412]
+	(No symbol) [0x00007FF67ED3F0A3]
+	(No symbol) [0x00007FF67ED0A778]
+	(No symbol) [0x00007FF67ED0B8E1]
+	GetHandleVerifier [0x00007FF67F1EFCED+3408013]
+	GetHandleVerifier [0x00007FF67F20745F+3504127]
+	GetHandleVerifier [0x00007FF67F1FB63D+3455453]
+	GetHandleVerifier [0x00007FF67EF7BDFB+835995]
+	(No symbol) [0x00007FF67EE2EB9F]
+	(No symbol) [0x00007FF67EE2A854]
+	(No symbol) [0x00007FF67EE2A9ED]
+	(No symbol) [0x00007FF67EE1A1D9]
+	BaseThreadInitThunk [0x00007FFB83017374+20]
+	RtlUserThreadStart [0x00007FFB845DCC91+33]
+
+2024-12-04 13:35:50,234 - INFO - Closing the browser
+2024-12-04 13:35:50,235 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-04 13:44:20,994 - INFO - Initializing WebDriver for Chrome
+2024-12-04 13:44:29,258 - INFO - Opening IRCTC homepage
+2024-12-04 13:44:37,715 - INFO - Test Case 1 Passed
+2024-12-04 13:44:37,716 - INFO - Clicking on Login Button
+2024-12-04 13:44:38,163 - ERROR - An error occurred: Message: element not interactable
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67EEB6CF5+28821]
+	(No symbol) [0x00007FF67EE23880]
+	(No symbol) [0x00007FF67ECC55B9]
+	(No symbol) [0x00007FF67ED1A674]
+	(No symbol) [0x00007FF67ED0CBA0]
+	(No symbol) [0x00007FF67ED3F2FA]
+	(No symbol) [0x00007FF67ED0C3F6]
+	(No symbol) [0x00007FF67ED3F510]
+	(No symbol) [0x00007FF67ED5F412]
+	(No symbol) [0x00007FF67ED3F0A3]
+	(No symbol) [0x00007FF67ED0A778]
+	(No symbol) [0x00007FF67ED0B8E1]
+	GetHandleVerifier [0x00007FF67F1EFCED+3408013]
+	GetHandleVerifier [0x00007FF67F20745F+3504127]
+	GetHandleVerifier [0x00007FF67F1FB63D+3455453]
+	GetHandleVerifier [0x00007FF67EF7BDFB+835995]
+	(No symbol) [0x00007FF67EE2EB9F]
+	(No symbol) [0x00007FF67EE2A854]
+	(No symbol) [0x00007FF67EE2A9ED]
+	(No symbol) [0x00007FF67EE1A1D9]
+	BaseThreadInitThunk [0x00007FFB83017374+20]
+	RtlUserThreadStart [0x00007FFB845DCC91+33]
+
+2024-12-04 13:44:48,178 - INFO - Closing the browser
+2024-12-04 13:44:48,178 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-04 13:45:13,142 - INFO - Initializing WebDriver for Chrome
+2024-12-04 13:45:20,963 - INFO - Opening IRCTC homepage
+2024-12-04 13:45:29,106 - INFO - Test Case 1 Passed
+2024-12-04 13:45:29,107 - INFO - Clicking on Login Button
+2024-12-04 13:45:29,443 - ERROR - An error occurred: Message: element not interactable
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67EEB6CF5+28821]
+	(No symbol) [0x00007FF67EE23880]
+	(No symbol) [0x00007FF67ECC55B9]
+	(No symbol) [0x00007FF67ED1A674]
+	(No symbol) [0x00007FF67ED0CBA0]
+	(No symbol) [0x00007FF67ED3F2FA]
+	(No symbol) [0x00007FF67ED0C3F6]
+	(No symbol) [0x00007FF67ED3F510]
+	(No symbol) [0x00007FF67ED5F412]
+	(No symbol) [0x00007FF67ED3F0A3]
+	(No symbol) [0x00007FF67ED0A778]
+	(No symbol) [0x00007FF67ED0B8E1]
+	GetHandleVerifier [0x00007FF67F1EFCED+3408013]
+	GetHandleVerifier [0x00007FF67F20745F+3504127]
+	GetHandleVerifier [0x00007FF67F1FB63D+3455453]
+	GetHandleVerifier [0x00007FF67EF7BDFB+835995]
+	(No symbol) [0x00007FF67EE2EB9F]
+	(No symbol) [0x00007FF67EE2A854]
+	(No symbol) [0x00007FF67EE2A9ED]
+	(No symbol) [0x00007FF67EE1A1D9]
+	BaseThreadInitThunk [0x00007FFB83017374+20]
+	RtlUserThreadStart [0x00007FFB845DCC91+33]
+
+2024-12-04 13:45:39,443 - INFO - Closing the browser
+2024-12-04 13:45:39,444 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-04 13:46:23,166 - INFO - Initializing WebDriver for Chrome
+2024-12-04 13:46:27,337 - INFO - Opening IRCTC homepage
+2024-12-04 13:46:41,052 - INFO - Test Case 1 Passed
+2024-12-04 13:46:41,052 - INFO - Clicking on Login Button
+2024-12-04 13:46:42,745 - INFO - Clicked on Login Button
+2024-12-04 13:46:42,814 - INFO - Locating and entering username
+2024-12-04 13:46:45,111 - INFO - Entered username
+2024-12-04 13:46:45,111 - INFO - Locating and entering password
+2024-12-04 13:46:47,486 - INFO - Entered password
+2024-12-04 13:46:47,486 - INFO - Finding the captcha code and storing in png file
+2024-12-04 13:46:47,519 - INFO - extracting the captcha code and saving in png file
+2024-12-04 13:46:47,741 - INFO - extracting the captcha code text
+2024-12-04 13:46:48,312 - INFO - extracted the captcha code text
+2024-12-04 13:46:48,316 - INFO - Locating and entering Captcha
+2024-12-04 13:46:48,915 - INFO - Entered Captcha
+2024-12-04 13:46:53,242 - INFO - Login Successfully !
+2024-12-04 13:46:53,243 - INFO - Test Case 2 Passed
+2024-12-04 13:46:53,243 - INFO - Enter the source 
+2024-12-04 13:46:53,905 - INFO - Entered Source
+2024-12-04 13:46:53,905 - INFO - Enter the Destination 
+2024-12-04 13:46:54,584 - INFO - Entered Destination
+2024-12-04 13:46:54,585 - INFO - Entering the date
+2024-12-04 13:46:55,388 - INFO - Entered the date
+2024-12-04 13:46:55,388 - INFO - Selecting the Class
+2024-12-04 13:46:56,967 - ERROR - An error occurred: Message: element click intercepted: Element <li role="option" aria-label="AC First Class (1A) " aria-selected="false" class="ui-dropdown-item ui-corner-all">...</li> is not clickable at point (538, 387). Other element would receive the click: <li role="option" aria-label="Exec. Chair Car (EC)" aria-selected="false" class="ui-dropdown-item ui-corner-all">...</li>
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67EEB6CF5+28821]
+	(No symbol) [0x00007FF67EE23880]
+	(No symbol) [0x00007FF67ECC578A]
+	(No symbol) [0x00007FF67ED20E8E]
+	(No symbol) [0x00007FF67ED1E92C]
+	(No symbol) [0x00007FF67ED1BAF6]
+	(No symbol) [0x00007FF67ED1AA51]
+	(No symbol) [0x00007FF67ED0CBA0]
+	(No symbol) [0x00007FF67ED3F2FA]
+	(No symbol) [0x00007FF67ED0C3F6]
+	(No symbol) [0x00007FF67ED3F510]
+	(No symbol) [0x00007FF67ED5F412]
+	(No symbol) [0x00007FF67ED3F0A3]
+	(No symbol) [0x00007FF67ED0A778]
+	(No symbol) [0x00007FF67ED0B8E1]
+	GetHandleVerifier [0x00007FF67F1EFCED+3408013]
+	GetHandleVerifier [0x00007FF67F20745F+3504127]
+	GetHandleVerifier [0x00007FF67F1FB63D+3455453]
+	GetHandleVerifier [0x00007FF67EF7BDFB+835995]
+	(No symbol) [0x00007FF67EE2EB9F]
+	(No symbol) [0x00007FF67EE2A854]
+	(No symbol) [0x00007FF67EE2A9ED]
+	(No symbol) [0x00007FF67EE1A1D9]
+	BaseThreadInitThunk [0x00007FFB83017374+20]
+	RtlUserThreadStart [0x00007FFB845DCC91+33]
+
+2024-12-04 13:47:06,971 - INFO - Closing the browser
+2024-12-04 13:47:06,971 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-06 11:45:29,394 - INFO - Initializing WebDriver for Chrome
+2024-12-06 11:45:34,677 - INFO - Opening IRCTC homepage
+2024-12-06 11:45:41,773 - INFO - Test Case 1 Passed
+2024-12-06 11:45:41,773 - INFO - Enter the source 
+2024-12-06 11:45:43,675 - INFO - Entered Source
+2024-12-06 11:45:43,675 - INFO - Enter the Destination 
+2024-12-06 11:45:44,539 - INFO - Entered Destination
+2024-12-06 11:45:44,539 - INFO - Entering the date
+2024-12-06 11:45:44,957 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="jDate"]/span/div/div/div[2]/table/tbody/tr[1]/td[5]/a"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF701736CF5+28821]
+	(No symbol) [0x00007FF7016A3880]
+	(No symbol) [0x00007FF70154578A]
+	(No symbol) [0x00007FF7015991BE]
+	(No symbol) [0x00007FF7015994AC]
+	(No symbol) [0x00007FF7015E2647]
+	(No symbol) [0x00007FF7015BF33F]
+	(No symbol) [0x00007FF7015DF412]
+	(No symbol) [0x00007FF7015BF0A3]
+	(No symbol) [0x00007FF70158A778]
+	(No symbol) [0x00007FF70158B8E1]
+	GetHandleVerifier [0x00007FF701A6FCED+3408013]
+	GetHandleVerifier [0x00007FF701A8745F+3504127]
+	GetHandleVerifier [0x00007FF701A7B63D+3455453]
+	GetHandleVerifier [0x00007FF7017FBDFB+835995]
+	(No symbol) [0x00007FF7016AEB9F]
+	(No symbol) [0x00007FF7016AA854]
+	(No symbol) [0x00007FF7016AA9ED]
+	(No symbol) [0x00007FF70169A1D9]
+	BaseThreadInitThunk [0x00007FFDC2277374+20]
+	RtlUserThreadStart [0x00007FFDC259CC91+33]
+
+2024-12-06 11:45:54,965 - INFO - Closing the browser
+2024-12-06 11:45:54,965 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-06 11:50:13,859 - INFO - Initializing WebDriver for Chrome
+2024-12-06 11:50:17,498 - INFO - Opening IRCTC homepage
+2024-12-06 11:50:26,166 - INFO - Test Case 1 Passed
+2024-12-06 11:50:26,167 - INFO - Enter the source 
+2024-12-06 11:50:28,319 - INFO - Entered Source
+2024-12-06 11:50:28,320 - INFO - Enter the Destination 
+2024-12-06 11:50:29,357 - INFO - Entered Destination
+2024-12-06 11:50:29,357 - INFO - Entering the date
+2024-12-06 11:50:29,799 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="jDate"]/span/div/div/div[2]/table/tbody/tr[1]/td[5]/a"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF701736CF5+28821]
+	(No symbol) [0x00007FF7016A3880]
+	(No symbol) [0x00007FF70154578A]
+	(No symbol) [0x00007FF7015991BE]
+	(No symbol) [0x00007FF7015994AC]
+	(No symbol) [0x00007FF7015E2647]
+	(No symbol) [0x00007FF7015BF33F]
+	(No symbol) [0x00007FF7015DF412]
+	(No symbol) [0x00007FF7015BF0A3]
+	(No symbol) [0x00007FF70158A778]
+	(No symbol) [0x00007FF70158B8E1]
+	GetHandleVerifier [0x00007FF701A6FCED+3408013]
+	GetHandleVerifier [0x00007FF701A8745F+3504127]
+	GetHandleVerifier [0x00007FF701A7B63D+3455453]
+	GetHandleVerifier [0x00007FF7017FBDFB+835995]
+	(No symbol) [0x00007FF7016AEB9F]
+	(No symbol) [0x00007FF7016AA854]
+	(No symbol) [0x00007FF7016AA9ED]
+	(No symbol) [0x00007FF70169A1D9]
+	BaseThreadInitThunk [0x00007FFDC2277374+20]
+	RtlUserThreadStart [0x00007FFDC259CC91+33]
+
+2024-12-06 11:50:39,800 - INFO - Closing the browser
+2024-12-06 11:50:39,801 - INFO - -----------------------------$-------------------------$------------------------------------------
+2024-12-06 11:56:40,929 - INFO - Initializing WebDriver for Chrome
+2024-12-06 11:56:44,532 - INFO - Opening IRCTC homepage
+2024-12-06 11:56:54,832 - INFO - Test Case 1 Passed
+2024-12-06 11:56:54,833 - INFO - Clicking on Login Button
+2024-12-06 11:56:55,799 - INFO - Clicked on Login Button
+2024-12-06 11:56:56,847 - INFO - Locating and entering username
+2024-12-06 11:56:59,365 - INFO - Entered username
+2024-12-06 11:56:59,365 - INFO - Locating and entering password
+2024-12-06 11:57:01,847 - INFO - Entered password
+2024-12-06 11:57:01,847 - INFO - Finding the captcha code and storing in png file
+2024-12-06 11:57:01,882 - INFO - extracting the captcha code and saving in png file
+2024-12-06 11:57:02,029 - INFO - extracting the captcha code text
+2024-12-06 11:57:02,875 - INFO - extracted the captcha code text
+2024-12-06 11:57:02,878 - INFO - Locating and entering Captcha
+2024-12-06 11:57:03,297 - INFO - Entered Captcha
+2024-12-06 11:57:12,268 - INFO - Login Successfully !
+2024-12-06 11:57:12,269 - INFO - Test Case 2 Passed
+2024-12-06 11:57:12,269 - INFO - Enter the source 
+2024-12-06 11:57:13,086 - INFO - Entered Source
+2024-12-06 11:57:13,087 - INFO - Enter the Destination 
+2024-12-06 11:57:13,927 - INFO - Entered Destination
+2024-12-06 11:57:13,927 - INFO - Entering the date
+2024-12-06 11:57:14,709 - ERROR - An error occurred: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF701736CF5+28821]
+	(No symbol) [0x00007FF7016A3880]
+	(No symbol) [0x00007FF70154578A]
+	(No symbol) [0x00007FF70154C2ED]
+	(No symbol) [0x00007FF70154EFCC]
+	(No symbol) [0x00007FF70154F09F]
+	(No symbol) [0x00007FF70159B34B]
+	(No symbol) [0x00007FF70158CA96]
+	(No symbol) [0x00007FF7015BF2FA]
+	(No symbol) [0x00007FF70158C3F6]
+	(No symbol) [0x00007FF7015BF510]
+	(No symbol) [0x00007FF7015DF412]
+	(No symbol) [0x00007FF7015BF0A3]
+	(No symbol) [0x00007FF70158A778]
+	(No symbol) [0x00007FF70158B8E1]
+	GetHandleVerifier [0x00007FF701A6FCED+3408013]
+	GetHandleVerifier [0x00007FF701A8745F+3504127]
+	GetHandleVerifier [0x00007FF701A7B63D+3455453]
+	GetHandleVerifier [0x00007FF7017FBDFB+835995]
+	(No symbol) [0x00007FF7016AEB9F]
+	(No symbol) [0x00007FF7016AA854]
+	(No symbol) [0x00007FF7016AA9ED]
+	(No symbol) [0x00007FF70169A1D9]
+	BaseThreadInitThunk [0x00007FFDC2277374+20]
+	RtlUserThreadStart [0x00007FFDC259CC91+33]
+
+2024-12-06 11:57:24,715 - INFO - Closing the browser
+2024-12-06 11:57:24,715 - INFO - -----------------------------$-------------------------$------------------------------------------

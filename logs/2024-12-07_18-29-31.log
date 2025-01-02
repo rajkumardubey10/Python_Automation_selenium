@@ -1,0 +1,43 @@
+2024-12-07 18:29:31,359 - INFO - Initializing WebDriver for Chrome
+2024-12-07 18:29:35,686 - INFO - Opening IRCTC homepage
+2024-12-07 18:29:45,814 - INFO - Homepage opened successfully
+2024-12-07 18:29:45,815 - INFO - Test Case 1 Passed
+2024-12-07 18:29:48,828 - INFO - Entering source station
+2024-12-07 18:29:51,070 - INFO - Entering destination station
+2024-12-07 18:29:53,061 - INFO - Entering journey date
+2024-12-07 18:29:54,465 - INFO - Selecting class of journey
+2024-12-07 18:29:55,390 - INFO - Checking concession checkbox
+2024-12-07 18:29:55,755 - INFO - Closing concession popup
+2024-12-07 18:29:56,313 - INFO - Finding trains
+2024-12-07 18:29:56,921 - INFO - Test Case 2 passed
+2024-12-07 18:29:59,929 - INFO - Selecting train
+2024-12-07 18:30:03,181 - INFO - Find the Train Name
+2024-12-07 18:30:03,181 - INFO - Refreshing and selecting date
+2024-12-07 18:30:03,465 - INFO - refreshing done
+2024-12-07 18:30:05,470 - INFO - Selecting date for journey
+2024-12-07 18:30:05,731 - INFO - Selected date
+2024-12-07 18:30:05,733 - INFO - pressing book button
+2024-12-07 18:30:06,136 - INFO - pressed book button
+2024-12-07 18:30:06,136 - INFO - Test Case 4 passed
+2024-12-07 18:30:09,258 - INFO - Entering username
+2024-12-07 18:30:11,570 - INFO - Entered username
+2024-12-07 18:30:11,570 - INFO - Entering password
+2024-12-07 18:30:13,893 - INFO - Entered password
+2024-12-07 18:30:13,893 - INFO - Handling CAPTCHA
+2024-12-07 18:30:14,547 - INFO - Extracted CAPTCHA text: 34PF
+2024-12-07 18:30:14,548 - INFO - Locating and entering Captcha
+2024-12-07 18:30:15,053 - INFO - Entered Captcha
+2024-12-07 18:30:18,791 - INFO - Login successful
+2024-12-07 18:30:18,792 - INFO - Test Case 3 Passed
+2024-12-07 18:30:21,797 - INFO - Entering the passenger name
+2024-12-07 18:30:25,450 - INFO - Entering Age
+2024-12-07 18:30:27,642 - INFO - Selecting Gender
+2024-12-07 18:30:29,855 - INFO - Selecting Berth preference
+2024-12-07 18:30:32,032 - INFO - Selecting concession
+2024-12-07 18:30:34,212 - INFO - Entering the UPN Number
+2024-12-07 18:30:34,419 - INFO - Entering the pass code
+2024-12-07 18:30:36,641 - INFO - Enabling the AutoUpgradation Ticket
+2024-12-07 18:30:39,025 - INFO - Payment mode through
+2024-12-07 18:30:41,245 - INFO - Confirming the Details
+2024-12-07 18:30:41,877 - INFO - Test Case 5 passed
+2024-12-07 18:30:46,879 - INFO - Closing the browser

@@ -1,0 +1,51 @@
+2024-12-06 13:35:05,746 - INFO - Initializing WebDriver for Chrome
+2024-12-06 13:35:09,471 - INFO - Opening IRCTC homepage
+2024-12-06 13:35:16,809 - INFO - Test Case 1 Passed
+2024-12-06 13:35:16,810 - INFO - Clicking on Login Button
+2024-12-06 13:35:17,434 - INFO - Clicked on Login Button
+2024-12-06 13:35:19,335 - INFO - Locating and entering username
+2024-12-06 13:35:21,741 - INFO - Entered username
+2024-12-06 13:35:21,741 - INFO - Locating and entering password
+2024-12-06 13:35:24,071 - INFO - Entered password
+2024-12-06 13:35:24,072 - INFO - Finding the captcha code and storing in png file
+2024-12-06 13:35:24,119 - INFO - extracting the captcha code and saving in png file
+2024-12-06 13:35:24,390 - INFO - extracting the captcha code text
+2024-12-06 13:35:25,239 - INFO - extracted the captcha code text
+2024-12-06 13:35:25,240 - INFO - Locating and entering Captcha
+2024-12-06 13:35:25,738 - INFO - Entered Captcha
+2024-12-06 13:35:28,985 - INFO - Login Successfully !
+2024-12-06 13:35:28,985 - INFO - Test Case 2 Passed
+2024-12-06 13:35:28,986 - INFO - Enter the source 
+2024-12-06 13:35:30,187 - INFO - Entered Source
+2024-12-06 13:35:30,187 - INFO - Enter the Destination 
+2024-12-06 13:35:32,023 - ERROR - An error occurred: Message: element click intercepted: Element <input aria-autocomplete="list" role="searchbox" aria-haspopup="true" class="ng-tns-c57-9 ui-inputtext ui-widget ui-state-default ui-corner-all ui-autocomplete-input ng-star-inserted" autocomplete="off" type="text" aria-controls="pr_id_2_list" aria-expanded="true" aria-activedescendant="p-highlighted-option"> is not clickable at point (260, 384). Other element would receive the click: <li role="option" class="ng-tns-c57-8 ui-autocomplete-list-item ui-corner-all ng-star-inserted" id="" style="">...</li>
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF701736CF5+28821]
+	(No symbol) [0x00007FF7016A3880]
+	(No symbol) [0x00007FF70154578A]
+	(No symbol) [0x00007FF7015A0E8E]
+	(No symbol) [0x00007FF70159E92C]
+	(No symbol) [0x00007FF70159BAF6]
+	(No symbol) [0x00007FF70159AA51]
+	(No symbol) [0x00007FF70158CBA0]
+	(No symbol) [0x00007FF7015BF2FA]
+	(No symbol) [0x00007FF70158C3F6]
+	(No symbol) [0x00007FF7015BF510]
+	(No symbol) [0x00007FF7015DF412]
+	(No symbol) [0x00007FF7015BF0A3]
+	(No symbol) [0x00007FF70158A778]
+	(No symbol) [0x00007FF70158B8E1]
+	GetHandleVerifier [0x00007FF701A6FCED+3408013]
+	GetHandleVerifier [0x00007FF701A8745F+3504127]
+	GetHandleVerifier [0x00007FF701A7B63D+3455453]
+	GetHandleVerifier [0x00007FF7017FBDFB+835995]
+	(No symbol) [0x00007FF7016AEB9F]
+	(No symbol) [0x00007FF7016AA854]
+	(No symbol) [0x00007FF7016AA9ED]
+	(No symbol) [0x00007FF70169A1D9]
+	BaseThreadInitThunk [0x00007FFDC2277374+20]
+	RtlUserThreadStart [0x00007FFDC259CC91+33]
+
+2024-12-06 13:35:37,029 - INFO - Closing the browser
+2024-12-06 13:35:37,029 - INFO - -----------------------------$-------------------------$------------------------------------------

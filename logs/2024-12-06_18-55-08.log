@@ -1,0 +1,37 @@
+2024-12-06 18:55:08,460 - INFO - Initializing WebDriver for Chrome
+2024-12-06 18:55:12,064 - INFO - Opening IRCTC homepage
+2024-12-06 18:55:22,215 - INFO - Test Case 1 Passed
+2024-12-06 18:55:22,216 - INFO - Enter the source 
+2024-12-06 18:55:23,892 - INFO - Entered Source
+2024-12-06 18:55:23,893 - INFO - Enter the Destination 
+2024-12-06 18:55:24,600 - ERROR - An error occurred: Message: invalid selector
+from javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A59B6CF5+28821]
+	(No symbol) [0x00007FF7A5923880]
+	(No symbol) [0x00007FF7A57C578A]
+	(No symbol) [0x00007FF7A57CC2ED]
+	(No symbol) [0x00007FF7A57CEFCC]
+	(No symbol) [0x00007FF7A57CF09F]
+	(No symbol) [0x00007FF7A5818C6A]
+	(No symbol) [0x00007FF7A58194AC]
+	(No symbol) [0x00007FF7A5862647]
+	(No symbol) [0x00007FF7A583F33F]
+	(No symbol) [0x00007FF7A585F412]
+	(No symbol) [0x00007FF7A583F0A3]
+	(No symbol) [0x00007FF7A580A778]
+	(No symbol) [0x00007FF7A580B8E1]
+	GetHandleVerifier [0x00007FF7A5CEFCED+3408013]
+	GetHandleVerifier [0x00007FF7A5D0745F+3504127]
+	GetHandleVerifier [0x00007FF7A5CFB63D+3455453]
+	GetHandleVerifier [0x00007FF7A5A7BDFB+835995]
+	(No symbol) [0x00007FF7A592EB9F]
+	(No symbol) [0x00007FF7A592A854]
+	(No symbol) [0x00007FF7A592A9ED]
+	(No symbol) [0x00007FF7A591A1D9]
+	BaseThreadInitThunk [0x00007FFE403D7374+20]
+	RtlUserThreadStart [0x00007FFE414FCC91+33]
+
+2024-12-06 18:55:29,605 - INFO - Closing the browser
+2024-12-06 18:55:29,605 - INFO - -----------------------------$-------------------------$------------------------------------------

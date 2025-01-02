@@ -1,0 +1,36 @@
+2024-12-06 18:48:53,016 - INFO - Initializing WebDriver for Chrome
+2024-12-06 18:48:56,610 - INFO - Opening IRCTC homepage
+2024-12-06 18:49:18,810 - INFO - Test Case 1 Passed
+2024-12-06 18:49:18,811 - INFO - Enter the source 
+2024-12-06 18:49:24,242 - INFO - Entered Source
+2024-12-06 18:49:24,243 - INFO - Enter the Destination 
+2024-12-06 18:49:25,157 - INFO - Entered Destination
+2024-12-06 18:49:25,158 - INFO - Waiting for date picker and interacting with it
+2024-12-06 18:49:25,673 - INFO - Selecting a specific date
+2024-12-06 18:49:26,326 - ERROR - An error occurred: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A59B6CF5+28821]
+	(No symbol) [0x00007FF7A5923880]
+	(No symbol) [0x00007FF7A57C578A]
+	(No symbol) [0x00007FF7A57CC2ED]
+	(No symbol) [0x00007FF7A57CF308]
+	(No symbol) [0x00007FF7A58606B0]
+	(No symbol) [0x00007FF7A583F2FA]
+	(No symbol) [0x00007FF7A585F412]
+	(No symbol) [0x00007FF7A583F0A3]
+	(No symbol) [0x00007FF7A580A778]
+	(No symbol) [0x00007FF7A580B8E1]
+	GetHandleVerifier [0x00007FF7A5CEFCED+3408013]
+	GetHandleVerifier [0x00007FF7A5D0745F+3504127]
+	GetHandleVerifier [0x00007FF7A5CFB63D+3455453]
+	GetHandleVerifier [0x00007FF7A5A7BDFB+835995]
+	(No symbol) [0x00007FF7A592EB9F]
+	(No symbol) [0x00007FF7A592A854]
+	(No symbol) [0x00007FF7A592A9ED]
+	(No symbol) [0x00007FF7A591A1D9]
+	BaseThreadInitThunk [0x00007FFE403D7374+20]
+	RtlUserThreadStart [0x00007FFE414FCC91+33]
+
+2024-12-06 18:49:31,338 - INFO - Closing the browser
+2024-12-06 18:49:31,338 - INFO - -----------------------------$-------------------------$------------------------------------------

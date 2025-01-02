@@ -1,0 +1,49 @@
+2024-12-06 14:14:04,125 - INFO - Initializing WebDriver for Chrome
+2024-12-06 14:14:07,808 - INFO - Opening IRCTC homepage
+2024-12-06 14:14:15,291 - INFO - Test Case 1 Passed
+2024-12-06 14:14:15,292 - INFO - Clicking on Login Button
+2024-12-06 14:14:17,096 - INFO - Clicked on Login Button
+2024-12-06 14:14:18,538 - INFO - Locating and entering username
+2024-12-06 14:14:21,077 - INFO - Entered username
+2024-12-06 14:14:21,077 - INFO - Locating and entering password
+2024-12-06 14:14:23,385 - INFO - Entered password
+2024-12-06 14:14:23,386 - INFO - Finding the captcha code and storing in png file
+2024-12-06 14:14:23,424 - INFO - extracting the captcha code and saving in png file
+2024-12-06 14:14:23,658 - INFO - extracting the captcha code text
+2024-12-06 14:14:24,467 - INFO - extracted the captcha code text
+2024-12-06 14:14:24,468 - INFO - Locating and entering Captcha
+2024-12-06 14:14:24,916 - INFO - Entered Captcha
+2024-12-06 14:14:28,291 - INFO - Login Successfully !
+2024-12-06 14:14:28,291 - INFO - Test Case 2 Passed
+2024-12-06 14:14:28,291 - INFO - Enter the source 
+2024-12-06 14:14:29,360 - INFO - Entered Source
+2024-12-06 14:14:29,361 - INFO - Enter the Destination 
+2024-12-06 14:14:30,000 - INFO - Entered Destination
+2024-12-06 14:14:33,003 - INFO - Entering the date
+2024-12-06 14:14:33,052 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="jDate"]/span"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF701736CF5+28821]
+	(No symbol) [0x00007FF7016A3880]
+	(No symbol) [0x00007FF70154578A]
+	(No symbol) [0x00007FF7015991BE]
+	(No symbol) [0x00007FF7015994AC]
+	(No symbol) [0x00007FF7015E2647]
+	(No symbol) [0x00007FF7015BF33F]
+	(No symbol) [0x00007FF7015DF412]
+	(No symbol) [0x00007FF7015BF0A3]
+	(No symbol) [0x00007FF70158A778]
+	(No symbol) [0x00007FF70158B8E1]
+	GetHandleVerifier [0x00007FF701A6FCED+3408013]
+	GetHandleVerifier [0x00007FF701A8745F+3504127]
+	GetHandleVerifier [0x00007FF701A7B63D+3455453]
+	GetHandleVerifier [0x00007FF7017FBDFB+835995]
+	(No symbol) [0x00007FF7016AEB9F]
+	(No symbol) [0x00007FF7016AA854]
+	(No symbol) [0x00007FF7016AA9ED]
+	(No symbol) [0x00007FF70169A1D9]
+	BaseThreadInitThunk [0x00007FFDC2277374+20]
+	RtlUserThreadStart [0x00007FFDC259CC91+33]
+
+2024-12-06 14:14:38,058 - INFO - Closing the browser
+2024-12-06 14:14:38,058 - INFO - -----------------------------$-------------------------$------------------------------------------

@@ -1,0 +1,62 @@
+2024-12-07 18:16:34,706 - INFO - Initializing WebDriver for Chrome
+2024-12-07 18:16:38,519 - INFO - Opening IRCTC homepage
+2024-12-07 18:16:47,364 - INFO - Homepage opened successfully
+2024-12-07 18:16:47,365 - INFO - Test Case 1 Passed
+2024-12-07 18:16:50,388 - INFO - Entering source station
+2024-12-07 18:16:52,199 - INFO - Entering destination station
+2024-12-07 18:16:53,418 - INFO - Entering journey date
+2024-12-07 18:16:54,209 - INFO - Selecting class of journey
+2024-12-07 18:16:55,255 - INFO - Checking concession checkbox
+2024-12-07 18:16:55,714 - INFO - Closing concession popup
+2024-12-07 18:16:56,086 - INFO - Finding trains
+2024-12-07 18:16:59,556 - INFO - Selecting train
+2024-12-07 18:17:03,225 - INFO - Find the Train Name
+2024-12-07 18:17:03,225 - INFO - Refreshing and selecting date
+2024-12-07 18:17:03,462 - INFO - refreshing done
+2024-12-07 18:17:05,473 - INFO - Selecting date for journey
+2024-12-07 18:17:05,658 - INFO - Selected date
+2024-12-07 18:17:05,658 - INFO - pressing book button
+2024-12-07 18:17:06,061 - INFO - pressed book button
+2024-12-07 18:17:09,118 - INFO - Entering username
+2024-12-07 18:17:11,505 - INFO - Entered username
+2024-12-07 18:17:11,507 - INFO - Entering password
+2024-12-07 18:17:13,818 - INFO - Entered password
+2024-12-07 18:17:13,818 - INFO - Handling CAPTCHA
+2024-12-07 18:17:14,440 - INFO - Extracted CAPTCHA text: bu@7d
+2024-12-07 18:17:14,441 - INFO - Locating and entering Captcha
+2024-12-07 18:17:14,709 - INFO - Entered Captcha
+2024-12-07 18:17:17,982 - INFO - Login successful
+2024-12-07 18:17:17,982 - INFO - Test Case 2 Passed
+2024-12-07 18:17:20,995 - INFO - Entering the passenger name
+2024-12-07 18:17:23,199 - INFO - Entering Age
+2024-12-07 18:17:25,432 - INFO - Selecting Gender
+2024-12-07 18:17:27,622 - INFO - Selecting Berth preference
+2024-12-07 18:17:29,781 - INFO - Selecting concession
+2024-12-07 18:17:32,008 - INFO - Entering the UPN Number
+2024-12-07 18:17:32,270 - INFO - Entering the pass code
+2024-12-07 18:17:32,300 - ERROR - Failed to book train: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[formcontrolname="passBokkingCode"]"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF637A36CF5+28821]
+	(No symbol) [0x00007FF6379A3880]
+	(No symbol) [0x00007FF63784578A]
+	(No symbol) [0x00007FF6378991BE]
+	(No symbol) [0x00007FF6378994AC]
+	(No symbol) [0x00007FF6378E2647]
+	(No symbol) [0x00007FF6378BF33F]
+	(No symbol) [0x00007FF6378DF412]
+	(No symbol) [0x00007FF6378BF0A3]
+	(No symbol) [0x00007FF63788A778]
+	(No symbol) [0x00007FF63788B8E1]
+	GetHandleVerifier [0x00007FF637D6FCED+3408013]
+	GetHandleVerifier [0x00007FF637D8745F+3504127]
+	GetHandleVerifier [0x00007FF637D7B63D+3455453]
+	GetHandleVerifier [0x00007FF637AFBDFB+835995]
+	(No symbol) [0x00007FF6379AEB9F]
+	(No symbol) [0x00007FF6379AA854]
+	(No symbol) [0x00007FF6379AA9ED]
+	(No symbol) [0x00007FF63799A1D9]
+	BaseThreadInitThunk [0x00007FFE15207374+20]
+	RtlUserThreadStart [0x00007FFE1625CC91+33]
+
+2024-12-07 18:17:37,312 - INFO - Closing the browser

@@ -1,0 +1,79 @@
+2024-12-07 16:18:12,748 - INFO - Initializing WebDriver for Chrome
+2024-12-07 16:18:16,429 - INFO - Opening IRCTC homepage
+2024-12-07 16:18:28,794 - INFO - Homepage opened successfully
+2024-12-07 16:18:28,794 - INFO - Test Case 1 Passed
+2024-12-07 16:18:31,799 - INFO - Entering source station
+2024-12-07 16:18:33,687 - INFO - Entering destination station
+2024-12-07 16:18:35,153 - INFO - Entering journey date
+2024-12-07 16:18:36,295 - INFO - Selecting class of journey
+2024-12-07 16:18:37,022 - INFO - Checking concession checkbox
+2024-12-07 16:18:37,406 - INFO - Closing concession popup
+2024-12-07 16:18:37,676 - INFO - Finding trains
+2024-12-07 16:18:41,049 - INFO - Selecting train
+2024-12-07 16:18:44,184 - INFO - Find the Train Name
+2024-12-07 16:18:44,184 - INFO - Refreshing and selecting date
+2024-12-07 16:18:44,363 - INFO - refreshing done
+2024-12-07 16:18:46,371 - INFO - Selecting date for journey
+2024-12-07 16:18:46,543 - INFO - Selected date
+2024-12-07 16:18:46,544 - INFO - pressing book button
+2024-12-07 16:18:46,925 - INFO - pressed book button
+2024-12-07 16:18:49,931 - INFO - Clicking on Login Button
+2024-12-07 16:18:51,126 - ERROR - Error during login: Message: element click intercepted: Element <a _ngcontent-xdt-c48="" tabindex="0" aria-label="Click here to Login in application" class="search_btn loginText ng-star-inserted">...</a> is not clickable at point (261, 27). Other element would receive the click: <div class="ng-tns-c19-52 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1007;">...</div>
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7506CF5+28821]
+	(No symbol) [0x00007FF7A7473880]
+	(No symbol) [0x00007FF7A731578A]
+	(No symbol) [0x00007FF7A7370E8E]
+	(No symbol) [0x00007FF7A736E92C]
+	(No symbol) [0x00007FF7A736BAF6]
+	(No symbol) [0x00007FF7A736AA51]
+	(No symbol) [0x00007FF7A735CBA0]
+	(No symbol) [0x00007FF7A738F2FA]
+	(No symbol) [0x00007FF7A735C3F6]
+	(No symbol) [0x00007FF7A738F510]
+	(No symbol) [0x00007FF7A73AF412]
+	(No symbol) [0x00007FF7A738F0A3]
+	(No symbol) [0x00007FF7A735A778]
+	(No symbol) [0x00007FF7A735B8E1]
+	GetHandleVerifier [0x00007FF7A783FCED+3408013]
+	GetHandleVerifier [0x00007FF7A785745F+3504127]
+	GetHandleVerifier [0x00007FF7A784B63D+3455453]
+	GetHandleVerifier [0x00007FF7A75CBDFB+835995]
+	(No symbol) [0x00007FF7A747EB9F]
+	(No symbol) [0x00007FF7A747A854]
+	(No symbol) [0x00007FF7A747A9ED]
+	(No symbol) [0x00007FF7A746A1D9]
+	BaseThreadInitThunk [0x00007FFE15207374+20]
+	RtlUserThreadStart [0x00007FFE1625CC91+33]
+
+2024-12-07 16:18:51,126 - ERROR - An unexpected error occurred: Message: element click intercepted: Element <a _ngcontent-xdt-c48="" tabindex="0" aria-label="Click here to Login in application" class="search_btn loginText ng-star-inserted">...</a> is not clickable at point (261, 27). Other element would receive the click: <div class="ng-tns-c19-52 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1007;">...</div>
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7506CF5+28821]
+	(No symbol) [0x00007FF7A7473880]
+	(No symbol) [0x00007FF7A731578A]
+	(No symbol) [0x00007FF7A7370E8E]
+	(No symbol) [0x00007FF7A736E92C]
+	(No symbol) [0x00007FF7A736BAF6]
+	(No symbol) [0x00007FF7A736AA51]
+	(No symbol) [0x00007FF7A735CBA0]
+	(No symbol) [0x00007FF7A738F2FA]
+	(No symbol) [0x00007FF7A735C3F6]
+	(No symbol) [0x00007FF7A738F510]
+	(No symbol) [0x00007FF7A73AF412]
+	(No symbol) [0x00007FF7A738F0A3]
+	(No symbol) [0x00007FF7A735A778]
+	(No symbol) [0x00007FF7A735B8E1]
+	GetHandleVerifier [0x00007FF7A783FCED+3408013]
+	GetHandleVerifier [0x00007FF7A785745F+3504127]
+	GetHandleVerifier [0x00007FF7A784B63D+3455453]
+	GetHandleVerifier [0x00007FF7A75CBDFB+835995]
+	(No symbol) [0x00007FF7A747EB9F]
+	(No symbol) [0x00007FF7A747A854]
+	(No symbol) [0x00007FF7A747A9ED]
+	(No symbol) [0x00007FF7A746A1D9]
+	BaseThreadInitThunk [0x00007FFE15207374+20]
+	RtlUserThreadStart [0x00007FFE1625CC91+33]
+
+2024-12-07 16:18:56,137 - INFO - Closing the browser

@@ -1,0 +1,53 @@
+2024-12-06 18:36:54,759 - INFO - Initializing WebDriver for Chrome
+2024-12-06 18:36:58,527 - INFO - Opening IRCTC homepage
+2024-12-06 18:37:06,047 - INFO - Test Case 1 Passed
+2024-12-06 18:37:06,047 - INFO - Clicking on Login Button
+2024-12-06 18:37:07,446 - INFO - Clicked on Login Button
+2024-12-06 18:37:09,394 - INFO - Locating and entering username
+2024-12-06 18:37:11,743 - INFO - Entered username
+2024-12-06 18:37:11,743 - INFO - Locating and entering password
+2024-12-06 18:37:14,131 - INFO - Entered password
+2024-12-06 18:37:14,132 - INFO - Finding the captcha code and storing in png file
+2024-12-06 18:37:14,160 - INFO - extracting the captcha code and saving in png file
+2024-12-06 18:37:14,358 - INFO - extracting the captcha code text
+2024-12-06 18:37:15,262 - INFO - extracted the captcha code text
+2024-12-06 18:37:15,267 - INFO - Locating and entering Captcha
+2024-12-06 18:37:16,104 - INFO - Entered Captcha
+2024-12-06 18:37:19,514 - INFO - Login Successfully !
+2024-12-06 18:37:19,515 - INFO - Test Case 2 Passed
+2024-12-06 18:37:19,516 - INFO - Enter the source 
+2024-12-06 18:37:20,726 - INFO - Entered Source
+2024-12-06 18:37:20,727 - INFO - Enter the Destination 
+2024-12-06 18:37:21,632 - INFO - Entered Destination
+2024-12-06 18:37:24,634 - INFO - Entering the date
+2024-12-06 18:37:24,685 - ERROR - An error occurred: Message: invalid selector
+from javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A59B6CF5+28821]
+	(No symbol) [0x00007FF7A5923880]
+	(No symbol) [0x00007FF7A57C578A]
+	(No symbol) [0x00007FF7A57CC2ED]
+	(No symbol) [0x00007FF7A57CEFCC]
+	(No symbol) [0x00007FF7A57CF09F]
+	(No symbol) [0x00007FF7A5818C6A]
+	(No symbol) [0x00007FF7A58194AC]
+	(No symbol) [0x00007FF7A5862647]
+	(No symbol) [0x00007FF7A583F33F]
+	(No symbol) [0x00007FF7A585F412]
+	(No symbol) [0x00007FF7A583F0A3]
+	(No symbol) [0x00007FF7A580A778]
+	(No symbol) [0x00007FF7A580B8E1]
+	GetHandleVerifier [0x00007FF7A5CEFCED+3408013]
+	GetHandleVerifier [0x00007FF7A5D0745F+3504127]
+	GetHandleVerifier [0x00007FF7A5CFB63D+3455453]
+	GetHandleVerifier [0x00007FF7A5A7BDFB+835995]
+	(No symbol) [0x00007FF7A592EB9F]
+	(No symbol) [0x00007FF7A592A854]
+	(No symbol) [0x00007FF7A592A9ED]
+	(No symbol) [0x00007FF7A591A1D9]
+	BaseThreadInitThunk [0x00007FFE403D7374+20]
+	RtlUserThreadStart [0x00007FFE414FCC91+33]
+
+2024-12-06 18:37:29,698 - INFO - Closing the browser
+2024-12-06 18:37:29,699 - INFO - -----------------------------$-------------------------$------------------------------------------

@@ -1,0 +1,64 @@
+2024-12-07 15:51:54,867 - INFO - Initializing WebDriver for Chrome
+2024-12-07 15:51:58,654 - INFO - Opening IRCTC homepage
+2024-12-07 15:52:06,512 - INFO - Test Case 1 Passed
+2024-12-07 15:52:06,512 - INFO - Enter the source 
+2024-12-07 15:52:22,519 - INFO - Entered Source
+2024-12-07 15:52:22,519 - INFO - Enter the Destination 
+2024-12-07 15:52:23,750 - INFO - Entering the date
+2024-12-07 15:52:24,350 - INFO - Entered the date
+2024-12-07 15:52:24,350 - INFO - Waiting for class selection dropdown
+2024-12-07 15:52:24,734 - INFO - Selecting travel class
+2024-12-07 15:52:25,497 - INFO - Clicked Checkbox
+2024-12-07 15:52:25,498 - INFO - trying for closing popup window by ok
+2024-12-07 15:52:25,740 - INFO - closed popups
+2024-12-07 15:52:30,999 - INFO - Searching Train 
+2024-12-07 15:52:34,006 - INFO - Test Cases 3 passed
+2024-12-07 15:52:37,098 - INFO - Find the Train Name
+2024-12-07 15:52:37,098 - INFO - refreshing and checking available seats
+2024-12-07 15:52:37,282 - INFO - refreshing done
+2024-12-07 15:52:39,290 - INFO - Selecting date for journey
+2024-12-07 15:52:39,464 - INFO - Selected date
+2024-12-07 15:52:39,464 - INFO - pressing book button
+2024-12-07 15:52:39,829 - INFO - pressed book button
+2024-12-07 15:52:39,829 - INFO - Test Cases 4 passed
+2024-12-07 15:52:40,529 - INFO - Locating and entering username
+2024-12-07 15:52:42,796 - INFO - Entered username
+2024-12-07 15:52:42,796 - INFO - Locating and entering password
+2024-12-07 15:52:45,089 - INFO - Entered password
+2024-12-07 15:52:45,089 - INFO - Finding the captcha code and storing in png file
+2024-12-07 15:52:45,114 - INFO - extracting the captcha code and saving in png file
+2024-12-07 15:52:45,303 - INFO - extracting the captcha code text
+2024-12-07 15:52:45,715 - INFO - extracted the captcha code text
+2024-12-07 15:52:45,716 - INFO - Locating and entering Captcha
+2024-12-07 15:52:46,048 - INFO - Entered Captcha
+2024-12-07 15:52:52,221 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-khv-c99="" type="submit" class="hidden-xs search_btn btn">...</button> is not clickable at point (1168, 143). Other element would receive the click: <iframe id="google_ads_iframe_/37179215/GPT_NWEB_LOGIN_TOP_0" name="google_ads_iframe_/37179215/GPT_NWEB_LOGIN_TOP_0" title="3rd party ad content" width="640" height="480" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" aria-label="Advertisement" tabindex="0" allow="private-state-token-redemption;attribution-reporting" data-load-complete="true" data-google-container-id="b" style="border: 0px; vertical-align: bottom;" data-gtm-yt-inspected-16="true" data-gtm-yt-inspected-22="true" data-gtm-yt-inspected-36="true"></iframe>
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7506CF5+28821]
+	(No symbol) [0x00007FF7A7473880]
+	(No symbol) [0x00007FF7A731578A]
+	(No symbol) [0x00007FF7A7370E8E]
+	(No symbol) [0x00007FF7A736E92C]
+	(No symbol) [0x00007FF7A736BAF6]
+	(No symbol) [0x00007FF7A736AA51]
+	(No symbol) [0x00007FF7A735CBA0]
+	(No symbol) [0x00007FF7A738F2FA]
+	(No symbol) [0x00007FF7A735C3F6]
+	(No symbol) [0x00007FF7A738F510]
+	(No symbol) [0x00007FF7A73AF412]
+	(No symbol) [0x00007FF7A738F0A3]
+	(No symbol) [0x00007FF7A735A778]
+	(No symbol) [0x00007FF7A735B8E1]
+	GetHandleVerifier [0x00007FF7A783FCED+3408013]
+	GetHandleVerifier [0x00007FF7A785745F+3504127]
+	GetHandleVerifier [0x00007FF7A784B63D+3455453]
+	GetHandleVerifier [0x00007FF7A75CBDFB+835995]
+	(No symbol) [0x00007FF7A747EB9F]
+	(No symbol) [0x00007FF7A747A854]
+	(No symbol) [0x00007FF7A747A9ED]
+	(No symbol) [0x00007FF7A746A1D9]
+	BaseThreadInitThunk [0x00007FFE15207374+20]
+	RtlUserThreadStart [0x00007FFE1625CC91+33]
+
+2024-12-07 15:52:57,224 - INFO - Closing the browser
+2024-12-07 15:52:57,224 - INFO - -----------------------------$-------------------------$------------------------------------------

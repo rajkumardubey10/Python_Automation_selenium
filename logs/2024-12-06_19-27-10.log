@@ -1,0 +1,46 @@
+2024-12-06 19:27:10,558 - INFO - Initializing WebDriver for Chrome
+2024-12-06 19:27:14,228 - INFO - Opening IRCTC homepage
+2024-12-06 19:27:14,529 - INFO - Test Case 1 Passed
+2024-12-06 19:27:14,529 - INFO - Clicking on Login Button
+2024-12-06 19:27:22,555 - INFO - Clicked on Login Button
+2024-12-06 19:27:23,285 - INFO - Locating and entering username
+2024-12-06 19:27:25,691 - INFO - Entered username
+2024-12-06 19:27:25,691 - INFO - Locating and entering password
+2024-12-06 19:27:28,608 - INFO - Entered password
+2024-12-06 19:27:28,608 - INFO - Finding the captcha code and storing in png file
+2024-12-06 19:27:28,658 - INFO - extracting the captcha code and saving in png file
+2024-12-06 19:27:28,908 - INFO - extracting the captcha code text
+2024-12-06 19:27:29,714 - INFO - extracted the captcha code text
+2024-12-06 19:27:29,718 - INFO - Locating and entering Captcha
+2024-12-06 19:27:30,073 - INFO - Entered Captcha
+2024-12-06 19:27:35,372 - INFO - Login Successfully !
+2024-12-06 19:27:35,373 - INFO - Test Case 2 Passed
+2024-12-06 19:27:35,373 - INFO - Enter the source 
+2024-12-06 19:27:36,602 - INFO - Entered Source
+2024-12-06 19:27:36,603 - INFO - Enter the Destination 
+2024-12-06 19:27:57,585 - ERROR - An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A59B6CF5+28821]
+	(No symbol) [0x00007FF7A5923880]
+	(No symbol) [0x00007FF7A57C578A]
+	(No symbol) [0x00007FF7A58191BE]
+	(No symbol) [0x00007FF7A58194AC]
+	(No symbol) [0x00007FF7A5862647]
+	(No symbol) [0x00007FF7A583F33F]
+	(No symbol) [0x00007FF7A585F412]
+	(No symbol) [0x00007FF7A583F0A3]
+	(No symbol) [0x00007FF7A580A778]
+	(No symbol) [0x00007FF7A580B8E1]
+	GetHandleVerifier [0x00007FF7A5CEFCED+3408013]
+	GetHandleVerifier [0x00007FF7A5D0745F+3504127]
+	GetHandleVerifier [0x00007FF7A5CFB63D+3455453]
+	GetHandleVerifier [0x00007FF7A5A7BDFB+835995]
+	(No symbol) [0x00007FF7A592EB9F]
+	(No symbol) [0x00007FF7A592A854]
+	(No symbol) [0x00007FF7A592A9ED]
+	(No symbol) [0x00007FF7A591A1D9]
+	BaseThreadInitThunk [0x00007FFE403D7374+20]
+	RtlUserThreadStart [0x00007FFE414FCC91+33]
+
+2024-12-06 19:28:02,590 - INFO - Closing the browser
+2024-12-06 19:28:02,590 - INFO - -----------------------------$-------------------------$------------------------------------------

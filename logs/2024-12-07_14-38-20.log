@@ -1,0 +1,34 @@
+2024-12-07 14:38:20,627 - INFO - Initializing WebDriver for Chrome
+2024-12-07 14:38:24,424 - INFO - Opening IRCTC homepage
+2024-12-07 14:38:32,147 - INFO - Test Case 1 Passed
+2024-12-07 14:38:32,147 - INFO - Enter the source 
+2024-12-07 14:38:48,315 - INFO - Entered Source
+2024-12-07 14:38:48,316 - INFO - Enter the Destination 
+2024-12-07 14:38:49,576 - INFO - Entering the date
+2024-12-07 14:38:49,965 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="jDate"]/span/div/div/div[2]/table/tbody/tr[1]/td[8]/a"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7506CF5+28821]
+	(No symbol) [0x00007FF7A7473880]
+	(No symbol) [0x00007FF7A731578A]
+	(No symbol) [0x00007FF7A73691BE]
+	(No symbol) [0x00007FF7A73694AC]
+	(No symbol) [0x00007FF7A73B2647]
+	(No symbol) [0x00007FF7A738F33F]
+	(No symbol) [0x00007FF7A73AF412]
+	(No symbol) [0x00007FF7A738F0A3]
+	(No symbol) [0x00007FF7A735A778]
+	(No symbol) [0x00007FF7A735B8E1]
+	GetHandleVerifier [0x00007FF7A783FCED+3408013]
+	GetHandleVerifier [0x00007FF7A785745F+3504127]
+	GetHandleVerifier [0x00007FF7A784B63D+3455453]
+	GetHandleVerifier [0x00007FF7A75CBDFB+835995]
+	(No symbol) [0x00007FF7A747EB9F]
+	(No symbol) [0x00007FF7A747A854]
+	(No symbol) [0x00007FF7A747A9ED]
+	(No symbol) [0x00007FF7A746A1D9]
+	BaseThreadInitThunk [0x00007FFE15207374+20]
+	RtlUserThreadStart [0x00007FFE1625CC91+33]
+
+2024-12-07 14:38:54,981 - INFO - Closing the browser
+2024-12-07 14:38:54,982 - INFO - -----------------------------$-------------------------$------------------------------------------

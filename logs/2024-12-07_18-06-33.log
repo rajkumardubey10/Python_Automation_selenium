@@ -1,0 +1,58 @@
+2024-12-07 18:06:33,157 - INFO - Initializing WebDriver for Chrome
+2024-12-07 18:06:36,937 - INFO - Opening IRCTC homepage
+2024-12-07 18:06:50,061 - INFO - Homepage opened successfully
+2024-12-07 18:06:50,062 - INFO - Test Case 1 Passed
+2024-12-07 18:06:53,065 - INFO - Entering source station
+2024-12-07 18:06:54,538 - INFO - Entering destination station
+2024-12-07 18:06:55,952 - INFO - Entering journey date
+2024-12-07 18:06:57,247 - INFO - Selecting class of journey
+2024-12-07 18:06:58,133 - INFO - Checking concession checkbox
+2024-12-07 18:06:58,513 - INFO - Closing concession popup
+2024-12-07 18:06:59,164 - INFO - Finding trains
+2024-12-07 18:07:02,609 - INFO - Selecting train
+2024-12-07 18:07:05,712 - INFO - Find the Train Name
+2024-12-07 18:07:05,712 - INFO - Refreshing and selecting date
+2024-12-07 18:07:05,903 - INFO - refreshing done
+2024-12-07 18:07:07,910 - INFO - Selecting date for journey
+2024-12-07 18:07:08,089 - INFO - Selected date
+2024-12-07 18:07:08,089 - INFO - pressing book button
+2024-12-07 18:07:08,458 - INFO - pressed book button
+2024-12-07 18:07:11,543 - INFO - Entering username
+2024-12-07 18:07:13,919 - INFO - Entered username
+2024-12-07 18:07:13,919 - INFO - Entering password
+2024-12-07 18:07:16,237 - INFO - Entered password
+2024-12-07 18:07:16,237 - INFO - Handling CAPTCHA
+2024-12-07 18:07:16,890 - INFO - Extracted CAPTCHA text: QtaT
+2024-12-07 18:07:16,891 - INFO - Locating and entering Captcha
+2024-12-07 18:07:17,150 - INFO - Entered Captcha
+2024-12-07 18:07:20,457 - INFO - Login successful
+2024-12-07 18:07:20,457 - INFO - Test Case 2 Passed
+2024-12-07 18:07:23,463 - INFO - Entering the passenger name
+2024-12-07 18:07:25,659 - INFO - Entering Age
+2024-12-07 18:07:27,863 - INFO - Selecting Gender
+2024-12-07 18:07:27,888 - ERROR - Failed to book train: Message: no such element: Unable to locate element: {"method":"xpath","selector":"(//select[@class='form-control ng-pristine ng-invalid ng-star-inserted ng-touched'])[1]"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF637A36CF5+28821]
+	(No symbol) [0x00007FF6379A3880]
+	(No symbol) [0x00007FF63784578A]
+	(No symbol) [0x00007FF6378991BE]
+	(No symbol) [0x00007FF6378994AC]
+	(No symbol) [0x00007FF6378E2647]
+	(No symbol) [0x00007FF6378BF33F]
+	(No symbol) [0x00007FF6378DF412]
+	(No symbol) [0x00007FF6378BF0A3]
+	(No symbol) [0x00007FF63788A778]
+	(No symbol) [0x00007FF63788B8E1]
+	GetHandleVerifier [0x00007FF637D6FCED+3408013]
+	GetHandleVerifier [0x00007FF637D8745F+3504127]
+	GetHandleVerifier [0x00007FF637D7B63D+3455453]
+	GetHandleVerifier [0x00007FF637AFBDFB+835995]
+	(No symbol) [0x00007FF6379AEB9F]
+	(No symbol) [0x00007FF6379AA854]
+	(No symbol) [0x00007FF6379AA9ED]
+	(No symbol) [0x00007FF63799A1D9]
+	BaseThreadInitThunk [0x00007FFE15207374+20]
+	RtlUserThreadStart [0x00007FFE1625CC91+33]
+
+2024-12-07 18:07:32,897 - INFO - Closing the browser

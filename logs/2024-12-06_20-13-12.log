@@ -1,0 +1,44 @@
+2024-12-06 20:13:12,616 - INFO - Initializing WebDriver for Chrome
+2024-12-06 20:13:16,661 - INFO - Opening IRCTC homepage
+2024-12-06 20:13:23,511 - INFO - Test Case 1 Passed
+2024-12-06 20:13:23,511 - INFO - Clicking on Login Button
+2024-12-06 20:13:24,002 - INFO - Clicked on Login Button
+2024-12-06 20:13:26,257 - INFO - Locating and entering username
+2024-12-06 20:13:28,699 - INFO - Entered username
+2024-12-06 20:13:28,700 - INFO - Locating and entering password
+2024-12-06 20:13:31,072 - INFO - Entered password
+2024-12-06 20:13:31,073 - INFO - Finding the captcha code and storing in png file
+2024-12-06 20:13:31,100 - INFO - extracting the captcha code and saving in png file
+2024-12-06 20:13:31,399 - INFO - extracting the captcha code text
+2024-12-06 20:13:32,236 - INFO - extracted the captcha code text
+2024-12-06 20:13:32,237 - INFO - Locating and entering Captcha
+2024-12-06 20:13:32,578 - INFO - Entered Captcha
+2024-12-06 20:13:36,794 - ERROR - An error occurred: Message: element click intercepted: Element <button _ngcontent-hnh-c67="" type="submit" label="Find Trains" class="search_btn train_...">Search</button> is not clickable at point (169, 576). Other element would receive the click: <div class="ng-tns-c19-13 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1000;">...</div>
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A59B6CF5+28821]
+	(No symbol) [0x00007FF7A5923880]
+	(No symbol) [0x00007FF7A57C578A]
+	(No symbol) [0x00007FF7A5820E8E]
+	(No symbol) [0x00007FF7A581E92C]
+	(No symbol) [0x00007FF7A581BAF6]
+	(No symbol) [0x00007FF7A581AA51]
+	(No symbol) [0x00007FF7A580CBA0]
+	(No symbol) [0x00007FF7A583F2FA]
+	(No symbol) [0x00007FF7A580C3F6]
+	(No symbol) [0x00007FF7A583F510]
+	(No symbol) [0x00007FF7A585F412]
+	(No symbol) [0x00007FF7A583F0A3]
+	(No symbol) [0x00007FF7A580A778]
+	(No symbol) [0x00007FF7A580B8E1]
+	GetHandleVerifier [0x00007FF7A5CEFCED+3408013]
+	GetHandleVerifier [0x00007FF7A5D0745F+3504127]
+	GetHandleVerifier [0x00007FF7A5CFB63D+3455453]
+	GetHandleVerifier [0x00007FF7A5A7BDFB+835995]
+	(No symbol) [0x00007FF7A592EB9F]
+	(No symbol) [0x00007FF7A592A854]
+	(No symbol) [0x00007FF7A592A9ED]
+	(No symbol) [0x00007FF7A591A1D9]
+	BaseThreadInitThunk [0x00007FFE403D7374+20]
+	RtlUserThreadStart [0x00007FFE414FCC91+33]
+

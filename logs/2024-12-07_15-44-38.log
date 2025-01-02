@@ -1,0 +1,38 @@
+2024-12-07 15:44:38,311 - INFO - Initializing WebDriver for Chrome
+2024-12-07 15:44:42,020 - INFO - Opening IRCTC homepage
+2024-12-07 15:45:02,817 - INFO - Homepage opened successfully
+2024-12-07 15:45:02,817 - INFO - Test Case 1 Passed
+2024-12-07 15:45:02,818 - INFO - Entering source station
+2024-12-07 15:45:04,809 - INFO - Entering destination station
+2024-12-07 15:45:06,452 - INFO - Entering journey date
+2024-12-07 15:45:07,065 - INFO - Selecting class of journey
+2024-12-07 15:45:07,852 - INFO - Checking concession checkbox
+2024-12-07 15:45:08,234 - INFO - Closing concession popup
+2024-12-07 15:45:08,517 - INFO - Finding trains
+2024-12-07 15:45:08,868 - INFO - Selecting train
+2024-12-07 15:45:08,905 - ERROR - Failed to book train: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'train-heading')]//strong[contains(text(), 'LTT PATNA EXP (13202)')]"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7506CF5+28821]
+	(No symbol) [0x00007FF7A7473880]
+	(No symbol) [0x00007FF7A731578A]
+	(No symbol) [0x00007FF7A73691BE]
+	(No symbol) [0x00007FF7A73694AC]
+	(No symbol) [0x00007FF7A73B2647]
+	(No symbol) [0x00007FF7A738F33F]
+	(No symbol) [0x00007FF7A73AF412]
+	(No symbol) [0x00007FF7A738F0A3]
+	(No symbol) [0x00007FF7A735A778]
+	(No symbol) [0x00007FF7A735B8E1]
+	GetHandleVerifier [0x00007FF7A783FCED+3408013]
+	GetHandleVerifier [0x00007FF7A785745F+3504127]
+	GetHandleVerifier [0x00007FF7A784B63D+3455453]
+	GetHandleVerifier [0x00007FF7A75CBDFB+835995]
+	(No symbol) [0x00007FF7A747EB9F]
+	(No symbol) [0x00007FF7A747A854]
+	(No symbol) [0x00007FF7A747A9ED]
+	(No symbol) [0x00007FF7A746A1D9]
+	BaseThreadInitThunk [0x00007FFE15207374+20]
+	RtlUserThreadStart [0x00007FFE1625CC91+33]
+
+2024-12-07 15:45:13,918 - INFO - Closing the browser

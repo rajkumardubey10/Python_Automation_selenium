@@ -1,0 +1,95 @@
+2024-12-07 15:02:06,350 - INFO - Initializing WebDriver for Chrome
+2024-12-07 15:02:10,179 - INFO - Opening IRCTC homepage
+2024-12-07 15:02:20,191 - INFO - Homepage opened successfully
+2024-12-07 15:02:20,192 - INFO - Test Case 1 Passed
+2024-12-07 15:02:20,193 - INFO - Entering source station
+2024-12-07 15:02:22,953 - INFO - Entering destination station
+2024-12-07 15:02:24,231 - INFO - Entering journey date
+2024-12-07 15:02:24,866 - INFO - Selecting class of journey
+2024-12-07 15:02:25,665 - INFO - Checking concession checkbox
+2024-12-07 15:02:26,042 - INFO - Closing concession popup
+2024-12-07 15:02:26,348 - INFO - Finding trains
+2024-12-07 15:02:26,795 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'train-heading')]//strong[contains(text(), 'LTT PATNA EXP (13202)')]"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7506CF5+28821]
+	(No symbol) [0x00007FF7A7473880]
+	(No symbol) [0x00007FF7A731578A]
+	(No symbol) [0x00007FF7A73691BE]
+	(No symbol) [0x00007FF7A73694AC]
+	(No symbol) [0x00007FF7A73B2647]
+	(No symbol) [0x00007FF7A738F33F]
+	(No symbol) [0x00007FF7A73AF412]
+	(No symbol) [0x00007FF7A738F0A3]
+	(No symbol) [0x00007FF7A735A778]
+	(No symbol) [0x00007FF7A735B8E1]
+	GetHandleVerifier [0x00007FF7A783FCED+3408013]
+	GetHandleVerifier [0x00007FF7A785745F+3504127]
+	GetHandleVerifier [0x00007FF7A784B63D+3455453]
+	GetHandleVerifier [0x00007FF7A75CBDFB+835995]
+	(No symbol) [0x00007FF7A747EB9F]
+	(No symbol) [0x00007FF7A747A854]
+	(No symbol) [0x00007FF7A747A9ED]
+	(No symbol) [0x00007FF7A746A1D9]
+	BaseThreadInitThunk [0x00007FFE15207374+20]
+	RtlUserThreadStart [0x00007FFE1625CC91+33]
+
+2024-12-07 15:02:26,796 - INFO - Clicking on Login Button
+2024-12-07 15:02:27,921 - INFO - Entering username
+2024-12-07 15:02:30,311 - INFO - Entered username
+2024-12-07 15:02:30,312 - INFO - Entering password
+2024-12-07 15:02:32,750 - INFO - Entered password
+2024-12-07 15:02:32,750 - INFO - Handling CAPTCHA
+2024-12-07 15:02:33,958 - INFO - Extracted CAPTCHA text: gg@76Q
+2024-12-07 15:02:33,962 - INFO - Locating and entering Captcha
+2024-12-07 15:02:34,000 - ERROR - Error during login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[formcontrolname="captcha"]"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7506CF5+28821]
+	(No symbol) [0x00007FF7A7473880]
+	(No symbol) [0x00007FF7A731578A]
+	(No symbol) [0x00007FF7A73691BE]
+	(No symbol) [0x00007FF7A73694AC]
+	(No symbol) [0x00007FF7A73B2647]
+	(No symbol) [0x00007FF7A738F33F]
+	(No symbol) [0x00007FF7A73AF412]
+	(No symbol) [0x00007FF7A738F0A3]
+	(No symbol) [0x00007FF7A735A778]
+	(No symbol) [0x00007FF7A735B8E1]
+	GetHandleVerifier [0x00007FF7A783FCED+3408013]
+	GetHandleVerifier [0x00007FF7A785745F+3504127]
+	GetHandleVerifier [0x00007FF7A784B63D+3455453]
+	GetHandleVerifier [0x00007FF7A75CBDFB+835995]
+	(No symbol) [0x00007FF7A747EB9F]
+	(No symbol) [0x00007FF7A747A854]
+	(No symbol) [0x00007FF7A747A9ED]
+	(No symbol) [0x00007FF7A746A1D9]
+	BaseThreadInitThunk [0x00007FFE15207374+20]
+	RtlUserThreadStart [0x00007FFE1625CC91+33]
+
+2024-12-07 15:02:34,001 - ERROR - An unexpected error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[formcontrolname="captcha"]"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7506CF5+28821]
+	(No symbol) [0x00007FF7A7473880]
+	(No symbol) [0x00007FF7A731578A]
+	(No symbol) [0x00007FF7A73691BE]
+	(No symbol) [0x00007FF7A73694AC]
+	(No symbol) [0x00007FF7A73B2647]
+	(No symbol) [0x00007FF7A738F33F]
+	(No symbol) [0x00007FF7A73AF412]
+	(No symbol) [0x00007FF7A738F0A3]
+	(No symbol) [0x00007FF7A735A778]
+	(No symbol) [0x00007FF7A735B8E1]
+	GetHandleVerifier [0x00007FF7A783FCED+3408013]
+	GetHandleVerifier [0x00007FF7A785745F+3504127]
+	GetHandleVerifier [0x00007FF7A784B63D+3455453]
+	GetHandleVerifier [0x00007FF7A75CBDFB+835995]
+	(No symbol) [0x00007FF7A747EB9F]
+	(No symbol) [0x00007FF7A747A854]
+	(No symbol) [0x00007FF7A747A9ED]
+	(No symbol) [0x00007FF7A746A1D9]
+	BaseThreadInitThunk [0x00007FFE15207374+20]
+	RtlUserThreadStart [0x00007FFE1625CC91+33]
+
+2024-12-07 15:02:39,015 - INFO - Closing the browser

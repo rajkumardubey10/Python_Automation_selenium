@@ -1,0 +1,55 @@
+2024-12-07 15:50:03,998 - INFO - Initializing WebDriver for Chrome
+2024-12-07 15:50:07,771 - INFO - Opening IRCTC homepage
+2024-12-07 15:50:08,238 - INFO - Test Case 1 Passed
+2024-12-07 15:50:08,238 - INFO - Enter the source 
+2024-12-07 15:50:33,865 - INFO - Entered Source
+2024-12-07 15:50:33,866 - INFO - Enter the Destination 
+2024-12-07 15:50:35,144 - INFO - Entering the date
+2024-12-07 15:50:35,890 - INFO - Entered the date
+2024-12-07 15:50:35,890 - INFO - Waiting for class selection dropdown
+2024-12-07 15:50:36,380 - INFO - Selecting travel class
+2024-12-07 15:50:37,067 - INFO - Clicked Checkbox
+2024-12-07 15:50:37,069 - INFO - trying for closing popup window by ok
+2024-12-07 15:50:37,321 - INFO - closed popups
+2024-12-07 15:50:42,570 - INFO - Searching Train 
+2024-12-07 15:50:45,572 - INFO - Test Cases 3 passed
+2024-12-07 15:50:48,679 - INFO - Find the Train Name
+2024-12-07 15:50:48,679 - INFO - refreshing and checking available seats
+2024-12-07 15:50:48,863 - INFO - refreshing done
+2024-12-07 15:50:50,868 - INFO - Selecting date for journey
+2024-12-07 15:50:51,042 - INFO - Selected date
+2024-12-07 15:50:51,043 - INFO - pressing book button
+2024-12-07 15:50:51,373 - INFO - pressed book button
+2024-12-07 15:50:51,373 - INFO - Test Cases 4 passed
+2024-12-07 15:50:51,374 - INFO - Clicking on Login Button
+2024-12-07 15:50:52,688 - ERROR - An error occurred: Message: element click intercepted: Element <a _ngcontent-opg-c48="" tabindex="0" aria-label="Click here to Login in application" class="search_btn loginText ng-star-inserted">...</a> is not clickable at point (261, 27). Other element would receive the click: <div class="ng-tns-c19-52 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted" style="z-index: 1007;">...</div>
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7506CF5+28821]
+	(No symbol) [0x00007FF7A7473880]
+	(No symbol) [0x00007FF7A731578A]
+	(No symbol) [0x00007FF7A7370E8E]
+	(No symbol) [0x00007FF7A736E92C]
+	(No symbol) [0x00007FF7A736BAF6]
+	(No symbol) [0x00007FF7A736AA51]
+	(No symbol) [0x00007FF7A735CBA0]
+	(No symbol) [0x00007FF7A738F2FA]
+	(No symbol) [0x00007FF7A735C3F6]
+	(No symbol) [0x00007FF7A738F510]
+	(No symbol) [0x00007FF7A73AF412]
+	(No symbol) [0x00007FF7A738F0A3]
+	(No symbol) [0x00007FF7A735A778]
+	(No symbol) [0x00007FF7A735B8E1]
+	GetHandleVerifier [0x00007FF7A783FCED+3408013]
+	GetHandleVerifier [0x00007FF7A785745F+3504127]
+	GetHandleVerifier [0x00007FF7A784B63D+3455453]
+	GetHandleVerifier [0x00007FF7A75CBDFB+835995]
+	(No symbol) [0x00007FF7A747EB9F]
+	(No symbol) [0x00007FF7A747A854]
+	(No symbol) [0x00007FF7A747A9ED]
+	(No symbol) [0x00007FF7A746A1D9]
+	BaseThreadInitThunk [0x00007FFE15207374+20]
+	RtlUserThreadStart [0x00007FFE1625CC91+33]
+
+2024-12-07 15:50:57,696 - INFO - Closing the browser
+2024-12-07 15:50:57,696 - INFO - -----------------------------$-------------------------$------------------------------------------

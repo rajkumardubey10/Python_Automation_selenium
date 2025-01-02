@@ -1,0 +1,60 @@
+2024-12-07 17:44:12,296 - INFO - Initializing WebDriver for Chrome
+2024-12-07 17:44:16,331 - INFO - Opening IRCTC homepage
+2024-12-07 17:44:23,948 - INFO - Test Case 1 Passed
+2024-12-07 17:44:23,948 - INFO - Enter the source 
+2024-12-07 17:44:43,124 - INFO - Entered Source
+2024-12-07 17:44:43,124 - INFO - Enter the Destination 
+2024-12-07 17:44:44,359 - INFO - Entering the date
+2024-12-07 17:44:45,088 - INFO - Entered the date
+2024-12-07 17:44:45,089 - INFO - Waiting for class selection dropdown
+2024-12-07 17:44:45,488 - INFO - Selecting travel class
+2024-12-07 17:44:46,211 - INFO - Clicked Checkbox
+2024-12-07 17:44:46,212 - INFO - trying for closing popup window by ok
+2024-12-07 17:44:46,460 - INFO - closed popups
+2024-12-07 17:44:51,723 - INFO - Searching Train 
+2024-12-07 17:44:54,734 - INFO - Test Cases 3 passed
+2024-12-07 17:44:57,872 - INFO - Find the Train Name
+2024-12-07 17:44:57,873 - INFO - refreshing and checking available seats
+2024-12-07 17:44:58,104 - INFO - refreshing done
+2024-12-07 17:45:00,109 - INFO - Selecting date for journey
+2024-12-07 17:45:00,284 - INFO - Selected date
+2024-12-07 17:45:00,284 - INFO - pressing book button
+2024-12-07 17:45:00,644 - INFO - pressed book button
+2024-12-07 17:45:00,644 - INFO - Test Cases 4 passed
+2024-12-07 17:45:01,278 - INFO - Locating and entering username
+2024-12-07 17:45:03,600 - INFO - Entered username
+2024-12-07 17:45:03,600 - INFO - Locating and entering password
+2024-12-07 17:45:05,945 - INFO - Entered password
+2024-12-07 17:45:05,945 - INFO - Finding the captcha code and storing in png file
+2024-12-07 17:45:05,982 - INFO - extracting the captcha code and saving in png file
+2024-12-07 17:45:06,120 - INFO - extracting the captcha code text
+2024-12-07 17:45:06,648 - INFO - extracted the captcha code text
+2024-12-07 17:45:06,649 - INFO - Locating and entering Captcha
+2024-12-07 17:45:06,980 - INFO - Entered Captcha
+2024-12-07 17:45:12,015 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="login_header_disable"]/div/div/div[2]/div[2]/div/div[2]/div/div[2]/form/span/button"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF637A36CF5+28821]
+	(No symbol) [0x00007FF6379A3880]
+	(No symbol) [0x00007FF63784578A]
+	(No symbol) [0x00007FF6378991BE]
+	(No symbol) [0x00007FF6378994AC]
+	(No symbol) [0x00007FF6378E2647]
+	(No symbol) [0x00007FF6378BF33F]
+	(No symbol) [0x00007FF6378DF412]
+	(No symbol) [0x00007FF6378BF0A3]
+	(No symbol) [0x00007FF63788A778]
+	(No symbol) [0x00007FF63788B8E1]
+	GetHandleVerifier [0x00007FF637D6FCED+3408013]
+	GetHandleVerifier [0x00007FF637D8745F+3504127]
+	GetHandleVerifier [0x00007FF637D7B63D+3455453]
+	GetHandleVerifier [0x00007FF637AFBDFB+835995]
+	(No symbol) [0x00007FF6379AEB9F]
+	(No symbol) [0x00007FF6379AA854]
+	(No symbol) [0x00007FF6379AA9ED]
+	(No symbol) [0x00007FF63799A1D9]
+	BaseThreadInitThunk [0x00007FFE15207374+20]
+	RtlUserThreadStart [0x00007FFE1625CC91+33]
+
+2024-12-07 17:45:17,031 - INFO - Closing the browser
+2024-12-07 17:45:17,031 - INFO - -----------------------------$-------------------------$------------------------------------------

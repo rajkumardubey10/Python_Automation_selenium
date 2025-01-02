@@ -1,0 +1,44 @@
+2024-12-07 14:43:47,069 - INFO - Initializing WebDriver for Chrome
+2024-12-07 14:43:50,846 - INFO - Opening IRCTC homepage
+2024-12-07 14:43:51,091 - INFO - Test Case 1 Passed
+2024-12-07 14:43:51,091 - INFO - Enter the source 
+2024-12-07 14:44:14,859 - INFO - Entered Source
+2024-12-07 14:44:14,859 - INFO - Enter the Destination 
+2024-12-07 14:44:16,164 - INFO - Entering the date
+2024-12-07 14:44:16,751 - INFO - Entered the date
+2024-12-07 14:44:16,751 - INFO - Waiting for class selection dropdown
+2024-12-07 14:44:17,282 - INFO - Selecting travel class
+2024-12-07 14:44:18,070 - INFO - Clicked Checkbox
+2024-12-07 14:44:18,071 - INFO - trying for closing popup window by ok
+2024-12-07 14:44:18,293 - INFO - closed popups
+2024-12-07 14:44:23,549 - INFO - Searching Train 
+2024-12-07 14:44:26,555 - INFO - Test Cases 3 passed
+2024-12-07 14:44:29,679 - INFO - Find the Train Name
+2024-12-07 14:44:29,679 - INFO - refreshing and checking available seats
+2024-12-07 14:44:29,705 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="divMain"]/div/app-train-list/div[4]/div/div[5]/div[5]/div[1]/app-train-avl-enq/div[1]/div[5]/div[1]/table/tr/td[5]/div/div[2]/span"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7506CF5+28821]
+	(No symbol) [0x00007FF7A7473880]
+	(No symbol) [0x00007FF7A731578A]
+	(No symbol) [0x00007FF7A73691BE]
+	(No symbol) [0x00007FF7A73694AC]
+	(No symbol) [0x00007FF7A73B2647]
+	(No symbol) [0x00007FF7A738F33F]
+	(No symbol) [0x00007FF7A73AF412]
+	(No symbol) [0x00007FF7A738F0A3]
+	(No symbol) [0x00007FF7A735A778]
+	(No symbol) [0x00007FF7A735B8E1]
+	GetHandleVerifier [0x00007FF7A783FCED+3408013]
+	GetHandleVerifier [0x00007FF7A785745F+3504127]
+	GetHandleVerifier [0x00007FF7A784B63D+3455453]
+	GetHandleVerifier [0x00007FF7A75CBDFB+835995]
+	(No symbol) [0x00007FF7A747EB9F]
+	(No symbol) [0x00007FF7A747A854]
+	(No symbol) [0x00007FF7A747A9ED]
+	(No symbol) [0x00007FF7A746A1D9]
+	BaseThreadInitThunk [0x00007FFE15207374+20]
+	RtlUserThreadStart [0x00007FFE1625CC91+33]
+
+2024-12-07 14:44:34,719 - INFO - Closing the browser
+2024-12-07 14:44:34,719 - INFO - -----------------------------$-------------------------$------------------------------------------

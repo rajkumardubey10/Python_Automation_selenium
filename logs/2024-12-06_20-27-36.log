@@ -1,0 +1,31 @@
+2024-12-06 20:27:36,709 - INFO - Initializing WebDriver for Chrome
+2024-12-06 20:27:40,578 - INFO - Opening IRCTC homepage
+2024-12-06 20:27:49,984 - INFO - Test Case 1 Passed
+2024-12-06 20:27:49,984 - INFO - Clicking on Login Button
+2024-12-06 20:27:50,400 - INFO - Clicked on Login Button
+2024-12-06 20:27:51,629 - INFO - Locating and entering username
+2024-12-06 20:27:53,995 - INFO - Entered username
+2024-12-06 20:27:53,995 - INFO - Locating and entering password
+2024-12-06 20:27:56,476 - INFO - Entered password
+2024-12-06 20:27:56,477 - INFO - Finding the captcha code and storing in png file
+2024-12-06 20:27:56,508 - INFO - extracting the captcha code and saving in png file
+2024-12-06 20:27:56,731 - INFO - extracting the captcha code text
+2024-12-06 20:27:57,486 - INFO - extracted the captcha code text
+2024-12-06 20:27:57,493 - INFO - Locating and entering Captcha
+2024-12-06 20:27:57,912 - INFO - Entered Captcha
+2024-12-06 20:28:03,458 - INFO - Login Successfully !
+2024-12-06 20:28:03,459 - INFO - Test Case 2 Passed
+2024-12-06 20:28:03,459 - INFO - Enter the source 
+2024-12-06 20:28:05,046 - INFO - Entered Source
+2024-12-06 20:28:05,046 - INFO - Enter the Destination 
+2024-12-06 20:28:06,436 - INFO - Entering the date
+2024-12-06 20:28:07,010 - INFO - Entered the date
+2024-12-06 20:28:07,011 - INFO - Waiting for class selection dropdown
+2024-12-06 20:28:07,625 - INFO - Selecting travel class
+2024-12-06 20:28:08,251 - INFO - Clicked Checkbox
+2024-12-06 20:28:08,252 - INFO - trying for closing popup window by ok
+2024-12-06 20:28:08,480 - INFO - closed popups
+2024-12-06 20:28:13,749 - INFO - Searching Train 
+2024-12-06 20:28:16,758 - INFO - Test Cases 3 passed
+2024-12-06 20:28:21,763 - INFO - Closing the browser
+2024-12-06 20:28:21,763 - INFO - -----------------------------$-------------------------$------------------------------------------
