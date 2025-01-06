@@ -54,8 +54,46 @@ Follow the steps below to set up and run the Selenium automation project:
 
 1.Clone the Repository
 
-### Clone the project repository to your local machine using the following command:
-``` git clone https://github.com/rajkumardubey10/Python_Automation_selenium.git ```
+#### Clone the project repository to your local machine using the following command:
+``` 
+git clone https://github.com/rajkumardubey10/Python_Automation_selenium.git
+```
       
-### Enter into directory:
-```cd Python_Automation_selenium```
+#### Enter into directory:
+```
+cd Python_Automation_selenium
+```
+2. Set Up a Virtual Environment (Optional but Recommended)
+   
+Create and activate a virtual environment to isolate project dependencies:
+```
+python -m venv venv
+source venv/bin/activate      # For Linux/Mac
+venv\Scripts\activate         # For Windows
+```
+3. Install Dependencies
+Install the required Python packages using pip:
+```
+pip install -r requirements.txt
+```
+4. Set Up Environment Variables
+Create a .env file in the project root directory and add the following environment variables for secure credential storage:
+```
+USER_NAME=your_username
+PASSWORD=your_password
+```
+5. Download WebDriver
+Ensure you have the appropriate WebDriver installed for your browser (e.g., ChromeDriver for Google Chrome).
+Place the WebDriver executable in a directory included in your system's PATH.
+
+6. Run the Automation Script
+Execute the script using Python:
+```
+python automation_script.py
+```
+7. Log Output
+Check the console or log files for detailed outputs and error messages.
+Logs are automatically created to help debug and monitor the script’s execution.
+
+8. View Test Cases
+Test cases are documented in the `test_cases.xlsx` file for review and validation.
