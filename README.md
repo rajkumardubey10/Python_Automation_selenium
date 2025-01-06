@@ -48,3 +48,14 @@ This project showcases an advanced train booking automation system built using S
 - Reduced Manual Effort: Automated workflows cut manual intervention by 90%.
 - Faster Booking: Reduced booking time by 60% without compromising scalability.
 
+## Setup For Running Project
+
+Follow the steps below to set up and run the Selenium automation project:
+
+1.Clone the Repository
+
+### Clone the project repository to your local machine using the following command:
+``` git clone https://github.com/rajkumardubey10/Python_Automation_selenium.git ```
+      
+### Enter into directory:
+```cd Python_Automation_selenium```
