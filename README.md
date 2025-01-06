@@ -3,6 +3,11 @@
 ## Project Overview 
 This project showcases an advanced train booking automation system built using Selenium WebDriver. The system automates the end-to-end booking process on the IRCTC platform, including train selection, dynamic drop-down handling, CAPTCHA solving using Tesseract OCR, and ticket booking. The project emphasizes efficiency, reliability, and scalability, with significant improvements in booking accuracy and reduced manual effort.
 
+![Python 3.9](https://img.shields.io/badge/Python-3.9-yellow.svg)
+![Selenium](https://img.shields.io/badge/Selenium-4.27.1-drakgreen.svg)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-5.x-blue.svg)
+![ChromeDriver](https://img.shields.io/badge/ChromeDriver-115+-red.svg)
+
 ## Prerequisites
 - Python 3.7+
 - Google Chrome Browser
