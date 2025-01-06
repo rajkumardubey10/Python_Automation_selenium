@@ -37,6 +37,11 @@ This project showcases an advanced train booking automation system built using S
 - Optimization: Reduced manual intervention by 90% with environment variables and automated workflows.
 - Error Handling and Logging: Enhanced reliability with detailed logging and error management.
 
+## Screeshots
+### Logs Screeshot
+![irctc_selenium_logs](https://github.com/user-attachments/assets/b8264582-b1e8-4940-9f14-2b33a4196631)
+
+
 ## Performance Achievements
 - Improved Booking Accuracy: Achieved an 80% increase in booking accuracy through automation.
 - Reduced Failure Rates: Enhanced reliability with error handling, reducing failures by 70%.
